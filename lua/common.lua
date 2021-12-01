@@ -188,26 +188,35 @@ function wesnoth.wml_actions.set_facing(cfg)
 end
 
 ---
--- Installs mechanical "Door" units on *^Z\ and *^Z/ hexes
--- using the given owner side.
+-- Spawns mechanical "Door" units on gate terrain hexes.
 --
 -- [setup_doors]
---     side=3
+--     side=(side number)
+--     terrain=(optional terrain filter string, default "*^Z\,*^Z/")
+--     ... optional SLF ...
 -- [/setup_doors]
 ---
 function wesnoth.wml_actions.setup_doors(cfg)
-	local locs = wesnoth.map.find {
-		terrain = "*^Z\\",
-		{ "or", { terrain = "*^Z/" } },
-		{ "not", { { "filter", {} } } },
-	}
+	local owner_side = cfg.side or
+		wml.error("[setup_doors] No owner side= specified")
+
+	cfg = wml.parsed(cfg)
+
+	if cfg.terrain == nil then
+		cfg["terrain"] = "*^P*/,*^P*\\,*^P*|,*^Z\\,*^Z/"
+	end
+
+	cfg.side = nil
+	local locs = wesnoth.get_locations(cfg)
 
 	for k, loc in ipairs(locs) do
-		wesnoth.units.to_map(loc[1], loc[2], {
-			type = "Door",
-			side = cfg.side,
-			id = string.format("__door_X%dY%d", loc[1], loc[2]),
-		})
+		if not wesnoth.units.get(loc[1], loc[2]) then
+			wesnoth.units.to_map({
+				type = "Door",
+				side = owner_side,
+				id = ("__door_X%dY%d"):format(loc[1], loc[2]),
+			}, loc[1], loc[2])
+		end
 	end
 end
 
@@ -282,11 +291,12 @@ end
 -- [/remove_terrain_overlays]
 ---
 function wesnoth.wml_actions.remove_terrain_overlays(cfg)
-	local locs = wesnoth.map.find(cfg)
+	local locs = wesnoth.get_locations(cfg)
 
 	for i, loc in ipairs(locs) do
-		local locstr = map[(loc[1], loc[2])]
-		map[(loc[1], loc[2], string.gsub(locstr, "%^.*$", ""))]
+		local locstr = wesnoth.get_terrain(loc[1], loc[2])
+		local newstr = string.gsub(locstr, "%^.*$", "")
+		wesnoth.set_terrain(loc[1], loc[2], newstr)
 	end
 end
 
