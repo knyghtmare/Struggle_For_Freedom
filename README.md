@@ -1,2 +1,2 @@
-# Struggle_For_Freedom
+# Struggle For Freedom
  SP Campaign for the Battle for Wesnoth. 
