@@ -12,6 +12,8 @@
     I did the whole thing on just elves and recallable outlaw units so this should not be doing much
 --> S2: smarted AI
 --> S2: fixed a broken sighted event
+--> S4: fixed broken events
+--> S4: 
 
 0.3.3
 --> ported to 1.16
