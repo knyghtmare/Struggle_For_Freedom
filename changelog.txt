@@ -10,6 +10,8 @@
 --> S5: merc units -> outlaw units
 --> S7,S10: No more merc recruits.
     I did the whole thing on just elves and recallable outlaw units so this should not be doing much
+--> S2: smarted AI
+--> S2: fixed a broken sighted event
 
 0.3.3
 --> ported to 1.16
