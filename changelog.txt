@@ -16,6 +16,8 @@
 --> S4: added smarter AI
 --> S4: patched up any broken events
 --> S5: smarter AI
+--> added new chaos units
+--> S6: Smarter AI for the enemy side
 
 0.3.3
 --> ported to 1.16
