@@ -18,6 +18,7 @@
 --> S5: smarter AI
 --> added new chaos units
 --> S6: Smarter AI for the enemy side
+--> new portrait for Xavien
 
 0.3.3
 --> ported to 1.16
