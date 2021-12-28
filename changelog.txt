@@ -19,6 +19,7 @@
 --> added new chaos units
 --> S6: Smarter AI for the enemy side
 --> new portrait for Xavien
+--> S7: actually gave player some starting gold
 
 0.3.3
 --> ported to 1.16
