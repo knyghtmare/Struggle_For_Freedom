@@ -20,6 +20,7 @@
 --> S6: Smarter AI for the enemy side
 --> new portrait for Xavien
 --> S7: actually gave player some starting gold
+--> S8AB: Made the final boss more challenging
 
 0.3.3
 --> ported to 1.16
