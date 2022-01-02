@@ -1,4 +1,4 @@
-1.0.0
+0.4.0
 --> S1: AI adjusted to be smarter for all AI-controlled sides
 --> S2: fixed a broken sighted event
 --> S7: accounted for lvl 4 player in code
