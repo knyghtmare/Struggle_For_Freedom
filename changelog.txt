@@ -1,4 +1,4 @@
-0.4.0
+1.0.0
 --> S1: AI adjusted to be smarter for all AI-controlled sides
 --> S2: fixed a broken sighted event
 --> S7: accounted for lvl 4 player in code
@@ -23,6 +23,7 @@
 --> S8AB: Made the final boss more challenging
 --> updated outdated demon and chaos units
 --> S8B: rebalance turns 
+--> Addresses all feedback from Konrad2
 
 0.3.3
 --> ported to 1.16
