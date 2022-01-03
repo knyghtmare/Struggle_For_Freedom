@@ -24,6 +24,8 @@
 --> updated outdated demon and chaos units
 --> S8B: rebalance turns 
 --> Addresses all feedback from Konrad2
+--> Fixed UVollyn's ranged attack animation
+--> new attack icon for UVollyn
 
 0.3.3
 --> ported to 1.16
