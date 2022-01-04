@@ -26,6 +26,7 @@
 --> Addresses all feedback from Konrad2
 --> Fixed UVollyn's ranged attack animation
 --> new attack icon for UVollyn
+--> Added a .pot file for translators
 
 0.3.3
 --> ported to 1.16
