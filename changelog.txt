@@ -1,32 +1,38 @@
-1.0.0
---> S1: AI adjusted to be smarter for all AI-controlled sides
---> S2: fixed a broken sighted event
---> S7: accounted for lvl 4 player in code
---> all: added music playlists
---> S9: fixed a typo
---> S1: The Hero Elven Acolyte Bia has the loyal trait now
---> fixed a broken macro
---> S10: fixed one gryphon rider reinforcement belonging to the wrong side
---> S5: merc units -> outlaw units
---> S7,S10: No more merc recruits.
-    I did the whole thing on just elves and recallable outlaw units so this should not be doing much
---> S2: smarter AI
---> S2: fixed a broken sighted event
---> S4: fixed broken events
---> S4: added smarter AI
---> S4: patched up any broken events
---> S5: smarter AI
---> added new chaos units
---> S6: Smarter AI for the enemy side
---> new portrait for Xavien
---> S7: actually gave player some starting gold
---> S8AB: Made the final boss more challenging
---> updated outdated demon and chaos units
---> S8B: rebalance turns 
---> Addresses all feedback from Konrad2
---> Fixed UVollyn's ranged attack animation
---> new attack icon for UVollyn
---> Added a .pot file for translators
+Changelog 1.0.0
+--> Scenarios:
+    --> S1: AI adjusted to be smarter for all AI-controlled sides
+    --> S1: The Hero Elven Acolyte Bia has the loyal trait now
+    --> S2: fixed a broken sighted event
+    --> S2: smarter AI
+    --> S2: fixed a broken sighted event
+    --> S4: fixed broken events
+    --> S4: added smarter AI
+    --> S4: patched up any broken events
+    --> S5: merc units -> outlaw units
+    --> S5: smarter AI
+    --> S5: No more merc recruits.
+    --> S6: Smarter AI for the enemy side
+    --> S7: actually gave player some starting gold
+    --> S7: accounted for lvl 4 player in code
+    --> S8A: multiple bug patches
+    --> S8B: made end boss more challenging
+    --> S8B: rebalance turns 
+    --> S9: fixed a typo
+    --> S10: fixed one gryphon rider reinforcement belonging to the wrong side
+    --> all: added music playlists
+--> Code:
+    --> fixed a broken macro
+--> Units:
+    --> Removed Unused units
+    --> added new chaos units
+    --> new portrait for Xavien
+    --> S8AB: Made the final boss more challenging
+    --> updated outdated demon and chaos units
+    --> Fixed UVollyn's ranged attack animation
+    --> new attack icon for UVollyn
+--> Misc:
+    --> Addresses all feedback from Konrad2
+    --> Added a .pot file for translators
 
 0.3.3
 --> ported to 1.16
