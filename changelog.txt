@@ -1,3 +1,8 @@
+Changelog 1.0.5
+--> Some explanatory hints added to S1 and S2 start events
+--> updated .pot file
+--> S5: updated objectives being incorrect
+
 Changlog 1.0.4
 --> Scenarios:
     --> S8B: fixed a bug with the wyrms
