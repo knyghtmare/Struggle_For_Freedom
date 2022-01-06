@@ -1,6 +1,7 @@
 Changlog 1.0.4
 --> Scenarios:
     --> S8B: fixed a bug with the wyrms
+    --> all: re-added the AMLA system on request
 
 Changelog 1.0.3
 --> Scenarios:
