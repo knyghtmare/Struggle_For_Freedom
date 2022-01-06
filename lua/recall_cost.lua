@@ -4,7 +4,7 @@
 local cost_lvl_zero = 10 
 local cost_lvl_one = 15
 
-for _, unit in ipairs(wesnoth.get_recall_units {}) do
+for _, unit in ipairs(wesnoth.units.find_on_recall {}) do
     if unit.level == 0 then
         unit.recall_cost = cost_lvl_zero
     end

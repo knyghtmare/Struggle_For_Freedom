@@ -207,7 +207,7 @@ function wesnoth.wml_actions.setup_doors(cfg)
 	end
 
 	cfg.side = nil
-	local locs = wesnoth.get_locations(cfg)
+	local locs = wesnoth.map.find(cfg)
 
 	for k, loc in ipairs(locs) do
 		if not wesnoth.units.get(loc[1], loc[2]) then
@@ -291,7 +291,7 @@ end
 -- [/remove_terrain_overlays]
 ---
 function wesnoth.wml_actions.remove_terrain_overlays(cfg)
-	local locs = wesnoth.get_locations(cfg)
+	local locs = wesnoth.map.find(cfg)
 
 	for i, loc in ipairs(locs) do
 		local locstr = wesnoth.get_terrain(loc[1], loc[2])
