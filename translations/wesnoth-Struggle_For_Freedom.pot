@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-01-04 17:12 UTC\n"
+"POT-Creation-Date: 2022-01-06 20:17 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -68,7 +68,7 @@ msgid "Feedback and bug reports: "
 msgstr ""
 
 #. [editor_group]: id=wesnoth-UMC-Struggle-For-Freedom
-#: Struggle_For_Freedom/_main.cfg:103
+#: Struggle_For_Freedom/_main.cfg:108
 msgid "Struggle For Freedom (custom terrains)"
 msgstr ""
 
@@ -439,7 +439,7 @@ msgstr ""
 #. [objectives]
 #: Struggle_For_Freedom/scenarios/01_Incursion_On_The_Western_Glades.cfg:180
 #: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:182
-#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:380
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:381
 #: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:270
 #: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:591
 #: Struggle_For_Freedom/scenarios/06_The_Courtyard.cfg:196
@@ -462,7 +462,7 @@ msgstr ""
 #. [objectives]
 #: Struggle_For_Freedom/scenarios/01_Incursion_On_The_Western_Glades.cfg:181
 #: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:183
-#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:381
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:382
 #: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:271
 #: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:592
 #: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:140
@@ -538,7 +538,7 @@ msgstr ""
 
 #. [event]
 #: Struggle_For_Freedom/scenarios/01_Incursion_On_The_Western_Glades.cfg:243
-msgid "Hint: It is critical that you upgrade your leader and heroes in this campaign."
+msgid "Hint: It is critical that you upgrade your leader and heroes in this campaign. Additionally, once your units reach their maximum possible level, you can right-click on them to preview possible AMLA choices which have been made available."
 msgstr ""
 
 #. [event]
@@ -658,13 +658,13 @@ msgstr ""
 
 #. [objectives]
 #: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:180
-#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:378
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:379
 msgid "Uvollyn reaches the dwarvish castle"
 msgstr ""
 
 #. [objectives]
 #: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:181
-#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:379
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:380
 #: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:269
 #: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:590
 msgid "BONUS: Defeat all enemy leaders"
@@ -722,82 +722,87 @@ msgid "......"
 msgstr ""
 
 #. [event]
-#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:267
-msgid "You sssshall not passss here."
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:253
+msgid "Hint: Recall costs have been modified for this campaign. Level 1 units cost 15 gold to recall."
 msgstr ""
 
 #. [event]
 #: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:268
-msgid "I'm sorry, but we must cross at this point. Now stand aside, or face the wrath of the elves!"
+msgid "You sssshall not passss here."
 msgstr ""
 
 #. [event]
 #: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:269
+msgid "I'm sorry, but we must cross at this point. Now stand aside, or face the wrath of the elves!"
+msgstr ""
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:270
 msgid "Ssssslay them!"
 msgstr ""
 
 #. [unit]: type=Saurian Warden, id=Earaelix
-#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:275
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:276
 msgid "Earaelix"
 msgstr ""
 
 #. [event]
-#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:320
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:321
 msgid "Lyana"
 msgstr ""
 
 #. [event]
-#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:337
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:338
 msgid "Halt! Who passes?"
 msgstr ""
 
 #. [event]
-#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:338
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:339
 msgid "Commander, we've encountered beastfolk. They seem to be guarding a settlement.  We may be able to avoid them by heading west."
 msgstr ""
 
 #. [event]
-#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:339
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:340
 msgid "I fear leaving any enemies alive behind us will jeopardise our mission. But we can't dally here, we must make haste. I leave the decision to you, Uvollyn."
 msgstr ""
 
 #. [event]
-#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:352
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:353
 msgid "Hail elves! Well met, we saw you run into these beastfolk and am here to bash some heads."
 msgstr ""
 
 #. [event]
-#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:353
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:354
 msgid "Thank you, we are grateful for the assistance. Commander, the dwarvish keep is just ahead."
 msgstr ""
 
 #. [event]
-#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:361
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:362
 msgid "Argh! Defeated... by elves."
 msgstr ""
 
 #. [event]
-#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:369
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:370
 msgid "Hisss....."
 msgstr ""
 
 #. [event]
-#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:398
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:399
 msgid "Thank you for your assistance with those beastfolk."
 msgstr ""
 
 #. [event]
-#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:399
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:400
 msgid "And who might you be, laddie?"
 msgstr ""
 
 #. [event]
-#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:400
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:401
 msgid "I am Uvollyn, a commander in the army of the Eastern elves. We want to talk to your king about an alliance that he proposed."
 msgstr ""
 
 #. [event]
-#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:401
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:402
 msgid "Aye, very well then, we hae been looking out for you. Come with me."
 msgstr ""
 
@@ -1265,6 +1270,8 @@ msgstr ""
 
 #. [objectives]
 #: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:138
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:390
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:464
 msgid "Reach the end of the western road with the transport"
 msgstr ""
 
@@ -1562,13 +1569,6 @@ msgid "We are in your debt. We will help you for now."
 msgstr ""
 
 #. [objectives]
-#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:390
-#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:464
-#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:495
-msgid "Reach the end of the western road with Biaraelia"
-msgstr ""
-
-#. [objectives]
 #: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:391
 msgid "Defeat the minotaur leader"
 msgstr ""
@@ -1676,6 +1676,11 @@ msgstr ""
 #. [event]
 #: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:491
 msgid "I have no idea."
+msgstr ""
+
+#. [objectives]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:495
+msgid "Reach the end of the western road with Biaraelia"
 msgstr ""
 
 #. [then]
@@ -4084,6 +4089,37 @@ msgstr ""
 msgid "Event Gate"
 msgstr ""
 
+#: Struggle_For_Freedom/units/demons.cfg:5
+msgid "Abalam,Abbadon,Abigor,Adanor,Aderius,Adramalech,Agaliarept,Agares,Aim,Akvan,Alastar,Aldebaran,Alocer,Amducious,Amdusias,Amon,Ananiel,Andhaka,Andras,Andrealphus,Andromalius,Antares,Apep,Arael,Araqiel,Ares,Ariel,Arioch,Arkanthor,Armaros,Asael,Asag,Asb'el,Ash,Asmodeus,Astaroth,Azariel,Azazel,Baal,Baalberith,Balam,Balberith,Babeal,Baphomet,Baraqel,Barbas,Barbatos,Batariel,Bathin,Beball,Beelzebub,Behamoth,Behemoth,Beleth,Belial,Beliel,Belphegore,Belthazor,Belzebuth,Beowulf,Berith,Beur,Bezaliel,Bifrons,Botis,Buer,Bune,Caim,Calan,Camal,Carniveau,Caror,Castor,Cerberus,Chamos,Charon,Chazaqiel,Chul,Corson,Cronos,Daalberith,Dagon,Daniel,Dantalion,Decarabia,Deimos,Delchor,Demogorgon,Devan,Dubhor,Dumah,Dun,Edan,Edoru,El,Elan,Eligos,Erebus,Espro,Espreon,Eurynomous,Fomalhaut,Flauros,Flereous,Focalor,Foras,Forcas,Forneus,Furcas,Furfur,Gaap,Gader'el,Glasya-Labolas,Goliath,Gusion,Gwiti,Haagenti,Hal,Hade,Hades,Helios,Hephaestus,Humbaba,Hyperion,Iblis,Idoru,Ivan,Ixthal,Izilen,Ipos,Jetral,Jetrel,Jevan,Jevyan,Jutas,Juvart,Kabhanda,Kain,Kairus,Kakko,Kari,Kariel,Karo,Kasadya,Kasdaye,Kimaris,Kobal,Kokabiel,Kokytos,Kri,Krin,Kuno,Kuro,Landar,Lasaroth,Legion,Lempo,Lenthar,Lenvan,Leonard,Leraje,Lix Tetrax,Lor,Lorath,Loriel,Lorez,Lucifer,Lucifuge Rofocale,Maeglhir,Maeglhor,Magnus,Malal,Malphas,Malthus,Mammon,Marchocias,Maricha,Mastema,Melchom,Melchor,Mephisto,Mephistopholes,Mesphito,Merihim,Merloc,Moloch,Morax,Mu,Murdoc,Mulciber,Murmur,Naberius,Nale,Name,Nate,Nati,Nebiros,Neqa'el,Nergal,Nisroch,Noy,Noyga,Noyra,Noyze,Oeillet,Olivier,Optimus,Orcus,Orias,Ornias,Orobas,Ose,Oulotep,Pan,Paimon,Pazuzu,Penemue,Phlegathon,Phenex,Phobos,Pinem'e,Pithius,Piru,Pluto,Procell,Pruflas,Purson,Pytho,Python,Pythos,Rahab,Rahovart,Dune Riderel,Raum,Ravanal,Raven,Razakel,Regent,Regulus,Rimmon,Rhotomago,Ronove,Ronwe,Rosier,Sabnock,Sahaqel,Saleos,Samael,Samigina,Samyaza,Santa,Sariel,Satan,Satanachia,Satariel,Seir,Sephiroth,Sephit,Shaitan,Shamsiel,Shax,Shezmu,Sid,Sidragasum,Sin,Sith,Sitri,Sonnillon,Sorum,Soufflet,Spar,Stolas,Surgat,Tabaet,Taliz,Tamiel,Tan,Tannin,Tar,Tartaros,Taurus,Teeraal,Temeluchus,Thammuz,Thanatos,Theracar,Thor,Thorin,Thurin,Tityos,Triel,Troy,Turiel,Turin,Turon,Umbriel,Urobach,Val,Valac,Valefar,Vapula,Vassago,Verrine,Vine,Vual,Xan,Xandros,Xaphan,Xen,Yael,Yanqui,Yeqon,Yeter'el,Yhangor,Yomiel,Yuki,Zagan,Zama,Zaqiel,Zepar,Zephyros,Zet,Zeth,Zhan,Zhangor,Zhunol,Zort,Zorg,Zudo,Zuno"
+msgstr ""
+
+#: Struggle_For_Freedom/units/demons.cfg:6
+msgid "Aba,Ada,Aderi,Agiel,Agrat-bat-mahlaht,Aisa,Alie,Aly,Alya,Ammit,Amy,Ania,Analia,Anadea,Anadya,Angelia,Anna,Areza,Ariadne,Artien,Ashtaroth,Astarte,Astoreth,Atropos,Azura,Bellatrix,Beryla,Bruxe,Calliope,Charis,Charybdis,Charusse,Chi,Chia,Dana,Dane,Dara,Darma,Decima,Dela,Delepitore,Delirya,Deluna,Demona,Deth,Devila,Devira,Devyan,Dione,Drama,Dul,Duna,Eidyia,Eisheth Zenunil,Elandra,Electra,Elenia,Elestria,Eloh,Elyna,Elynea,Elynia,Elyra,Elyria,Elyssa,Elyza,Empusa,Enea,Eos,Eris,Eryssa,Ethea,Euryale,Evila,Evira,Fae,Faira,Fania,Faria,Fine,Gaia,Gremory,Gresil,Hecate,Hemera,Ira,Irda,Irdya,Irene,Iridya,Iril,Iris,Iruel,Isa,Issyl,Ivana,Ivyel,Izara,Jarla,Jevyan,Juno,Kaia,Kalah,Kalari,Kaleh,Kali,Kana,Karma,Karyna,Kazen,Kendria,Kara,Kia,Kindite,Kuna,Kyrah,Lachesis,Lailah,Lamashtu,Lamia,Lara,Leliel,Lethe,Leviathan,Lilia,Lilim,Lilin,Lilith,Lilitu,Lilya,Listra,Liza,Lua,Lucia,Lucile,Lucina,Lucine,Luna,Lyda,Lyla,Lyra,Magna,Maia,Mara,Medusa,Melia,Melchiresa,Melusine,Mia,Midara,Mintha,Mir,Mir Kaleh,Mistra,Moira,Moria,Musah,Myria,Myriam,Naamah,Nadia,Naia,Nala,Nara,Narya,Nebula,Nemesis,Neura,Neuralger,Nidia,Nika,Nirvana,Nirvenia,Nona,Nora,Norma,Nyada,Nystra,Nyx,Nyxa,Onoskelis,Pia,Proserpine,Rangda,Rhea,Rusalka,Sabata,Satana,Scylla,Sela,Shar,Share,Sharael,Sheol,Selene,Shia,Sonnielion,Stheno,Styx,Sul,Summa,Sunna,Sycorax,Syl,Sylestria,Sylin,Sylith,Symia,Syn,Synara,Synestria,Tada,Talah,Talam,Taweret,Thanadria,Thanavryen,Thea,Thia,Thiana,Thiara,Tial,Tora,Tundra,Turen,Tzitzimime,Uma,Umbria,Unarya,Unia,Unsere,Urania,Uzza,Vena,Verna,Verrier,Vepar,Vulpecula,Xandar,Xana,Xandria,Xeth,Xia,Xindra,Xindar,Yuki,Yumi,Yun,Yuna,Yuni,Zana,Zhul,Zidya,Zilla,Zoe,Zoya,Zuna,Zynara,Zythara"
+msgstr ""
+
+#. [race]: id=demon
+#: Struggle_For_Freedom/units/demons.cfg:11
+msgid "race^Demon"
+msgstr ""
+
+#. [race]: id=demon
+#: Struggle_For_Freedom/units/demons.cfg:12
+msgid "race+female^Demoness"
+msgstr ""
+
+#. [race]: id=demon
+#: Struggle_For_Freedom/units/demons.cfg:13
+msgid "race^Demons"
+msgstr ""
+
+#. [race]: id=demon
+#: Struggle_For_Freedom/units/demons.cfg:14
+msgid ""
+"Legend has it that at the beginning of time, powerful creatures called ‘demons’ governed all that existed. The Lords of Light and Darkness, seeing the danger they posed for the balance of nature, banished them to a separate plane of existence, trapped with no means of escape from inside. But time and time again, different versions of the legend have been told by different peoples in different places. Presumably, whatever small amount of truth there was in the original version of the story has since been lost forever.\n"
+"\n"
+"Either by ignorance, or in an attempt to make sense of the fractured stories gathered from Chaos prisoners, the peoples of Irdya refer more generally to all the vastly heterogeneous races of Inferno by this generic designation. Some go as far as to claim that normal Irdyan creatures may become ‘demonic’ in some form or another, pointing at the Chaos Lorekeepers’ powers and inscrutable nature."
+msgstr ""
+
 #. [unit_type]: id=Demon, race=demon
 #: Struggle_For_Freedom/units/demons/Fighter_Demon.cfg:5
 msgid "Demon"
@@ -4101,6 +4137,9 @@ msgstr ""
 #: Struggle_For_Freedom/units/demons/Fighter_Demon.cfg:27
 #: Struggle_For_Freedom/units/demons/Fighter_Grunt.cfg:30
 #: Struggle_For_Freedom/units/demons/Fighter_Warrior.cfg:32
+#: Struggle_For_Freedom/units/humans-evil/Dark_Knight.cfg:38
+#: Struggle_For_Freedom/units/humans-evil/Dark_Marauder.cfg:40
+#: Struggle_For_Freedom/units/humans-evil/Dark_Razerman.cfg:39
 msgid "axe"
 msgstr ""
 
@@ -4128,6 +4167,7 @@ msgstr ""
 #. [attack]: type=cold
 #: Struggle_For_Freedom/units/demons/Fighter_Grunt.cfg:39
 #: Struggle_For_Freedom/units/demons/Fighter_Warrior.cfg:41
+#: Struggle_For_Freedom/units/humans-evil/Dark_Lorekeeper.cfg:47
 msgid "infernal chill"
 msgstr ""
 
@@ -4187,6 +4227,15 @@ msgstr ""
 #: Struggle_For_Freedom/units/elves-uvollyn-custom/Fighter.cfg:35
 #: Struggle_For_Freedom/units/elves-uvollyn-custom/Marshal.cfg:47
 #: Struggle_For_Freedom/units/elves-uvollyn-custom/Warlord.cfg:48
+#: Struggle_For_Freedom/units/humans-evil/Dark_Guardian.cfg:28
+#: Struggle_For_Freedom/units/humans-evil/Dark_Knight.cfg:26
+#: Struggle_For_Freedom/units/humans-evil/Dark_Marksman.cfg:25
+#: Struggle_For_Freedom/units/humans-evil/Dark_Overlord.cfg:29
+#: Struggle_For_Freedom/units/humans-evil/Dark_Raider.cfg:41
+#: Struggle_For_Freedom/units/humans-evil/Dark_Razerman.cfg:27
+#: Struggle_For_Freedom/units/humans-evil/Dark_Sharpshooter.cfg:26
+#: Struggle_For_Freedom/units/humans-evil/Doom_Guard.cfg:26
+#: Struggle_For_Freedom/units/humans-evil/Invader.cfg:26
 msgid "sword"
 msgstr ""
 
@@ -4403,6 +4452,7 @@ msgstr ""
 
 #. [attack]: type=impact
 #: Struggle_For_Freedom/units/elves-wood/Prisoner.cfg:24
+#: Struggle_For_Freedom/units/humans-evil/Dark_Invoker.cfg:37
 msgid "fist"
 msgstr ""
 
@@ -4419,6 +4469,177 @@ msgstr ""
 #. [attack]: type=impact
 #: Struggle_For_Freedom/units/elves-wood/Transport.cfg:31
 msgid "trample"
+msgstr ""
+
+#. [unit_type]: id=Dark Guardian, race=human
+#: Struggle_For_Freedom/units/humans-evil/Dark_Guardian.cfg:5
+msgid "Dark Guardian"
+msgstr ""
+
+#. [unit_type]: id=Dark Guardian, race=human
+#: Struggle_For_Freedom/units/humans-evil/Dark_Guardian.cfg:23
+msgid "Only the toughest of armorers are worthy of the most effective armors and weapons, forged by the best demonic blacksmiths, and blessed by unlawful magic. It is said that they could stand against an avalanche with ease, if they were commanded to do so."
+msgstr ""
+
+#. [attack]: type=impact
+#: Struggle_For_Freedom/units/humans-evil/Dark_Guardian.cfg:37
+#: Struggle_For_Freedom/units/humans-evil/Doom_Guard.cfg:35
+msgid "shield"
+msgstr ""
+
+#. [unit_type]: id=Dark Gunner, race=human
+#. [unit_type]: id=Dark Headhunter, race=human
+#. [unit_type]: id=Dark Invoker, race=human
+#. [unit_type]: id=Dark Knight, race=human
+#. [unit_type]: id=Dark Lorekeeper, race=human
+#. [unit_type]: id=Dark Magus, race=human
+#. [unit_type]: id=Dark Marauder, race=human
+#. [unit_type]: id=Dark Marksman, race=human
+#. [unit_type]: id=Dark Overlord, race=human
+#. [unit_type]: id=Dark Raider, race=human
+#. [unit_type]: id=Dark Razerman, race=human
+#. [unit_type]: id=Dark Sharpshooter, race=human
+#. [unit_type]: id=Dark Soulhunter, race=human
+#. [unit_type]: id=Doom Guard, race=human
+#: Struggle_For_Freedom/units/humans-evil/Dark_Gunner.cfg:21
+#: Struggle_For_Freedom/units/humans-evil/Dark_Headhunter.cfg:28
+#: Struggle_For_Freedom/units/humans-evil/Dark_Invoker.cfg:25
+#: Struggle_For_Freedom/units/humans-evil/Dark_Knight.cfg:17
+#: Struggle_For_Freedom/units/humans-evil/Dark_Lorekeeper.cfg:26
+#: Struggle_For_Freedom/units/humans-evil/Dark_Magus.cfg:26
+#: Struggle_For_Freedom/units/humans-evil/Dark_Marauder.cfg:27
+#: Struggle_For_Freedom/units/humans-evil/Dark_Marksman.cfg:21
+#: Struggle_For_Freedom/units/humans-evil/Dark_Overlord.cfg:24
+#: Struggle_For_Freedom/units/humans-evil/Dark_Raider.cfg:21
+#: Struggle_For_Freedom/units/humans-evil/Dark_Razerman.cfg:22
+#: Struggle_For_Freedom/units/humans-evil/Dark_Sharpshooter.cfg:22
+#: Struggle_For_Freedom/units/humans-evil/Dark_Soulhunter.cfg:28
+#: Struggle_For_Freedom/units/humans-evil/Doom_Guard.cfg:21
+msgid "TODO"
+msgstr ""
+
+#. [attack]: type=blade
+#: Struggle_For_Freedom/units/humans-evil/Dark_Gunner.cfg:25
+msgid "short sword"
+msgstr ""
+
+#. [attack]: type=pierce
+#: Struggle_For_Freedom/units/humans-evil/Dark_Gunner.cfg:34
+#: Struggle_For_Freedom/units/humans-evil/Dark_Marksman.cfg:34
+#: Struggle_For_Freedom/units/humans-evil/Dark_Sharpshooter.cfg:35
+msgid "thunderstick"
+msgstr ""
+
+#. [unit_type]: id=Dark Headhunter, race=human
+#: Struggle_For_Freedom/units/humans-evil/Dark_Headhunter.cfg:5
+msgid "Dark Headhunter"
+msgstr ""
+
+#. [attack]: type=impact
+#: Struggle_For_Freedom/units/humans-evil/Dark_Headhunter.cfg:33
+#: Struggle_For_Freedom/units/humans-evil/Dark_Marauder.cfg:32
+#: Struggle_For_Freedom/units/humans-evil/Dark_Soulhunter.cfg:33
+msgid "club"
+msgstr ""
+
+#. [attack]: type=pierce
+#: Struggle_For_Freedom/units/humans-evil/Dark_Headhunter.cfg:42
+#: Struggle_For_Freedom/units/humans-evil/Dark_Marauder.cfg:52
+#: Struggle_For_Freedom/units/humans-evil/Dark_Soulhunter.cfg:53
+msgid "javelin"
+msgstr ""
+
+#. [unit_type]: id=Dark Invoker, race=human
+#: Struggle_For_Freedom/units/humans-evil/Dark_Invoker.cfg:4
+msgid "Dark Invoker"
+msgstr ""
+
+#. [attack]: type=arcane
+#: Struggle_For_Freedom/units/humans-evil/Dark_Invoker.cfg:46
+#: Struggle_For_Freedom/units/humans-evil/Dark_Lorekeeper.cfg:60
+#: Struggle_For_Freedom/units/humans-evil/Dark_Magus.cfg:47
+msgid "ethereal blast"
+msgstr ""
+
+#. [unit_type]: id=Dark Knight, race=human
+#: Struggle_For_Freedom/units/humans-evil/Dark_Knight.cfg:5
+msgid "Dark Knight"
+msgstr ""
+
+#. [unit_type]: id=Dark Lorekeeper, race=human
+#: Struggle_For_Freedom/units/humans-evil/Dark_Lorekeeper.cfg:4
+msgid "Dark Lorekeeper"
+msgstr ""
+
+#. [attack]: type=impact
+#: Struggle_For_Freedom/units/humans-evil/Dark_Lorekeeper.cfg:38
+#: Struggle_For_Freedom/units/humans-evil/Dark_Magus.cfg:38
+msgid "staff"
+msgstr ""
+
+#. [unit_type]: id=Dark Magus, race=human
+#: Struggle_For_Freedom/units/humans-evil/Dark_Magus.cfg:5
+msgid "Dark Magus"
+msgstr ""
+
+#. [unit_type]: id=Dark Marauder, race=human
+#: Struggle_For_Freedom/units/humans-evil/Dark_Marauder.cfg:5
+msgid "Dark Marauder"
+msgstr ""
+
+#. [unit_type]: id=Dark Overlord, race=human
+#: Struggle_For_Freedom/units/humans-evil/Dark_Overlord.cfg:5
+msgid "Dark Overlord"
+msgstr ""
+
+#. [attack]: type=blade
+#: Struggle_For_Freedom/units/humans-evil/Dark_Overlord.cfg:41
+msgid "battle axe"
+msgstr ""
+
+#. [unit_type]: id=Dark Raider, race=human
+#: Struggle_For_Freedom/units/humans-evil/Dark_Raider.cfg:5
+msgid "Dark Raider"
+msgstr ""
+
+#. [attack]: type=fire
+#: Struggle_For_Freedom/units/humans-evil/Dark_Raider.cfg:50
+msgid "torch"
+msgstr ""
+
+#. [unit_type]: id=Dark Razerman, race=human
+#: Struggle_For_Freedom/units/humans-evil/Dark_Razerman.cfg:5
+msgid "Dark Razerman"
+msgstr ""
+
+#. [unit_type]: id=Dark Sharpshooter, race=human
+#: Struggle_For_Freedom/units/humans-evil/Dark_Sharpshooter.cfg:5
+msgid "Dark Sharpshooter"
+msgstr ""
+
+#. [unit_type]: id=Dark Soulhunter, race=human
+#: Struggle_For_Freedom/units/humans-evil/Dark_Soulhunter.cfg:5
+msgid "Soulhunter"
+msgstr ""
+
+#. [attack]: type=blade
+#: Struggle_For_Freedom/units/humans-evil/Dark_Soulhunter.cfg:41
+msgid "battle-axe"
+msgstr ""
+
+#. [unit_type]: id=Doom Guard, race=human
+#: Struggle_For_Freedom/units/humans-evil/Doom_Guard.cfg:5
+msgid "Doom Guard"
+msgstr ""
+
+#. [unit_type]: id=Invader, race=human
+#: Struggle_For_Freedom/units/humans-evil/Invader.cfg:5
+msgid "Dark Invader"
+msgstr ""
+
+#. [unit_type]: id=Invader, race=human
+#: Struggle_For_Freedom/units/humans-evil/Invader.cfg:20
+msgid "Invader"
 msgstr ""
 
 #. [unit_type]: id=Door, race=mechanical
