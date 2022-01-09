@@ -1,3 +1,7 @@
+Changelog 1.0.6
+--> fixed credits not showing
+--> S5: updated objectives being incorrect
+
 Changelog 1.0.5
 --> Some explanatory hints added to S1 and S2 start events
 --> updated .pot file
