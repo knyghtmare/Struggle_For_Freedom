@@ -1,0 +1,5796 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2022-01-06 20:17 UTC\n"
+"PO-Revision-Date: 2022-10-01 00:46+0900\n"
+"Last-Translator: konami,k <konamit2008@gmail.com>\n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#. [campaign]: id=struggle_for_freedom
+#. [scenario]: id=07_Struggle_For_Freedom
+#: Struggle_For_Freedom/_main.cfg:27
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:5
+msgid "Struggle For Freedom"
+msgstr "自由への闘争"
+
+#. [campaign]: id=struggle_for_freedom
+#: Struggle_For_Freedom/_main.cfg:28
+msgid "SFF"
+msgstr "SFF"
+
+#. [campaign]: id=struggle_for_freedom
+#: Struggle_For_Freedom/_main.cfg:32
+msgid "Soldier"
+msgstr "兵士"
+
+#. [campaign]: id=struggle_for_freedom
+#: Struggle_For_Freedom/_main.cfg:32
+msgid "Easy"
+msgstr "簡単"
+
+#. [campaign]: id=struggle_for_freedom
+#: Struggle_For_Freedom/_main.cfg:33
+msgid "Lord"
+msgstr "君主"
+
+#. [campaign]: id=struggle_for_freedom
+#: Struggle_For_Freedom/_main.cfg:33
+msgid "Normal"
+msgstr "普通"
+
+#. [campaign]: id=struggle_for_freedom
+#: Struggle_For_Freedom/_main.cfg:34
+msgid "High Lord"
+msgstr "高官"
+
+#. [campaign]: id=struggle_for_freedom
+#: Struggle_For_Freedom/_main.cfg:34
+msgid "Challenging"
+msgstr "挑戦的"
+
+#. [campaign]: id=struggle_for_freedom
+#: Struggle_For_Freedom/_main.cfg:39
+msgid ""
+"Follow the Eastern Elves in the time of Asheviere. Will they succeed in "
+"their struggle for freedom, or will a betrayal at their heart strike them at "
+"the brink of victory? 506YW."
+msgstr ""
+"Wesnoth 暦 506年、Asheviere 時代の東方のエルフを体験しましょう。彼らは自由へ"
+"の闘争を成功させるのか、それとも腹心の裏切りによって勝敗の瀬戸際に立たされる"
+"のか。"
+
+#. [campaign]: id=struggle_for_freedom
+#: Struggle_For_Freedom/_main.cfg:40
+msgid "(Intermediate level, 9 playable scenarios)"
+msgstr "(中級者向け。11 シナリオ中、戦闘シナリオ 9）"
+
+#. [campaign]: id=struggle_for_freedom
+#: Struggle_For_Freedom/_main.cfg:41
+msgid "Feedback and bug reports: "
+msgstr "フィードバックとバグレポート: "
+
+#. [editor_group]: id=wesnoth-UMC-Struggle-For-Freedom
+#: Struggle_For_Freedom/_main.cfg:108
+msgid "Struggle For Freedom (custom terrains)"
+msgstr "自由への闘争（地形の編集）"
+
+#. [about]
+#: Struggle_For_Freedom/about.cfg:4
+msgid "Campaign Design"
+msgstr "キャンペーンデザイン"
+
+#. [about]
+#: Struggle_For_Freedom/about.cfg:10
+msgid "Latest Campaign Revision"
+msgstr "最新のキャンペーン改訂"
+
+#. [about]
+#: Struggle_For_Freedom/about.cfg:17
+msgid "Playtesters"
+msgstr "プレイテスト"
+
+#. [about]
+#: Struggle_For_Freedom/about.cfg:29
+msgid "Unit Images"
+msgstr "ユニット画像"
+
+#. [about]
+#: Struggle_For_Freedom/about.cfg:35
+msgid "Also, thanks to anyone else who gave me help, I got images from, etc."
+msgstr ""
+"協力していただいた方、画像を提供していただいた方、その他の方々にも感謝しま"
+"す。"
+
+#: Struggle_For_Freedom/macros/debug-utils.cfg:4
+msgid ""
+"The following level(s) are under construction and may have errors. Keep "
+"playing if you wish, but I advise you to wait until the next version comes "
+"out to keep playing."
+msgstr ""
+"以降のレベルはまだ作成中のため、エラー発生の可能性があります。それでもプレイ"
+"するのはかまいませんが、次期バージョンまで待ったほうがよいでしょう。"
+
+#. [message]: speaker=narrator
+#: Struggle_For_Freedom/macros/debug-utils.cfg:8
+msgid "I want to...."
+msgstr "このまま続けますか？..."
+
+#. [option]
+#: Struggle_For_Freedom/macros/debug-utils.cfg:10
+msgid "Keep playing. Next level(s) may not be finished."
+msgstr "続ける。（途中終了・エラー発生の可能性あり）"
+
+#. [option]
+#: Struggle_For_Freedom/macros/debug-utils.cfg:15
+msgid "Stop playing."
+msgstr "ここで終了する。"
+
+#. [command]
+#: Struggle_For_Freedom/macros/debug-utils.cfg:17
+msgid "Thank you for playing Struggle For Freedom. I hope you enjoyed it."
+msgstr ""
+"自由への闘争（ Struggle For Freedom ）をプレイしていただき有難う！楽しんでも"
+"らえたなら最高です。"
+
+#. [message]: speaker=narrator
+#: Struggle_For_Freedom/macros/items.cfg:52
+msgid "Do you want this unit to pick-up this item?"
+msgstr "アイテムをこのユニットに拾わせますか？"
+
+#. [option]
+#: Struggle_For_Freedom/macros/items.cfg:54
+msgid "Yes."
+msgstr "はい。"
+
+#. [option]
+#: Struggle_For_Freedom/macros/items.cfg:70
+msgid "No."
+msgstr "いいえ。"
+
+#: Struggle_For_Freedom/macros/items.cfg:81
+msgid ""
+"Look, an ancient sword, just left here. It looks like one of those mage-made "
+"ones, like back in the founding of Wesnoth. I wonder why no-one has picked "
+"it up before?"
+msgstr ""
+"見てみろ、古代の剣だ。ほら、そこに。魔術師のお手製だろうか、Wesnoth 建国時の"
+"ものかもな。どうして今まで誰も手に取らなかったんだろう？"
+
+#. [object]
+#: Struggle_For_Freedom/macros/items.cfg:87
+msgid "Sword of Chaos"
+msgstr "混沌の剣"
+
+#. [object]
+#: Struggle_For_Freedom/macros/items.cfg:88
+msgid ""
+"The Sword of Chaos will confuse your enemies and let you kill them with "
+"ease. It will also increase your resistance to arcane attacks by 30%."
+msgstr ""
+"混沌の剣は、敵を混乱させて簡単に殺すことができるようになります。また、”秘"
+"術”攻撃に対する耐性が30％上昇します。"
+
+#. [object]
+#: Struggle_For_Freedom/macros/items.cfg:89
+msgid "I am not skilled enough with the sword to use it!"
+msgstr "俺は剣を使うほどの技量はないのか？！"
+
+#. [message]: speaker=narrator
+#: Struggle_For_Freedom/macros/items.cfg:101
+msgid ""
+"As you grasp the bronze wire-wrapped hilt, a feeling of bewilderment comes "
+"over you, soon to be replaced by a feeling of power. This sword will confuse "
+"and slow your enemies."
+msgstr ""
+"銅鋼線が巻き締められた柄を握ると戸惑う感情が押し寄せてきて、それはやがて活力"
+"へと変化しました。この剣は敵を当惑させ動きを鈍らせることでしょう。"
+
+#. [effect]
+#: Struggle_For_Freedom/macros/items.cfg:106
+msgid "sword of chaos"
+msgstr "混沌の剣"
+
+#: Struggle_For_Freedom/macros/items.cfg:128
+msgid ""
+"There is a golden necklace on the ground here, and I can feel waves of "
+"energy pulsating from it. They make me feel healthy."
+msgstr ""
+"この地には黄金の首輪があります。それは、エネルギーの脈打つ波を感じさせるので"
+"す。着けている者は健やかな感覚を覚えるでしょう。"
+
+#. [object]
+#: Struggle_For_Freedom/macros/items.cfg:134
+msgid "Healing Aura Ankh"
+msgstr "癒しの首輪"
+
+#. [object]
+#: Struggle_For_Freedom/macros/items.cfg:135
+msgid ""
+"This mystical necklace will allow you to heal your allies using the magic "
+"powers of some long-lost mage."
+msgstr ""
+"この神秘的な首輪は、消息の絶えていた古の魔術師の魔力によって、あなたの仲間や"
+"同盟者を治癒することでしょう。"
+
+#. [message]: speaker=narrator
+#: Struggle_For_Freedom/macros/items.cfg:147
+msgid ""
+"As the golden amulet is slipped around your neck, you immediately feel a "
+"sense of goodness wash over you. You feel stronger and fitter than you were "
+"before."
+msgstr ""
+"黄金のお守りを首にかければ、即座に良好な感覚に包まれます。以前よりも強くて健"
+"康な感覚を得ることでしょう。"
+
+#: Struggle_For_Freedom/macros/items.cfg:181
+msgid ""
+"Sprinkling this water on melee weapons grants them the <i>arcane</i> damage "
+"type until the end of the current campaign. Should $unit.name use it?"
+msgstr ""
+"この水を近接武器にかけることで、<i>秘術 </i>型攻撃が付与されます（キャンペー"
+"ン終了まで）。$unit.name に使わせますか？"
+
+#: Struggle_For_Freedom/macros/items.cfg:182
+msgid "holy water^Take it"
+msgstr "利用する"
+
+#: Struggle_For_Freedom/macros/items.cfg:183
+msgid "holy water^Leave it"
+msgstr "手放す"
+
+#: Struggle_For_Freedom/macros/items.cfg:184
+msgid "$unit.name has no need for this Holy Water! Let another take it."
+msgstr "$unit.name には、この聖水は不要だ！他の兵に利用させよう。"
+
+#. [object]
+#: Struggle_For_Freedom/macros/items.cfg:186
+msgid "Holy Water"
+msgstr "聖水"
+
+#. [object]
+#: Struggle_For_Freedom/macros/items.cfg:189
+msgid ""
+"This water will make melee weapons have the <i>arcane</i> damage type until "
+"the end of the current scenario."
+msgstr ""
+"この水で近接武器に<i>秘術 </i>型攻撃が付与されます（このシナリオだけ）。"
+
+#. [time]: id=dark_palace
+#: Struggle_For_Freedom/macros/schedules.cfg:6
+msgid "Dark Palace"
+msgstr "暗黒の宮殿"
+
+#. [part]
+#: Struggle_For_Freedom/macros/story.cfg:24
+msgid ""
+"Life in the Eastern Lands:\n"
+"In a land beset by harsh weather, where food is scarce and the people are "
+"constantly harassed by bands of marauding orcs, minotaurs, undead and other "
+"nightmarish entities of the night; the resident elves and dwarves have had "
+"to cease their hostilities for the sake of survival. An uneasy truce has "
+"formed between these two races, although they have had their differences in "
+"the past. For most of the time the truce has been simple; the elves would "
+"not attack the dwarves, and vice versa. However, when large war-bands of "
+"enemies threaten, the dwarves and elves of the East would create temporary "
+"alliances to ward off these foes."
+msgstr ""
+"東方の地の生活：\n"
+"過酷な天候に晒された大地においては食糧も乏しく、住人は常にオークやミノタウロ"
+"ス、アンデッドといった悪夢のような夜行性集団に襲撃されてきました。これに抵抗"
+"するエルフやドワーフは、生き残るためには相互の敵対関係を解消せざるを得ません"
+"でした。この２種族間の不安定な休戦状態が形成されましたが、もちろん、過去にも"
+"紛争は有りました。その殆どの場合、休戦は単純なものでした。エルフがドワーフを"
+"攻撃しなければ、ドワーフもエルフを攻撃しない、といったものです。しかし、敵の"
+"大軍勢に脅かされた時には、東方のドワーフとエルフは一時的に同盟を結んで、敵を"
+"撃退してきました。"
+
+#. [part]
+#: Struggle_For_Freedom/macros/story.cfg:30
+msgid ""
+"How does this relate to our story? I shall tell you, in the form of this "
+"journal."
+msgstr ""
+"このことと、私たちの物語はどう関係しているのでしょうか？\n"
+"この、日誌という形でお話しいたしましょう。"
+
+#. [part]
+#: Struggle_For_Freedom/macros/story.cfg:34
+msgid ""
+"We, the Eastern elves have been living peacefully in the once serene forests "
+"in the east since the founding of Wesnoth. Our clan grew great with vast "
+"knowledge of woodlife and herblore until the nightmarish attacks came from "
+"the Eastern lands."
+msgstr ""
+"私たち、東方のエルフは Wesnoth の建国時から東部の幽静な森の中で平穏に暮らして"
+"きました。一族は森林の生き物や薬草の膨大な知識により大きく発展してきました。"
+"そこへ、悪夢のような襲撃が東方の地からやって来たのです。"
+
+#. [part]
+#: Struggle_For_Freedom/macros/story.cfg:38
+msgid ""
+"Our whole clan and forest were nearly wiped out, but the woses and faerie "
+"spirits came to our rescue, just when all hope seemed lost. We defeated the "
+"nightmares of the night, and killed their leader, an ancient vampire of a "
+"forgotten era. From then on the Eastern elves have become warriors, training "
+"hard in the way of the sword, the bolas and the bow."
+msgstr ""
+"一族と森の全てが消滅しかけていたとき、ウーズと妖精の精霊が助けに来ました。丁"
+"度、全ての望みが失われようとしていた時でした。私たちは夜行性の悪夢たちを倒"
+"し、そのリーダーや、忘れられた時代の古代吸血鬼を殺しました。それからというも"
+"の、東方のエルフは戦士となって、剣や投石や弓の使い方を熱心に訓練し始めまし"
+"た。"
+
+#. [part]
+#: Struggle_For_Freedom/macros/story.cfg:42
+msgid ""
+"My name is Uvollyn, and I am a commander in the Lord's Regiment, the special "
+"branch of the elvish forces. Unfortunately, the current Lord demeans our "
+"elite soldiers with menial tasks, like the defence of our city."
+msgstr ""
+"私の名前は Uvollyn 、領主の連隊で司令官を務めています。連隊はエルフ軍の中の特"
+"別部隊です。残念なことに、現在の領主は選り抜きの兵士である私たちを下僕のよう"
+"に、市内の警備のような任務に使っています。"
+
+#. [part]
+#: Struggle_For_Freedom/macros/story.cfg:46
+msgid "At least, I thought it would be a menial task....."
+msgstr "少なくとも、それは私にとっては雑務としか思えませんでした..."
+
+#. [part]
+#: Struggle_For_Freedom/macros/story.cfg:61
+msgid ""
+"I hope that the news of the death of Asheviere's invaders will not reach "
+"Weldyn, for without the help of the dwarves the forces of the loyalists will "
+"come crashing down on our forces, which are not sufficiently large enough to "
+"repel such an attack yet."
+msgstr ""
+"Asheviere の侵入者たちが死んだという知らせが Weldyn に届いていないことを願っ"
+"ています。ドワーフ軍の支援が無ければ、国王軍が私たちの軍隊を打ち砕きに来るで"
+"しょう。そうした攻撃を押し返せるほどには、私たちはまだ十分な戦力を確立してい"
+"ないのです。"
+
+#. [part]
+#: Struggle_For_Freedom/macros/story.cfg:65
+msgid ""
+"Our party approached the rolling hills, signalling the northern borders of "
+"our land."
+msgstr ""
+"私たち一行は、起伏に富んだ丘へ近づいていました。その丘は、私たちの北の国境を"
+"意味しました。"
+
+#. [part]
+#: Struggle_For_Freedom/macros/story.cfg:69
+msgid ""
+"As dawn broke, a crimson sun peeped over the horizon, sending a ray of light "
+"to break the clouds. Blood would be spilt today."
+msgstr ""
+"夜が明けて地平線から真っ赤な太陽がのぞき、雲を引き裂く日の光が射していまし"
+"た。血が流れることでしょう、今日も。"
+
+#. [part]
+#: Struggle_For_Freedom/macros/story.cfg:89
+msgid ""
+"We descended into the caves, the eerie darkness held at bay only by the "
+"harsh white torches held by the dwarves. Many groups of dwarvish fighters "
+"and guardsmen were passed as we reached their main city."
+msgstr ""
+"私たちが洞窟へ下りていくと、薄気味悪い暗闇は、ドワーフが持つトーチの刺すよう"
+"な真っ白な灯りだけで照らされていました。ドワーフの戦士や警護兵の数多の集団と"
+"すれ違い、やがて彼らの主要都市に到着しました。"
+
+#. [part]
+#: Struggle_For_Freedom/macros/story.cfg:110
+msgid ""
+"We followed the king, blindly hurrying through the dimly lit passages of the "
+"dwarves. Ohlothhains gathered battle ready dwarves and ordered others to "
+"assemble and follow as reinforcements."
+msgstr ""
+"私たちは王様の後に続きました、ドワーフの薄暗い道を脇目も振らずに早足で。王 "
+"Ohlothhains は戦闘態勢を整えたドワーフを集めて他の者も集合するように命令し、"
+"援軍として付いてきていました。"
+
+#. [part]
+#: Struggle_For_Freedom/macros/story.cfg:128
+msgid "The next two chapters of this story are written by Biaraelia."
+msgstr "この後の２つの章は Biaraelia によって記述されています。"
+
+#. [then]
+#: Struggle_For_Freedom/macros/story.cfg:136
+msgid ""
+"As the last of the enemies fell to our blades, the elves were already "
+"hurrying back to the healing tent where Uvollyn lay. The soldiers all "
+"gathered round as we waited anxiously for the dwarvish healers to give their "
+"report."
+msgstr ""
+"最後の敵が私たちの剣に倒れて、エルフたちは Uvollyn が横になっている治療用テン"
+"トへと急いで戻っていました。ドワーフの医師たちの報告を心配して待っていると、"
+"兵士全員が周囲に集まっていました。"
+
+#. [else]
+#: Struggle_For_Freedom/macros/story.cfg:139
+msgid ""
+"As the last of the enemies fled before the might of our blades, the elves "
+"were already hurrying back to the healing tent where Uvollyn lay. The "
+"soldiers all gathered round as we waited anxiously for the dwarvish healers "
+"to give their report."
+msgstr ""
+"最後の敵が私たちの剣の前から逃げ出して、エルフたちは Uvollyn が横になっている"
+"治療用テントへと急いで戻っていました。ドワーフの医師たちの報告を心配して待っ"
+"ていると、兵士全員が周囲に集まっていました。"
+
+#. [part]
+#: Struggle_For_Freedom/macros/story.cfg:145
+msgid ""
+"The healers said unless he got more treatment within a week, he would never "
+"recover. So all of the Eastern elves quickly packed up their belongings, and "
+"at first light we left the hills of the Ochgma and headed east."
+msgstr ""
+"医師たちの話では、一週間以内に更に治療を受けられなければ、回復できないだろう"
+"ということでした。そこで東方エルフたちは急いで自分たちの荷をまとめ、夜明けと"
+"ともに Ochgma の丘を出発して東へと向かいました。"
+
+#. [part]
+#: Struggle_For_Freedom/macros/story.cfg:164
+msgid ""
+"As we approached Soradoc, I felt great apprehension; apart from our human "
+"friends we picked up in the hills, the only other humans I had encountered "
+"were the brutes of Asheviere's army. More troubling was the note found on "
+"Tan-Udén. Although the mage-healers were said to be kind and wise to the "
+"ways of the world, I still worried for the safety of our people. Was "
+"something more going on in Soradoc?"
+msgstr ""
+"Soradoc に向かっている途中、私は大きな不安に襲われました。あの丘で一緒になっ"
+"た友人たちを除けば、遭遇した人間は Asheviere 軍の野蛮な者だけでした。それより"
+"も Tan-Udén で見つけたメモの方がよほど厄介でした。魔術の医師たちは親切で社会"
+"一般のことには賢いと言われているけれど、やはり私は仲間の安否が気掛かりでし"
+"た。Soradoc で他にも何か起きているのではないでしょうか...？"
+
+#. [part]
+#: Struggle_For_Freedom/macros/story.cfg:169
+msgid ""
+"As a precaution, I instructed the main body of our forces to setup camp out "
+"of sight of Soradoc. I and a few others would take Uvollyn into the city "
+"proper."
+msgstr ""
+"用心のため、軍隊の主力を Soradoc からの視界に入らない位置に野営させるよう指示"
+"しました。私は数名の兵士とともに Uvollyn を市街の然るべき場所へと連れていきま"
+"した。"
+
+# seperate --> separate
+#. [part]
+#: Struggle_For_Freedom/macros/story.cfg:188
+msgid ""
+"As Biaraelia, Gar Durthsil, Xavien and I were roughly herded into seperate "
+"prison cells, I heard shouts, clashes of swords, then cruel, mocking "
+"laughter. I knew that the rest of our force had been captured."
+msgstr ""
+"Biaraelia とGar Durthsil 、Xavien 、それに私の４人はそれぞれ別の牢に収監され"
+"ると、剣がぶつかる音や叫び声が聞こえてきて、更には残忍に嘲るような笑い声も聞"
+"こえてきました。他の兵士たちも捕まってしまったのだと悟りました。"
+
+#. [part]
+#: Struggle_For_Freedom/macros/story.cfg:192
+msgid ""
+"Now I cannot hear any noise, apart from my own breathing, and the pattern of "
+"guards' pacing footsteps. Occasionally, a guard will come in and check on "
+"us, and laugh at our predicament. One is coming now..."
+msgstr ""
+"今、私に聞こえるのは自分の息だけ。他にはただ看守の足音だけかコツコツと聞こえ"
+"ています。時たま、看守はこちらに来ては確認し、私たちの状況を鼻で笑うのです。"
+"今、誰かがやって来ようとしています..."
+
+#. [part]
+#: Struggle_For_Freedom/macros/story.cfg:202
+msgid ""
+"It was dawn when we had freed all of our troops. I found a spot to set up a "
+"base, which was just out of sight from the roaming guards surrounding the "
+"prison bounds. Around me, our troops were checking weapons, cleaning and "
+"polishing armour and re-equiping themselves with other various items. I put "
+"my hand to my runesword, which was glowing softly blue in the cool morning "
+"air. Its cold leather hilt provided me with some comfort, some assurance for "
+"the upcoming battle."
+msgstr ""
+"全軍を解放したのは夜明けのことでした。私は、収監所周辺の哨戒範囲から離れた、"
+"警備兵の監視の及ばない場所に基地の設営地点を見つけました。私の周辺では兵卒が"
+"武器の確認や、鎧の汚れを落とし磨き上げる作業を行ったり、その他の武具を再装備"
+"したりしていました。涼しい朝の空気の中、私は薄青く輝くルーン剣を手に取りまし"
+"た。その冷たい革の柄は、来たる戦闘に向けての確信を持たせてくれました。"
+
+#. [part]
+#: Struggle_For_Freedom/macros/story.cfg:206
+msgid "It was time to take on a city."
+msgstr "市内に進軍するときがやってきました。"
+
+#. [part]
+#: Struggle_For_Freedom/macros/story.cfg:216
+msgid ""
+"As we descended through the trapdoor, the air grew cold and clammy. We had "
+"no idea what lay ahead. Were we up to the task we had set ourselves?"
+msgstr ""
+"侵入口を下りていくと、空気が冷たく湿った感じになりました。この先には何がある"
+"のでしょう。私たちは使命を果たせるのでしょうか？"
+
+#. [part]
+#: Struggle_For_Freedom/macros/story.cfg:226
+msgid ""
+"We entered the gloomy, obstructing darkness... The thought of undead and "
+"other dark creatures inside made even the bravest of souls shiver. And so we "
+"entered the palace of this Y'fel, the one who had caused us so much grief. "
+"As the last of us entered the building, an eerie, mocking laughter rang "
+"out...."
+msgstr ""
+"私たちは、暗く閉ざされた闇の中へと入っていきました... 中にアンデッドや暗黒の"
+"生き物がいるという思いは、最も勇敢な心さえ震えるほどでした。そして、私たちを"
+"悲痛な目に遭わせたこの Y'fel の宮殿へと足を踏み入れました。最後の一人が入った"
+"とき、不気味な嘲り笑う声が鳴り響いてきました..."
+
+# 再確認：翻訳内容の再確認
+#. [part]
+#: Struggle_For_Freedom/macros/story.cfg:239
+msgid ""
+"We departed from Soradoc, with the magi promising to clear up the chaos left "
+"by Y'fel and restore order to the city."
+msgstr ""
+"私たちは魔術師たちに、Y'fel がメチャクチャにした状態の後片付けと町の秩序を取"
+"り戻すように約束して、Soradoc を出発しました。"
+
+# 再確認：翻訳内容の再確認
+#. [part]
+#: Struggle_For_Freedom/macros/story.cfg:246
+msgid ""
+"We departed from Soradoc, with the city's lords promising to clear up the "
+"chaos left by Y'fel and restore order to the city."
+msgstr ""
+"私たちは、町の貴族たちに、Y'fel がメチャクチャにした状態の後片付けと町の秩序"
+"を取り戻すように約束し、Soradoc を出発しました。"
+
+#. [part]
+#: Struggle_For_Freedom/macros/story.cfg:252
+msgid ""
+"Xavien and his mercenary company departed a few days after we left Soradoc, "
+"and voyaged to the northern lands, where they could find work or fight in "
+"resistance groups against Asheviere. We said our good-byes on the banks of a "
+"great southern river, and they journeyed north, and we south-east."
+msgstr ""
+"Xavien とその傭兵の一行が出発したのは、私たちが Soradoc を発った数日後で、"
+"Asheviere への反乱軍が住処とする北方の地へ向かっていました。そこで、反乱軍と"
+"しての仕事や戦闘が見つかることでしょう。私たちは南の大河の岸辺で別れの挨拶を"
+"交わして、彼らは北に、私たちは南東へと足を向けました。"
+
+#. [part]
+#: Struggle_For_Freedom/macros/story.cfg:256
+msgid ""
+"Apart from that, our journey back across the vast plains of the east was "
+"uneventful, and we encountered no enemies. With our gold dwindling we "
+"approached our homeland. We had been away for months and were weary. But as "
+"we arrived in the northern parts of the Eastern forests, I could smell death "
+"in the air, and a foulness pervaded the land. Something was very wrong."
+msgstr ""
+"それ以外、東方の広い平野を横切って戻る旅では何も起きず、敵に遭遇することもあ"
+"りませんでした。手持ちの金貨も次第に減り、故郷はもう目の前でした。幾月も離れ"
+"ていて疲れも溜まっていました。ところが、東方の森の北部域に到着すると、死の匂"
+"いが漂っていることと大地に穢れが蔓っていることに気付きました。何かとても悪い"
+"ことが起きているようでした。"
+
+#. [part]
+#: Struggle_For_Freedom/macros/story.cfg:280
+msgid ""
+"And so the terror of Mal-Birurn was finished. The elves returned to their "
+"homes, and Gar Durthsil and the dwarves returned to theirs. But there was "
+"still one more thing to do before they left...."
+msgstr ""
+"こうして Mal-Birurn の脅威は去りました。エルフは国へと帰り、Gar Durthsil とド"
+"ワーフもまた帰っていきました。しかし、彼らが去る前にもう一つだけ、すべきこと"
+"がありました..."
+
+# 要確認
+#  on ?
+#. [scenario]: id=01_Incursion_On_The_Western_Glades
+#: Struggle_For_Freedom/scenarios/01_Incursion_On_The_Western_Glades.cfg:5
+msgid "Incursion on the Western Glades"
+msgstr "西部湿原での襲撃"
+
+#. [side]: type=Uvollyn Elvish Fighter, id=Uvollyn
+#. [message]: speaker=narrator
+#: Struggle_For_Freedom/scenarios/01_Incursion_On_The_Western_Glades.cfg:20
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:40
+#: Struggle_For_Freedom/scenarios/03_Negotiations.cfg:19
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:25
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:21
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:186
+#: Struggle_For_Freedom/scenarios/06_The_Courtyard.cfg:215
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:26
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:82
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:64
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:46
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:49
+#: Struggle_For_Freedom/scenarios/11_Epilogue.cfg:21
+msgid "Uvollyn"
+msgstr "Uvollyn"
+
+#. [side]: type=Uvollyn Elvish Fighter, id=Uvollyn
+#. [side]: id=Maelbirurn, type=Elvish High Lord
+#. [side]
+#: Struggle_For_Freedom/scenarios/01_Incursion_On_The_Western_Glades.cfg:33
+#: Struggle_For_Freedom/scenarios/01_Incursion_On_The_Western_Glades.cfg:116
+#: Struggle_For_Freedom/scenarios/01_Incursion_On_The_Western_Glades.cfg:129
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:47
+#: Struggle_For_Freedom/scenarios/06_The_Courtyard.cfg:222
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:33
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:89
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:71
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:145
+#: Struggle_For_Freedom/scenarios/11_Epilogue.cfg:28
+#: Struggle_For_Freedom/scenarios/11_Epilogue.cfg:37
+msgid "team_name^Elves"
+msgstr "エルフ軍"
+
+#. [unit]: id=Biaraelia, type=Elvish Acolyte
+#: Struggle_For_Freedom/scenarios/01_Incursion_On_The_Western_Glades.cfg:42
+msgid "Biaraelia"
+msgstr "Biaraelia"
+
+#. [side]: id=Mafr'Tan, type=Orcish Marauder
+#: Struggle_For_Freedom/scenarios/01_Incursion_On_The_Western_Glades.cfg:57
+msgid "Mafr'Tan"
+msgstr "Mafr'Tan"
+
+#. [side]: id=Mafr'Tan, type=Orcish Marauder
+#. [side]: id=Handock, type=General
+#. [side]: id=Kun'Jara, type=Orcish Slayer
+#: Struggle_For_Freedom/scenarios/01_Incursion_On_The_Western_Glades.cfg:65
+#: Struggle_For_Freedom/scenarios/01_Incursion_On_The_Western_Glades.cfg:82
+#: Struggle_For_Freedom/scenarios/01_Incursion_On_The_Western_Glades.cfg:99
+msgid "team_name^Asheviere"
+msgstr "Asheviere 軍"
+
+#. [side]: id=Handock, type=General
+#: Struggle_For_Freedom/scenarios/01_Incursion_On_The_Western_Glades.cfg:74
+msgid "Handock"
+msgstr "Handock"
+
+#. [side]: id=Kun'Jara, type=Orcish Slayer
+#: Struggle_For_Freedom/scenarios/01_Incursion_On_The_Western_Glades.cfg:91
+msgid "Kun'Jara"
+msgstr "Kun'Jara"
+
+#. [side]: id=Maelbirurn, type=Elvish High Lord
+#: Struggle_For_Freedom/scenarios/01_Incursion_On_The_Western_Glades.cfg:108
+msgid "Maelbirurn"
+msgstr "Maelbirurn"
+
+#. [objectives]
+#: Struggle_For_Freedom/scenarios/01_Incursion_On_The_Western_Glades.cfg:179
+msgid "Defeat all enemy leaders"
+msgstr "敵の全てのリーダーを倒す"
+
+#. [objectives]
+#: Struggle_For_Freedom/scenarios/01_Incursion_On_The_Western_Glades.cfg:180
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:182
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:381
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:270
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:591
+#: Struggle_For_Freedom/scenarios/06_The_Courtyard.cfg:196
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:185
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:382
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:489
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:531
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:587
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:240
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:733
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:263
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:582
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:1119
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:198
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:197
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:530
+msgid "Death of Uvollyn"
+msgstr "Uvollyn の死"
+
+#. [objectives]
+#: Struggle_For_Freedom/scenarios/01_Incursion_On_The_Western_Glades.cfg:181
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:183
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:382
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:271
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:592
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:140
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:393
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:467
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:497
+#: Struggle_For_Freedom/scenarios/06_The_Courtyard.cfg:197
+#: Struggle_For_Freedom/scenarios/06_The_Courtyard.cfg:293
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:383
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:490
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:532
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:588
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:241
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:734
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:264
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:583
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:1120
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:199
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:198
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:531
+msgid "Death of Biaraelia"
+msgstr "Biaraelia の死"
+
+#. [objectives]
+#: Struggle_For_Freedom/scenarios/01_Incursion_On_The_Western_Glades.cfg:182
+msgid "Death of Maelbirurn"
+msgstr "Maelbirurn の死"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/01_Incursion_On_The_Western_Glades.cfg:213
+msgid "Look, a war-party of humans and orcs to the east!"
+msgstr "見てみろ、人間とオークの戦隊が東へ向かっている！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/01_Incursion_On_The_Western_Glades.cfg:235
+msgid "You Eastern elves. Surrender, in the name of Asheviere!"
+msgstr "東方のエルフたちに告ぐ。降伏せよ、Asheviere の名のもとに！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/01_Incursion_On_The_Western_Glades.cfg:236
+msgid ""
+"We Eastern elves have never surrendered to anyone, and we DEFINITELY won't "
+"surrender to a pathetic bunch like you."
+msgstr ""
+"我々東方エルフは一度たりとも降伏したことはないし、貴様たちのように憐れな一団"
+"になど金輪際、屈服しない。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/01_Incursion_On_The_Western_Glades.cfg:237
+msgid ""
+"Pathetic? Why you little snots... I will pull out your guts and eat them in "
+"front of you."
+msgstr ""
+"憐れだと？鼻くそ野郎のくせに... お前のハラワタを取り出して、お前らの目の前で"
+"食ってやろうか。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/01_Incursion_On_The_Western_Glades.cfg:238
+msgid "Oh really? (quieter) Uvollyn, go get them."
+msgstr "おお、本当かい？（静かめに）Uvollyn 、やってしまえ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/01_Incursion_On_The_Western_Glades.cfg:239
+msgid "As you wish, my Lord."
+msgstr "仰せのままに、閣下。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/01_Incursion_On_The_Western_Glades.cfg:240
+msgid ""
+"I think we will have to defeat them all, so a message cannot be passed back "
+"to their queen."
+msgstr ""
+"あの者たち全員を倒さねばなりませんが、そうなると、女王には当方の意志が伝えら"
+"れなくなりますよ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/01_Incursion_On_The_Western_Glades.cfg:241
+msgid "Yes, I am afraid we will have to."
+msgstr "ああ、だが、全員を倒すしかないだろうな。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/01_Incursion_On_The_Western_Glades.cfg:242
+msgid ""
+"Remember the forest faeries will defend the forest, but will not go beyond "
+"its borders."
+msgstr ""
+"森の妖精たちは森は守りますが、境界線を出ることはありません、そのことをお忘れ"
+"なく。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/01_Incursion_On_The_Western_Glades.cfg:243
+msgid ""
+"Hint: It is critical that you upgrade your leader and heroes in this "
+"campaign. Additionally, once your units reach their maximum possible level, "
+"you can right-click on them to preview possible AMLA choices which have been "
+"made available."
+msgstr ""
+"ヒント：このキャンペーンでは、リーダーや主人公のレベルアップが極めて重要で"
+"す。加えて、最大までレベルアップした後は、右クリックで AMLA（After Maxmum "
+"Level Advancement） のオプションを選択できるようになります。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/01_Incursion_On_The_Western_Glades.cfg:252
+msgid "Burn their villages, and the elves with them!"
+msgstr "奴らの村を燃やしちまえ、エルフどもも一緒にな！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/01_Incursion_On_The_Western_Glades.cfg:253
+msgid "Yeah! Great idea!"
+msgstr "アッハー！そいつは最高だ！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/01_Incursion_On_The_Western_Glades.cfg:254
+msgid "No!"
+msgstr "冗談じゃない！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/01_Incursion_On_The_Western_Glades.cfg:272
+msgid "The following day...."
+msgstr "その翌日..."
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/01_Incursion_On_The_Western_Glades.cfg:274
+msgid "What is that?"
+msgstr "どうしたのだ？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/01_Incursion_On_The_Western_Glades.cfg:275
+msgid "Graaash"
+msgstr "Graaash"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/01_Incursion_On_The_Western_Glades.cfg:280
+msgid "My lord, this Gryphon brings a message for you!"
+msgstr "閣下、グリフォンが閣下宛の手紙を運んできています！"
+
+#. [message]: speaker=narrator
+#: Struggle_For_Freedom/scenarios/01_Incursion_On_The_Western_Glades.cfg:284
+msgid "Note attached to gryphon's leg"
+msgstr "グリフォンの足に付けられたメモ"
+
+#. [message]: speaker=narrator
+#: Struggle_For_Freedom/scenarios/01_Incursion_On_The_Western_Glades.cfg:285
+msgid ""
+"To the elves of the Eastern forests. We, the Ochgma dwarves, have "
+"experienced some minotaur raids over the past few weeks. They are much "
+"bigger than the usual small parties, and we fear an army of minotaur is "
+"gathering. Therefore, we ask for an alliance, between elf and dwarf. If you "
+"accept, please send note by this gryphon Graaash."
+msgstr ""
+"東方の森のエルフへ\n"
+"この数週間、俺たち Ochgma のドワーフはミノタウロスの襲撃を受けている。通常は"
+"少数の集団なのだが、それより大規模で、ミノタウロス軍が集結するような事態を恐"
+"れている。然るに、エルフとドワーフ間で同盟を結ぶようお願いする次第だ。受諾し"
+"てくれるならば、このグリフォン Graaash を使って返答を送っていただきたい。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/01_Incursion_On_The_Western_Glades.cfg:288
+msgid "The elves mull it over for a while."
+msgstr "しばしの間、エルフたちは検討してみました。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/01_Incursion_On_The_Western_Glades.cfg:289
+msgid ""
+"My lord. These dwarves could help defend our forests, should the need arise. "
+"I predict there may be another raid by humans and it would be useful to have "
+"some dwarvish fighters to bolster our ranks. And I have heard from "
+"travellers that these dwarves are not as greedy for gold and gems than "
+"others we have encountered in the past."
+msgstr ""
+"閣下。このドワーフたちは森を守るのに役立つことでしょう、必要であれば。新たに"
+"人間どもが襲って来そうだし、ドワーフの兵士が我が軍隊の支えとなることでしょ"
+"う。それから、旅人たちの話では、このドワーフたちは、金や宝石への執着について"
+"過去に遭遇してきたドワーフほどではないそうです。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/01_Incursion_On_The_Western_Glades.cfg:290
+msgid ""
+"Ally with the dwarves? I'm not keen on an alliance, but maybe you should "
+"take the Lord's Regiment and discuss it with them."
+msgstr ""
+"ドワーフと同盟を？あまり気が進まないが、君が我が連隊を率いて彼らと話し合いを"
+"してみてはどうだ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/01_Incursion_On_The_Western_Glades.cfg:291
+msgid "Very well, my lord Maelbirurn. I will make preparations to leave."
+msgstr ""
+"承知いたしました、我が Maelbirurn 卿様。それでは出発の支度をいたします。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/01_Incursion_On_The_Western_Glades.cfg:292
+msgid ""
+"Biaraelia, go with Uvollyn and negotiate on my behalf - it must be a fair "
+"deal though or I won't honour it."
+msgstr ""
+"Biaraelia よ、Uvollyn に同行して私に代わって交渉するのだ ― 公正なものでなけれ"
+"ばならぬ、そうでなければ尊重するに値しない。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/01_Incursion_On_The_Western_Glades.cfg:308
+msgid "Without me, the elves are doomed...."
+msgstr "私なしでは、エルフは破滅する..."
+
+#. [scenario]: id=02_The_Search_For_The_Ochgma
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:5
+msgid "The Search For The Ochgma"
+msgstr "Ochgma での捜索"
+
+#. [side]: id=Gar Durthsil, type=Dwarvish Pathfinder
+#. [unit]: id=Gar Durthsil, type=Dwarvish Pathfinder
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:54
+#: Struggle_For_Freedom/scenarios/03_Negotiations.cfg:31
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:317
+msgid "Gar Durthsil"
+msgstr "Gar Durthsil"
+
+#. [side]: id=Gar Durthsil, type=Dwarvish Pathfinder
+#. [side]
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:63
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:135
+msgid "team_name^Dwarves"
+msgstr "ドワーフ軍"
+
+#. [side]
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:93
+msgid "team_name^Lizardfolk"
+msgstr "トカゲ族"
+
+#. [side]
+#. [side]: id=Duuter_Stoutfist, type=Minotaur Overlord
+#. [side]: id=Karnus_Stoutroar, type=Minotaur Executioner
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:110
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:171
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:221
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:64
+msgid "team_name^Minotaurs"
+msgstr "ミノタウロス軍"
+
+#. [side]
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:125
+msgid "team_name^Enemies"
+msgstr "敵対軍"
+
+#. [objectives]
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:180
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:379
+msgid "Uvollyn reaches the dwarvish castle"
+msgstr "Uvollyn がドワーフの城に到着する"
+
+#. [objectives]
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:181
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:380
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:269
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:590
+msgid "BONUS: Defeat all enemy leaders"
+msgstr "ボーナス：すべての敵のリーダーを倒す"
+
+#. [note]
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:190
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:281
+msgid "Early finish bonus only applies if the bonus objective is met"
+msgstr "ボーナス条件を達成した場合のみ、早期終了ボーナスを獲得できます"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:216
+msgid "Biaraelia, do you think Maelbirurn was a bit eager to get rid of us?"
+msgstr "Biaraelia 、Maelbirurn 卿は我々を疎んじていたと思うか？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:217
+msgid "I'm sure he was just preoccupied with the threat of the Queen's forces."
+msgstr "いえ、女王の軍隊の脅威で頭がいっぱいだったのですよ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:218
+msgid ""
+"Hmm. According to my map, the dwarves are just north of here, over these "
+"hills."
+msgstr ""
+"あぁ、私の地図ではドワーフはここから丁度真北にいるな、この丘の向こうだ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:219
+msgid ""
+"Yes, although it may take some time to get through. I have heard that there "
+"are trolls, minotaurs and other beings living around here."
+msgstr ""
+"ええ、ここを抜けるには時間がかかりそうだわ。この辺りにはトロルやミノタウロ"
+"ス、その他の生き物が出現するそうです。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:220
+msgid "Well, we need to be on the lookout - everyone, stay sharp."
+msgstr "さて、用心していかなければな、全隊、感覚を研ぎ澄ませていけ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:223
+msgid "Grug... Uhr..."
+msgstr "グルゥ... ウゥ..."
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:229
+msgid "Oh, it's so cute!"
+msgstr "あら、可愛い！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:251
+msgid "Ouch! That hurt."
+msgstr "痛い！なんなのよ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:252
+msgid "......"
+msgstr "......"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:253
+msgid ""
+"Hint: Recall costs have been modified for this campaign. Level 1 units cost "
+"15 gold to recall."
+msgstr ""
+"ヒント：このキャンペーンでは各種のコストが変更されています。Level 1ユニットを"
+"召喚するには15 gold が必要です。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:268
+msgid "You sssshall not passss here."
+msgstr "おまえぇ ここを通ったらぁ ぃいかん。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:269
+msgid ""
+"I'm sorry, but we must cross at this point. Now stand aside, or face the "
+"wrath of the elves!"
+msgstr ""
+"すまないが、ここを通過しなければならないのだ。見逃すことだ、でなければエルフ"
+"の怒りに触れるぞ！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:270
+msgid "Ssssslay them!"
+msgstr "ぃーゃやってしまえ！"
+
+#. [unit]: type=Saurian Warden, id=Earaelix
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:276
+msgid "Earaelix"
+msgstr "Earaelix"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:321
+msgid "Lyana"
+msgstr "Lyana"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:338
+msgid "Halt! Who passes?"
+msgstr "止まれ！誰だ？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:339
+msgid ""
+"Commander, we've encountered beastfolk. They seem to be guarding a "
+"settlement.  We may be able to avoid them by heading west."
+msgstr ""
+"司令官、獣の一族に出くわしました。集落を守っているようです。　西へ向かえば迂"
+"回可能と思われます。"
+
+# jeopardise --> jeopardize
+#. [event]
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:340
+msgid ""
+"I fear leaving any enemies alive behind us will jeopardise our mission. But "
+"we can't dally here, we must make haste. I leave the decision to you, "
+"Uvollyn."
+msgstr ""
+"どんな敵も、私たちの背後に生かしたままにすると作戦遂行に支障が生じるでしょ"
+"う。しかし、ここで時間をとるわけにもいきません、即断せねば。あなたに決断を委"
+"ねます、Uvollyn 。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:353
+msgid ""
+"Hail elves! Well met, we saw you run into these beastfolk and am here to "
+"bash some heads."
+msgstr ""
+"エルフ万歳！よくぞいらした、あなた達があの獣族と衝突するのを目撃してね、それ"
+"でいくつか頭をぶっ叩いてやろうと参上したんだ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:354
+msgid ""
+"Thank you, we are grateful for the assistance. Commander, the dwarvish keep "
+"is just ahead."
+msgstr ""
+"感謝するよ、手伝ってもらって有り難い。司令官、ドワーフの城塞は、このすぐ先で"
+"す。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:362
+msgid "Argh! Defeated... by elves."
+msgstr "アッー！やられた...エルフどもに。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:370
+msgid "Hisss....."
+msgstr "ヒィ..シュ...."
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:399
+msgid "Thank you for your assistance with those beastfolk."
+msgstr "あの獣族退治への協力に感謝するよ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:400
+msgid "And who might you be, laddie?"
+msgstr "で、お兄ちゃん、何者だね？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:401
+msgid ""
+"I am Uvollyn, a commander in the army of the Eastern elves. We want to talk "
+"to your king about an alliance that he proposed."
+msgstr ""
+"私は Uvollyn 、東方エルフの司令官だ。君たちの王が同盟の提案をしているのだが、"
+"その件について王と話をしたい。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/02_The_Search_For_The_Ochgma.cfg:402
+msgid "Aye, very well then, we hae been looking out for you. Come with me."
+msgstr "承知した。結構な話だ、俺たちもあんたを探していたんだ。さあ、こっちだ。"
+
+#. [scenario]: id=03_Negotiations
+#: Struggle_For_Freedom/scenarios/03_Negotiations.cfg:5
+msgid "Negotiations"
+msgstr "ドワーフとの交渉"
+
+#. [side]: type=Uvollyn Elvish Fighter, id=Uvollyn
+#. [side]: id=Gar Durthsil, type=Dwarvish Pathfinder
+#. [side]: id=Ohlothaihns, type=Dwarvish Lord
+#. [side]
+#. [side]: id=Zulthis, type=Dwarvish Berserker
+#: Struggle_For_Freedom/scenarios/03_Negotiations.cfg:26
+#: Struggle_For_Freedom/scenarios/03_Negotiations.cfg:39
+#: Struggle_For_Freedom/scenarios/03_Negotiations.cfg:52
+#: Struggle_For_Freedom/scenarios/03_Negotiations.cfg:62
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:32
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:59
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:119
+msgid "team_name^Dwarvish Alliance"
+msgstr "ドワーフの同盟"
+
+#. [side]: id=Ohlothaihns, type=Dwarvish Lord
+#: Struggle_For_Freedom/scenarios/03_Negotiations.cfg:44
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:107
+msgid "Ohlothaihns"
+msgstr "Ohlothaihns"
+
+# prescence --> presence ?
+#. [event]
+#: Struggle_For_Freedom/scenarios/03_Negotiations.cfg:113
+msgid "Stop and announce your prescence!"
+msgstr "止まって、身分を明らかにしなさい！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/03_Negotiations.cfg:114
+msgid "I am Gar Durthsil, King's Scout."
+msgstr "俺は Gar Durthsil 、王様の斥候だ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/03_Negotiations.cfg:115
+#: Struggle_For_Freedom/scenarios/03_Negotiations.cfg:119
+msgid "You may pass."
+msgstr "どうぞお通りください。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/03_Negotiations.cfg:117
+msgid "I am Uvollyn, of the Eastern elves, and this is Biaraelia, a shaman."
+msgstr "私は Uvollyn 、東方エルフの者だ。そしてこちらは、呪術師の Biaraelia 。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/03_Negotiations.cfg:118
+msgid "That's right."
+msgstr "ええ、そのとおりよ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/03_Negotiations.cfg:122
+msgid ""
+"Greetings, elves. I am Ohlothaihns, King of the Ochgma Dwarves. I suppose "
+"you elves were sent to negotiate an alliance."
+msgstr ""
+"ご挨拶申し上げよう、エルフの皆さん。私はこの Ochgmaドワーフの王、Ohlothaihns "
+"だ。思うに、あなた方は同盟の交渉を行うために送られてきたのだろう。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/03_Negotiations.cfg:123
+msgid ""
+"Yes, great king. Maelbirurn, Lord of the Eastern elves sent me to negotiate "
+"a mutual defense treaty."
+msgstr ""
+"ええそうです、偉大なる王様。東方エルフの領主 Maelbirurn 様が相互の防衛条約の"
+"交渉に私を派遣なさいました。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/03_Negotiations.cfg:124
+msgid "Remind me again why you would want this treaty with us."
+msgstr ""
+"あなた方がなぜ私たちとこの条約の締結をお望みになるのか、もう一度思い出してく"
+"ださい。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/03_Negotiations.cfg:125
+msgid ""
+"Well, elves, there have been some large orc and beastfolk war-bands "
+"attacking us lately, and we think a large army is gathering to attack us."
+msgstr ""
+"うむ。実は近頃、我々はオークと獣族による大規模な一団に攻撃を受けていますが、"
+"我々への攻撃を目的とした、非常に大きな軍が結集してきているようなのです。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/03_Negotiations.cfg:126
+msgid ""
+"And you ask that we help protect your caves and hills were you attacked?"
+msgstr ""
+"それで私たちに、そちらの洞窟や丘が攻撃を受けた際に守ってほしい、ということで"
+"しょうか？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/03_Negotiations.cfg:127
+msgid ""
+"Aye. Furthermore, we would also provide assistance if the elves were in "
+"danger."
+msgstr ""
+"そういうことです。さらに、もしもエルフの皆さんが危険な際には私たちが支援しよ"
+"うということです。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/03_Negotiations.cfg:128
+msgid "And trade? Would the dwarves do more trade with us?"
+msgstr ""
+"交易に関してはどうですか？ドワーフの皆さんは私たちと今以上に進めたいとお思い"
+"ですか？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/03_Negotiations.cfg:129
+msgid ""
+"We are keen to expand our trade links, that would be mutually beneficial."
+msgstr ""
+"我々は交易関係の拡大を切望していますよ、お互いの利益へ繋がることでしょう。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/03_Negotiations.cfg:130
+msgid ""
+"Also, if you will allow it, we will teach the dwarvish runecrafters, if "
+"possible, some of our shamanic magic, if they would teach us your runic "
+"magic."
+msgstr ""
+"加えて、お許しいただけるならば、ドワーフのルーン技工士に、可能であれば、私た"
+"ちの呪術的魔術の幾つかを伝授しようと思います、もしも、ルーン魔術をご教授いた"
+"だければ、ですが。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/03_Negotiations.cfg:131
+msgid ""
+"Aye, I think we can agree on that. So in summary, we aid each other in a "
+"defensive regard and expand our respective trade links. I will agree to that."
+msgstr ""
+"ええ、それには我々も同意します。概要としては、双方が防衛面で助け合い交易面で"
+"の拡大を進めるということですね、同意いたしましょう。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/03_Negotiations.cfg:132
+msgid "I think our lord Maelbirurn will accept those terms."
+msgstr "我が Maelbirurn 卿もこれらの件を受諾すると思います。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/03_Negotiations.cfg:143
+msgid ""
+"My king... orcs and beastfolk... north caves... won't last much longer...."
+msgstr "王様... オークと獣族たちが...　北の洞窟は...もう長くはもたないかと..."
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/03_Negotiations.cfg:148
+msgid ""
+"Elves, we will discuss this topic later. If you want us to help you, help us "
+"now!"
+msgstr ""
+"エルフの方々よ、この件の話し合いは後にしよう。支援のお気持ちがあるならば、今"
+"すぐにもお願いしたい！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/03_Negotiations.cfg:149
+msgid "Let us go to the north caves! Follow me, troops!"
+msgstr "北の洞窟へ行きましょう！兵士たちよ、私に付いてきてくれ！"
+
+#. [scenario]: id=04_An_Attack_From_The_North
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:5
+msgid "An Attack From The North"
+msgstr "北方からの攻撃"
+
+#. [side]: id=Zulthis, type=Dwarvish Berserker
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:41
+msgid "Zulthis"
+msgstr "Zulthis"
+
+#. [side]: id=Jurgish, type=Orcish Warlord
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:130
+msgid "Jurgish"
+msgstr "Jurgish"
+
+#. [side]: id=Jurgish, type=Orcish Warlord
+#. [side]: id=Tan-Udén, type=Orcish Warlord
+#. [side]
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:139
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:205
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:75
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:125
+msgid "team_name^Orcs"
+msgstr "オーク軍"
+
+#. [side]: id=Duuter_Stoutfist, type=Minotaur Overlord
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:162
+msgid "Duuter Stoutfist"
+msgstr "Duuter Stoutfist"
+
+#. [side]: id=Guh, type=Troll Warrior
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:177
+msgid "Guh"
+msgstr "Guh"
+
+#. [side]: id=Guh, type=Troll Warrior
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:186
+msgid "team_name^Trolls"
+msgstr "トロル軍"
+
+#. [side]: id=Tan-Udén, type=Orcish Warlord
+#. [unit]: id=Tan-Udén, type=Orcish Warlord
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:196
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:225
+msgid "Tan-Udén"
+msgstr "Tan-Udén"
+
+#. [side]: id=Karnus_Stoutroar, type=Minotaur Executioner
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:212
+msgid "Karnus Stoutroar"
+msgstr "Karnus Stoutroar"
+
+#. [objectives]
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:268
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:589
+msgid "Resist for $turns_to_reinforcements turns"
+msgstr "第 $turns_to_reinforcements ターンまで抵抗する"
+
+#. [objectives]
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:272
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:593
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:141
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:394
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:468
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:498
+#: Struggle_For_Freedom/scenarios/06_The_Courtyard.cfg:198
+#: Struggle_For_Freedom/scenarios/06_The_Courtyard.cfg:294
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:384
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:491
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:533
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:589
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:242
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:735
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:265
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:584
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:1121
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:200
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:199
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:532
+msgid "Death of Gar Durthsil"
+msgstr "Gar Durthsil の死"
+
+#. [objectives]
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:273
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:594
+msgid "Death of Ohlothaihns"
+msgstr "Ohlothaihns の死"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:330
+msgid "Ah, some troops to back us up! How many do you ha'?"
+msgstr "あっ、援軍が来た！何人くらいいるんですか？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:331
+msgid ""
+"I'm afraid we only had time to quickly gather a few troops. However, there "
+"are some elves here to help us."
+msgstr ""
+"急だったため少数しか集められなかったのだ、残念だが。しかし、ここにいるエルフ"
+"たちが我々の助けとなってくれる。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:332
+msgid "Elves, hmm."
+msgstr "エルフですか、うーん。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:333
+msgid "We will help you until the main dwarf force arrives."
+msgstr "ドワーフの主力隊が到着するまでお手伝いしますよ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:334
+msgid "Gar Durthsil will serve under you, elves."
+msgstr "Gar Durthsil があなた方エルフのお手伝いを補佐します。"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:359
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:416
+msgid "What! Boss said only dwarves!"
+msgstr "何だって！ドワーフだけだ、ってボスは言ったぞ！"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:360
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:417
+msgid "Who cares! Dwarves, elves, kill 'em all!"
+msgstr "気にするなって！ドワーフもエルフも、みんな殺っちまえ！"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:366
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:373
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:380
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:387
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:423
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:430
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:437
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:444
+msgid "Boss, why are there elves here? You said there were only dwarves!"
+msgstr ""
+"ボス、なんでエルフがいるんだ！ここにはドワーフしかいないって言いましたよね！"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:367
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:424
+msgid "Why do you care? Dwarves, elves, orcs can kill 'em all!"
+msgstr "それがどうした？ドワーフもエルフも、オークなら全部殺せるだろ！"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:374
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:381
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:388
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:431
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:438
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:445
+msgid "Why do you care? Dwarves, elves, kill 'em all!"
+msgstr "それがどうした？ドワーフもエルフも、全部殺しちまえ！"
+
+#. [unit]: type=Orcish Nightblade, id=Purl
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:468
+msgid "Purl"
+msgstr "Purl"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:475
+msgid "Heh, heh, heh."
+msgstr "ヒッヒッヒ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:476
+msgid "What - Aaargh!!!"
+msgstr "なんだ！... うわーー！！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:493
+msgid "Look, an orc in our midst! Guard!"
+msgstr "見ろ、オークが一匹、俺たちの中にいるぞ！警護兵！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:495
+msgid "King's Guard"
+msgstr "王の親衛兵"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:506
+msgid "Noooooo!"
+msgstr "ダメだ――！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:511
+msgid "Uvollyn, are you ok?!"
+msgstr "Uvollyn、大丈夫？！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:512
+msgid "No... Poison..."
+msgstr "ダメ...だ... 毒が..."
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:513
+msgid "Uvollyn collapses to the ground."
+msgstr "Uvollyn は地面に崩れ落ちました。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:514
+msgid "Biaraelia, our dwarvish healers will try to take care of him."
+msgstr "Biaraelia 、我らがドワーフの医師たちが最善を尽くすでしょう。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:517
+msgid " (sob) Ok. I will now take command of the troops."
+msgstr " （すすり泣きながら）ええ。これからは、私が隊に命令を出しましょう。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:538
+msgid "Look, reinforcements!"
+msgstr "見て、援軍よ！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:559
+msgid "At your service, your majesty."
+msgstr "ご支援いたします、陛下。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:560
+msgid ""
+"Look, the enemy seem scared now. What do you think we should do, Biaraelia?"
+msgstr "おや、敵は怖気づいているようだ。我々は何をすべきだろうか、Biaraelia ？"
+
+#. [message]: id=Biaraelia
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:563
+msgid "We will...."
+msgstr "私たちは..."
+
+#. [option]
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:565
+msgid "Let the cowards flee."
+msgstr "臆病者は逃がしましょう。"
+
+#. [command]
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:567
+msgid "Aaarrh! Run away!"
+msgstr "うわーーー！逃げろー！"
+
+#. [command]
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:568
+msgid "You cowards! Stand and fight!"
+msgstr "この臆病者めら！しっかり戦え！"
+
+#. [command]
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:569
+msgid "Run! Too many dwarves!"
+msgstr "逃げろ！ドワーフの奴ら、数が多すぎる！"
+
+#. [command]
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:570
+msgid "We will meet again, pesky elves!"
+msgstr "今日のところは、これくらいにしてやるぞ、またな、面倒なエルフどもめ！"
+
+#. [option]
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:579
+msgid "Hunt them all down."
+msgstr "全員、捕らえましょう。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:612
+msgid ""
+"Pesky elves! You may have beaten us now but watch out! We will meet again."
+msgstr ""
+"面倒なエルフどもめ！ここで俺たちを倒したとしても気を付けることだ！また会お"
+"う。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:613
+msgid ""
+"Tan-Udén beat a hasty retreat from the northern entrance to the dwarvish "
+"lands, leaving the remaining elements of his army to die on our swords."
+msgstr ""
+"Tan-Udén は、ドワーフの領地へ向かう北の入り口から足早に逃げ去り、その残党たち"
+"は私たちの剣に倒れたのでした。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:624
+msgid "May the axes of the dwarves carve orcish heads!"
+msgstr "ドワーフの斧がオークの頭を刻まんことを！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:632
+msgid "Without me, the dwarves will fall into chaos!"
+msgstr "私がいなければ、このドワーフ一族は混沌に陥ってしまう！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:648
+msgid "Aaargh!"
+msgstr "うわぁーーー！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:656
+msgid " *ugh* ..... Help meee...."
+msgstr " ウッ...... 誰か... 助けてくれ..."
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:674
+msgid ""
+"I spit on you, weakling! You may have beaten us now, elves, but watch out! "
+"We will meet again."
+msgstr ""
+"おい、よく聴け、弱虫エルフども！今日は俺たちを負かしたかも知れんが、気を付け"
+"ることだ！また会ってやる。"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:675
+msgid ""
+"With Tan-Udéns' forces destroyed, he beat a hasty retreat from the northern "
+"entrance to the dwarvish lands."
+msgstr ""
+"Tan-Udénの軍勢は総崩れし、獣たちはドワーフの領地へ向かう北の入り口から足早に"
+"逃げ去りました。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:688
+msgid "Bah!"
+msgstr "ブワッ！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:693
+msgid "At last, the orcs are vanquished."
+msgstr "遂に、オークどもを退治した。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:694
+msgid "Yes, but what about Uvollyn?"
+msgstr "そうですね、でも Uvollyn は大丈夫かしら？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/04_An_Attack_From_The_North.cfg:695
+msgid "Let's go see what the healers have been able to do, lassie."
+msgstr "医師たちはどこまで手当できてるか様子を見に行こう、お嬢ちゃん。"
+
+#. [scenario]: id=05_Across_The_Dark_Hills
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:5
+msgid "Across The Dark Hills"
+msgstr "暗黒の丘を越えて"
+
+#. [side]: type=Uvollyn Elvish Fighter, id=Uvollyn
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:28
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:53
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:56
+msgid "team_name^Heroes"
+msgstr "ヒーローたち"
+
+#. [unit]: id=Uvollyn's Transport, type=Elvish Transport
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:34
+msgid "Uvollyn's Transport"
+msgstr "Uvollyn の移送車"
+
+#. [side]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:50
+msgid "team_name^Nightmares"
+msgstr "悪夢"
+
+#. [objectives]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:138
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:390
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:464
+msgid "Reach the end of the western road with the transport"
+msgstr "西側の道の終点に移送車が辿り着く"
+
+#. [objectives]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:139
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:392
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:466
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:496
+msgid "Death of Uvollyn's transport"
+msgstr "Uvollyn の移送車が破壊される"
+
+#. [unit]: id=Ohlothhains, type=Dwarvish Lord
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:157
+msgid "Ohlothhains"
+msgstr "Ohlothhains"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:163
+msgid "Thank you for everything, great king."
+msgstr "全てのことに感謝いたします、偉大なる王様。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:164
+msgid ""
+"My pleasure. I swear on the bones of my ancestors the dwarves will come to "
+"the aid of the elves should they send word. And I have assigned Gar Durthsil "
+"to go with you, to guide you to Soradoc."
+msgstr ""
+"こちらこそ。我が先祖の骨に誓って言おう。一報を貰えば、ドワーフはエルフの役に"
+"立つため駆けつけることを。それと、Soradoc への案内として Gar-Durthsil を同行"
+"させるよう手配したよ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:165
+msgid "Thank you, and fare you well."
+msgstr "ありがとうございます、それでは、お達者でお過ごしください。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:170
+msgid ""
+"I think we should make haste to Soradoc, lest Uvollyn's condition worsens. "
+"Beware though, this area is known for ambushes, given the narrow valley we "
+"are in."
+msgstr ""
+"Soradoc へ急いだ方が良いだろうな、Uvollyn の症状が悪化するといけない。でも注"
+"意しなければ。この辺りは待ち伏せで知られている峡谷なんだよ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:171
+msgid "(from inside) Moan.. "
+msgstr "（中から）うーーん... "
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:172
+msgid "We must hurry!"
+msgstr "急いで！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:180
+msgid "Look, an elf is inside!"
+msgstr "見ろ、中にエルフがいる！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:181
+msgid "Oh, no..."
+msgstr "もうダメだわ..."
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:182
+msgid "I know! I'll kill it!"
+msgstr "分かっている。私が殺す！"
+
+#. [message]: speaker=narrator
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:187
+msgid "Ack.. Help me.."
+msgstr "アゥ...助けて..."
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:204
+msgid "Orc Ambusher"
+msgstr "オークの熟練散兵"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:205
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:208
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:210
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:213
+msgid "Troll Ambusher"
+msgstr "トロルの熟練散兵"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:206
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:212
+msgid "Ogre Ambusher"
+msgstr "オーガの熟練散兵"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:215
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:218
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:220
+msgid "Troll Captain"
+msgstr "トロルの隊長"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:232
+msgid ""
+"You might have defeated us before, but we have you now, puny elves. Prepare "
+"to die! "
+msgstr ""
+"お前ら、前に俺たちを痛めつけてくれた奴らか、だが、分かってるだろうがチビエル"
+"フども、死ぬ覚悟はできてるんだろうな！ "
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:233
+msgid "We defeated you then and we will defeat you now."
+msgstr "あの時も倒したし、今また倒してあげましょう。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:246
+msgid "How did this...aahhh"
+msgstr "なんでこんなことに...アァァ"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:247
+msgid "Biaraelia, you need to see this."
+msgstr "Biaraelia 、これが。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:248
+msgid ""
+"A letter? What? <i>'Attack the dwarves and capture Uvollyn and Biaraelia and "
+"take them to Soradoc. What you do with the rest of the elves and dwarves is "
+"of no consequence to me.'</i> It's signed <i>Y'fel</i>.  Who's Y'fel?"
+msgstr ""
+"手紙ね？何が書いてあるのかしら？ <i>\"ドワーフを攻撃して Uvollyn と "
+"Biaraelia を拿捕し、Soradoc へ連行せよ。他のエルフとドワーフはお前たちの好き"
+"にしろ。\"</i>　署名があるわ。”<i>Y'fel </i>”　Y'fel って何者なの？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:249
+msgid ""
+"Haven't heard that name before. Who would want you and the lad captured?"
+msgstr ""
+"聞いたことのない名前だなあ。あの兄ちゃんとあんたを捕まえたがってる奴って、誰"
+"だろう？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:250
+msgid ""
+"I've no idea. I wish I could talk to Uvollyn. We need to be careful in "
+"Soradoc. Let's go and get there as soon as possible, Uvollyn needs help."
+msgstr ""
+"分からない。Uvollyn に相談したかったわ。Soradoc では注意しなければ行けないわ"
+"ね。とにかく急ぎましょう、Uvollyn が助けを必要としてるわ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:262
+msgid "This house looks lived in. I wonder if anybody is here?"
+msgstr "この家は、誰か住んでるみたいだけど。誰かいるんじゃないかな？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:263
+msgid "Well, go on. Knock on the door."
+msgstr "よし、行ってみましょう。ノックしてちょうだい。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:264
+msgid "KNOCK KNOCK KNOCK...."
+msgstr "コン コン コン..."
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:265
+msgid "....KNOCK KNOCK KNOCK KICK KICK *CRASH*"
+msgstr "...コン コン コン バシッ バシッ 「バキッ」"
+
+#. [unit]: type=Elvish Shyde, id=Alouné
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:269
+msgid "Alouné"
+msgstr "Alouné"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:282
+msgid "Stay back, troll - Oh wait, you're a dwarf! What are you doing here?"
+msgstr ""
+"下がりなさい、トロル ...... あ、待って、あなた、ドワーフね！こんな所で何をし"
+"てるの？"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:283
+msgid ""
+"I am travelling with a group of elves to Soradoc. Our leader was poisoned "
+"and only their healers can save him."
+msgstr ""
+"俺は、エルフの皆と Soradoc に行くところなんだ。リーダーが毒に侵されてしまっ"
+"て、そこの医者じゃないと治せないんだよ。"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:284
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:305
+msgid "Really?"
+msgstr "ほんとに？"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:293
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:314
+msgid "Alouné examines Uvollyn."
+msgstr "Alouné は Uvollyn の状態を診ています。"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:294
+msgid "Well, it seems you are right, dwarf. I for one cannot heal him."
+msgstr "あぁ、そのようね、ドワーフさん。私じゃ、この人を治せないわ。"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:295
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:316
+msgid "Alouné, would you like to travel with us?"
+msgstr "Alouné 、私たちと一緒に来てくれないかしら？"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:296
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:317
+msgid "Yes, I would love to! I'll go get my belongings."
+msgstr "ええ、是非ご一緒したいわ！荷物を取ってくるわね。"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:303
+msgid "Stay back, troll - Oh wait, you're a elf! What are you doing here?"
+msgstr ""
+"下がりなさい、トロル ...... あ、待って、あなた、エルフね！こんな所で何をして"
+"るの？"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:304
+msgid ""
+"I am part of a group of some elves and a dwarf travelling to Soradoc. Our "
+"leader was poisoned and only their healers can save him."
+msgstr ""
+"私は、数名のエルフとドワーフと一緒に Soradoc に行くところなんです。リーダーが"
+"毒に侵されてしまって、そこの医師じゃないと治せないのです。"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:315
+msgid "Well, it seems you are right, forest kin. I for one cannot heal him."
+msgstr "あぁ、そのようね、森のお仲間さん。私じゃ、この人を治せないわ。"
+
+#. [unit]: type=Highwayman, id=Xavien
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:338
+msgid "Xavien"
+msgstr "Xavien"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:350
+msgid "Rhennyc"
+msgstr "Rhennyc"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:351
+msgid "Jacla"
+msgstr "Jacla"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:352
+msgid "Lirydda"
+msgstr "Lirydda"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:353
+msgid "Addryn"
+msgstr "Addryn"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:354
+msgid "Granmaruk Boldbane"
+msgstr "Granmaruk Boldbane"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:355
+msgid "Tesken Fearlesshorn"
+msgstr "Tesken Fearlesshorn"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:356
+msgid "Foosfaruk Ironslayer"
+msgstr "Foosfaruk Ironslayer"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:357
+msgid "Gran"
+msgstr "Gran"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:368
+msgid "Ha ha ha! We will kill you all, little humans!"
+msgstr "ハッハッハ！ お前たち全員を殺してやろう、か弱い人間ども！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:369
+msgid "Oh no, we are trapped! Fight with all you've got, boys!"
+msgstr "やめてくれ、罠に嵌まっちまった！ 野郎ども、全力で戦え！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:370
+msgid "Hey look, elves!"
+msgstr "おい見てみろ、エルフだ！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:371
+msgid "Who are you people?"
+msgstr "あなたたち、誰なの！？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:372
+msgid "We are mercenaries."
+msgstr "俺たちは傭兵だ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:373
+msgid "Mercenaries have no honour! Why should we help you?"
+msgstr "傭兵に名誉など無い！なぜお前たちを助けなければならんのだ？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:374
+msgid ""
+"You must understand, we are not your ordinary band of mercenaries. We were "
+"thrown out of our home by Asheviere's army just because we didn't join them. "
+"There are no thugs and murderers like in other mercenary bands."
+msgstr ""
+"知ってるはずだ、俺たちはそこらの傭兵とは違う。Asheviere 軍に加わらなかったと"
+"いう、ただそれだけの理由で我が故郷を追放されたのだ。俺たちは誰一人としてゴロ"
+"ツキなどではないし、他の傭兵一味のような人殺しでもない。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:375
+msgid "Well, you seem like fair enough people. Elves! Get the minotaurs!"
+msgstr ""
+"なるほど、かなりまともな人間たちのようですね。エルフたち！ミノタウロスを倒す"
+"のよ！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:376
+msgid "We are in your debt. We will help you for now."
+msgstr "恩に着るぜ。この借りは、いつかきっと返すから楽しみにしててくれ。"
+
+#. [objectives]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:391
+msgid "Defeat the minotaur leader"
+msgstr "ミノタウロスのリーダーを倒す"
+
+#. [objectives]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:395
+#: Struggle_For_Freedom/scenarios/06_The_Courtyard.cfg:199
+#: Struggle_For_Freedom/scenarios/06_The_Courtyard.cfg:295
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:534
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:590
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:243
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:736
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:266
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:585
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:1122
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:201
+msgid "Death of Xavien"
+msgstr "Xavien の死"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:410
+msgid "I die... Well, at least <i>they</i> will get you."
+msgstr ""
+"俺は死ぬ... だがな、少なくとも<i>アイツら </i> は、お前たちの首を取るだろう"
+"よ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:411
+msgid "Who's they?"
+msgstr "「アイツら」とは？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:412
+msgid "Ha, not telling...."
+msgstr "フン、さぁて誰かな..."
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:420
+msgid "So, why are some elves just wandering around in the hills of the orcs?"
+msgstr "なあ、オークの丘でエルフたちが歩き回っているってのは、どういうわけだ？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:421
+msgid ""
+"Our leader Uvollyn was poisoned by an orcish nightblade and we need to get "
+"him to Soradoc and treatment."
+msgstr ""
+"私たちのリーダー Uvollyn がオークの夜刀の毒に侵されたのよ。それで、Soradoc へ"
+"連れて行って治療してもらわなければならないの。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:422
+msgid ""
+"Hmm, seems like a worthy cause. We have heard odd things of Soradoc of late, "
+"though. We will join you, but I urge caution."
+msgstr ""
+"うーむ、もっともな話だ。最近、Soradoc の奇妙なことを耳にしたことはあるが。同"
+"行しよう、でも用心したほうがいいな。"
+
+#. [unit]: type=Shadow Lord, type=Shadow Mage, id=Mal-Durben
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:439
+msgid "Mal-Durben"
+msgstr "Mal-Durben"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:450
+msgid ""
+" Ha ha ha ha! So the beasts were weak. No matter, I will take the glory."
+msgstr ""
+" ハッハッハッハ！獣どもめ、ひ弱な存在だった。話にならん、栄光を手にするのは、"
+"この私だ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:451
+msgid "Who's this?"
+msgstr "こいつ、何者だ？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:452
+msgid "I am Mal-Durben, master of the night!"
+msgstr "私は Mal-Durben、 夜の支配者だ！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:453
+msgid "This guy must be the 'they' that orc was talking about."
+msgstr "こいつのことよ、オークたちが話していた「アイツら」って。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:459
+msgid "Ha ha ha ha! You don't seem very scary to me."
+msgstr "ハッハッハッハ！どうやら、恐るるに足りぬようだ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:460
+msgid "You dare question my powers? Y'fel has commanded me to kill you."
+msgstr "この私の力を疑うのか？ Y'fel はお前たちを殺せと命じたぞ。"
+
+#. [objectives]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:465
+msgid "Defeat Mal-Durben"
+msgstr "Mal-Durben を倒す"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:481
+msgid "What? I was promised eternal life...."
+msgstr "どういうことだ？私は永遠の命を約束されたのに..."
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:482
+msgid "Argh..."
+msgstr "アァゥ..."
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:490
+msgid ""
+"Again that name Y'fel. First beastfolk and now these night creatures? What "
+"is going on?"
+msgstr ""
+"また、その Y'fel という名前ね。最初は獣族から、そして今度は夜の生物から？どう"
+"いうことかしら？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:491
+msgid "I have no idea."
+msgstr "分からんよ。"
+
+# note: This line is no longer used.
+#  (v1.0.6)
+#. [objectives]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:495
+msgid "Reach the end of the western road with Biaraelia"
+msgstr "Biaraelia が西方の未知の終点に到着する"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:520
+msgid ""
+"We can't leave those beasts roaming around, we must defeat their leader."
+msgstr "この獣どもを避けて通ることはできないようね。リーダーを倒すしかないわ。"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:529
+msgid ""
+"We can't leave those night creatures roaming around, we must defeat their "
+"leader."
+msgstr ""
+"この夜の生物どもを避けて通ることはできないようね。リーダーを倒すしかないわ。"
+
+#. [else]
+#: Struggle_For_Freedom/scenarios/05_Across_The_Dark_Hills.cfg:532
+msgid "We have made it! Now, on to Soradoc!"
+msgstr "私たち、やったわね！さあ、Soradoc へ！"
+
+#. [scenario]: id=06_The_Courtyard
+#: Struggle_For_Freedom/scenarios/06_The_Courtyard.cfg:5
+msgid "The Courtyard"
+msgstr "中庭にて"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/06_The_Courtyard.cfg:44
+msgid "Durrcyn"
+msgstr "Durrcyn"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/06_The_Courtyard.cfg:46
+msgid "I have come to heal you, elf."
+msgstr "あなたを治療しに来ました、エルフさん。"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/06_The_Courtyard.cfg:69
+msgid "Wow, human magic!"
+msgstr "なんと、人間の魔法！"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/06_The_Courtyard.cfg:72
+msgid "<i>(whispering)</i> Sir, I would be care-"
+msgstr "<i>（囁き声で）</i> 閣下、気になることが ―"
+
+#. [unit]: type=Dark Razerman, id=Velezor
+#: Struggle_For_Freedom/scenarios/06_The_Courtyard.cfg:77
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:707
+msgid "Velezor"
+msgstr "Velezor"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/06_The_Courtyard.cfg:105
+msgid "What did you do that for?"
+msgstr "何をしている、目的は何だ？"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/06_The_Courtyard.cfg:107
+msgid "Ha ha ha ha ha! You are my prisoners now!"
+msgstr "ハッハッハッハ！お前は今、捕虜となった！"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/06_The_Courtyard.cfg:182
+msgid "Mwahahahaha!"
+msgstr "ムワッハッハッハ！"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/06_The_Courtyard.cfg:183
+msgid ""
+"I knew I sensed magic. The whole floor is one big rune! They have used the "
+"magic to seal us in!"
+msgstr ""
+"やはりね、私、魔力を感じたもの。この広間全体が一つの巨大ルーンなのです！私た"
+"ちを閉じ込めるために魔法を使ったのね！"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/06_The_Courtyard.cfg:184
+msgid "We must fight our way out!"
+msgstr "これはもう、戦うしかないな！"
+
+#. [objectives]
+#: Struggle_For_Freedom/scenarios/06_The_Courtyard.cfg:194
+msgid "Defeat at least 7 enemies"
+msgstr "7体以上の敵を倒す"
+
+#. [objectives]
+#: Struggle_For_Freedom/scenarios/06_The_Courtyard.cfg:195
+msgid "OR: Defeat Velezor"
+msgstr "または：Velezor を倒す"
+
+#. [note]
+#: Struggle_For_Freedom/scenarios/06_The_Courtyard.cfg:206
+msgid "Killing Velezor does not increment the count."
+msgstr ""
+"Velezorを倒しても「7体」のカウントには含まれません。（ Velezor を倒せば勝利し"
+"ます。）"
+
+#. [side]
+#. [side]: id=Almaer, type=Grand Knight
+#. [side]: id=Rud, type=Custodian
+#: Struggle_For_Freedom/scenarios/06_The_Courtyard.cfg:236
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:44
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:63
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:107
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:142
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:198
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:222
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:155
+msgid "team_name^Humans"
+msgstr "人間"
+
+#. [side]
+#: Struggle_For_Freedom/scenarios/06_The_Courtyard.cfg:246
+msgid "Delphis"
+msgstr "Delphis"
+
+#. [side]
+#: Struggle_For_Freedom/scenarios/06_The_Courtyard.cfg:247
+msgid "Forther"
+msgstr "Forther"
+
+#. [objectives]
+#: Struggle_For_Freedom/scenarios/06_The_Courtyard.cfg:291
+msgid ""
+"Enter Soradoc's courtyard with Biaraelia, Gar Durthsil, Xavien and Uvollyn's "
+"Transport"
+msgstr ""
+"Soradoc の中庭に Biaraelia 、Gar Durthsil 、Xavien 、Uvollyn の移送車が入る"
+
+#. [objectives]
+#: Struggle_For_Freedom/scenarios/06_The_Courtyard.cfg:292
+msgid "Death of Uvollyn's Transport"
+msgstr "Uvollyn の移送車が破壊される"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/06_The_Courtyard.cfg:335
+msgid "Look, the city of Soradoc!"
+msgstr "見て、Soradoc の街よ！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/06_The_Courtyard.cfg:336
+msgid "Wow! I've never seen a human city before."
+msgstr "おお！人間の街を見るのは初めてだ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/06_The_Courtyard.cfg:337
+msgid ""
+"Bah! Human cities are crumbly bits of weak stone cobbled together. Give me a "
+"real dwarven cave-house any day."
+msgstr ""
+"ブワー！人間の街ってのは、脆くて軟弱な石をツギハギしただけのもんなんだな。本"
+"物のドワーフの洞窟ハウスを、すぐにでも俺に作って欲しいもんだ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/06_The_Courtyard.cfg:338
+msgid ""
+"We are not here to argue about who's house is better, dwarf, but to get "
+"healing."
+msgstr ""
+"誰の家の方がいいとか話すために来てるんじゃないんだ、ドワーフさんよ、治療しに"
+"来たんだ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/06_The_Courtyard.cfg:339
+msgid "Gar Durthsil, Xavien, please stop arguing. Let's go into Soradoc now."
+msgstr ""
+"Gar Durthsil 、Xavien 、口論はやめてちょうだい。さあ、Soradoc へ行きましょ"
+"う。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/06_The_Courtyard.cfg:350
+msgid ""
+"I sense something here... the whisper... the smell... the aura of magic."
+msgstr "何か感じるわ、ここ... 囁き... 匂い... 魔力の空気感。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/06_The_Courtyard.cfg:351
+msgid "It's probably just those mages working away at whatever they do."
+msgstr "おそらく、ほら、あの魔術師たちが、せっせと何かをしているんだよ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/06_The_Courtyard.cfg:352
+msgid "Yeah, you're probably right."
+msgstr "ええ、多分、その言葉は当たってるわね。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/06_The_Courtyard.cfg:396
+msgid "Stop! What are you doing wandering around here?"
+msgstr "止まれ！お前たち、ここで何をウロウロしてるんだ！？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/06_The_Courtyard.cfg:397
+msgid "Yeah!"
+msgstr "そうだそうだ！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/06_The_Courtyard.cfg:398
+msgid ""
+"Please let us in. Our leader was poisoned by an orcish assassin and now lies "
+"near death. We need on of your healers to cure him."
+msgstr ""
+"中に入れてください。私たちのリーダーがオークの殺し屋の毒に侵されてしまって、"
+"生死の境を彷徨っているんです。彼を回復させるためにはあなた方の医師の力が必要"
+"なんです。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/06_The_Courtyard.cfg:399
+msgid ""
+"<i>(whispered)</i> Do you want me to bash him with my mace if he doesn't "
+"comply?"
+msgstr ""
+"<i>（ヒソヒソ声で）</i> もしも、あいつが俺たちに従わなかったら、俺のメイスで"
+"ぶん殴って欲しいかい？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/06_The_Courtyard.cfg:400
+msgid "Shut up, Xavien."
+msgstr "黙ってろ、Xavien 。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/06_The_Courtyard.cfg:401
+msgid "Hmm, seems like a worthy cause. You may enter."
+msgstr "うーむ、なるほど、もっともな話だ。入ってよろしい。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/06_The_Courtyard.cfg:402
+msgid "Whew!"
+msgstr "ふぅ〜！ 一安心ね。"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/06_The_Courtyard.cfg:418
+msgid ""
+"As the seventh enemy fell down, blood pouring from the mortal wound to his "
+"chest, many more guards entered the courtyard from a secret door. They "
+"converged on our heroes and knocked them out."
+msgstr ""
+"胸に負った致命傷から血が流れ出て、7人目の敵が倒れると、隠し扉の向こうから中庭"
+"へ無数の警護兵がなだれ込んできたのです。彼らは我らがヒーローたち目掛けて押し"
+"寄せ、気絶させてしまいました。"
+
+#. [then]
+#. [event]
+#: Struggle_For_Freedom/scenarios/06_The_Courtyard.cfg:419
+#: Struggle_For_Freedom/scenarios/06_The_Courtyard.cfg:438
+msgid "Aaaaah!"
+msgstr "アーーーッ！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/06_The_Courtyard.cfg:437
+msgid ""
+"As Velezor collapsed to the ground, a mortal wound to his chest, many more "
+"guards entered the courtyard from a secret door. They converged on our "
+"heroes and knocked them out."
+msgstr ""
+"胸に負った致命傷から血が流れ出て、Velezor が地面に崩れ落ちると、隠し扉の向こ"
+"うから中庭へ無数の警護兵がなだれ込んできたのです。彼らは我らがヒーローたち目"
+"掛けて押し寄せ、気絶させてしまいました。"
+
+#. [side]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:47
+msgid "Jerrdry"
+msgstr "Jerrdry"
+
+#. [side]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:48
+msgid "Tomis"
+msgstr "Tomis"
+
+#. [side]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:51
+msgid "Darmeno"
+msgstr "Darmeno"
+
+#. [side]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:79
+msgid "Raoul"
+msgstr "Raoul"
+
+#. [objectives]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:183
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:380
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:487
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:529
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:586
+msgid "Escape from the prison"
+msgstr "監獄から脱出する"
+
+#. [objectives]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:184
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:381
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:488
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:530
+msgid "Free as many prisoners as you can"
+msgstr "できるだけ多くの捕虜を解放する"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:249
+msgid "Enjoying yourself, elf scum?"
+msgstr "エルフのクズども、楽しんでるか？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:250
+msgid "Why have you captured us? What have we done to you?"
+msgstr "なぜ捕まえるのだ？私たちが何をしたというのだ？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:251
+msgid "The boss has plans."
+msgstr "うちのボスの計画なんだよ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:252
+msgid "What plans?"
+msgstr "何の計画だ？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:253
+msgid "I don't know.... shut your mouth, prisoner!"
+msgstr "知らん... 捕虜のくせに、黙ってろ！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:256
+msgid ""
+"Uvollyn is left for a while, and gets bored and starts pacing his cell. "
+"After a little while..."
+msgstr ""
+"Uvollyn は暫くの間、じっとしたままでしたが、退屈さもあって、監房の中を行った"
+"り来たりし始めました。少し時間が経った頃..."
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:266
+msgid ""
+"Hmm, there is a sword carving protruding from the wall. It looks awfully "
+"real..."
+msgstr "うーん、壁から剣の彫り物が突き出してる所がある。まるで本物みたいだ..."
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:267
+msgid ""
+"Uvollyn examines the carving for a few minutes, and realises the sword "
+"carving is loose."
+msgstr ""
+"Uvollyn は少し彫り物を調べた後、剣の部分が緩んでいることに気が付きました。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:268
+msgid ""
+"I'll hide behind the wall, and when a guard comes in, I'll club him and make "
+"my escape."
+msgstr ""
+"うむ、私は壁の後ろに隠れて、警護兵が入って来たら棍棒で殴って逃げ出すことにし"
+"よう。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:269
+msgid ""
+"Uvollyn lifts the stone sword. Suddenly the whitish stone covering it flies "
+"off in a cloud of dust. Underneath is a medium-length steel blade, engraved "
+"with arcane runes."
+msgstr ""
+"Uvollyn は石の剣を持ち上げました。突然、覆っていた白っぽい石が粉塵となって飛"
+"び散りました。そのすぐ下には中程度の長さの、難解なルーンが刻まれた鋼鉄の剣が"
+"あったのです。"
+
+#. [object]: id=runesword_dsc_plus_code
+#. [variation]: id=Uvollyn Elvish Captain, race=elf
+#. [variation]: id=Uvollyn Elvish Fighter, race=elf
+#. [variation]: id=Uvollyn Elvish Marshal, race=elf
+#. [variation]: id=Uvollyn Elvish Warlord, race=elf
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:273
+#: Struggle_For_Freedom/units/elves-uvollyn-custom/Captain.cfg:103
+#: Struggle_For_Freedom/units/elves-uvollyn-custom/Fighter.cfg:101
+#: Struggle_For_Freedom/units/elves-uvollyn-custom/Marshal.cfg:105
+#: Struggle_For_Freedom/units/elves-uvollyn-custom/Warlord.cfg:106
+msgid "Runesword"
+msgstr "ルーン剣"
+
+#. [object]: id=runesword_dsc_plus_code
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:276
+msgid ""
+"Hidden by a long dead wizard held prisoner in this very dungeon, the "
+"runesword will only appear to those true of heart and brave of spirit. Those "
+"using the runesword will be able to use its magical powers to be healthier, "
+"more accurate and the sword enhances any magical abilities the subject has."
+msgstr ""
+"このルーン剣は、この地下牢に囚われた魔術師が隠し持っていたもので、誠意と勇気"
+"を持つ者の前にしか現れません。ルーン剣を使う者は、その魔法の力を使って、より"
+"健康体となり、より攻撃精度が高まる上に、使い手が備え持つあらゆる魔法の能力を"
+"強化します。"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:302
+msgid "This sword is great!"
+msgstr "この剣は素晴らしいぞ！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:305
+msgid "Uvollyn slices through the cell bars and escapes into the corridor."
+msgstr "Uvollyn は牢の鉄格子を切断して、廊下へと脱出しました。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:323
+msgid "I'm out! Now, to find Biaraelia and the others."
+msgstr "外に出たぞ！よし、Biaraelia と他の者達を探すぞ。"
+
+#. [message]: speaker=narrator
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:336
+msgid "Note"
+msgstr "注意"
+
+#. [message]: speaker=narrator
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:337
+msgid ""
+"Guards - do not open the door. Doing so will destroy the magic-containing "
+"spell inside and allow the elf witch to escape."
+msgstr ""
+"警護兵へ：扉を開けるべからず。開けると魔法の呪文が無効となり、エルフの魔女が"
+"逃走する。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:339
+msgid "Well then, I will break the door!"
+msgstr "へえ、それなら扉を壊そう！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:374
+msgid ""
+"Oh, thank you so much Uvollyn! You don't know what it was like, trapped "
+"without my magic. I am forever grateful."
+msgstr ""
+"わぁ、有難う Uvollyn ！私の魔法以外の罠に掛かって、どんな仕組みなのか、あなた"
+"には分からなかったでしょうに。この先ずっと感謝し続けるわ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:375
+msgid "Biaraelia, it's all right now. Come, we must free the others."
+msgstr "Biaraelia 、もう大丈夫だ。さあ、他の皆も解放しなければ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:401
+msgid ""
+"It looks like these runes are used to control whether the wall is here or "
+"not. I wonder if Biaralia could deactivate them."
+msgstr ""
+"このルーンは、壁がここにあるかどうかを制御するために使われているようだ。"
+"Biaraelia なら、これを無力化できるんじゃないかな。"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:426
+msgid "<i>(chanting softly under her breath)</i>"
+msgstr "<i>（息をひそめて、小声で唱える）</i>"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:441
+msgid "I have removed the runic magic and destroyed the wall."
+msgstr "ルーンの魔法を取り除いて、壁を壊したわ。"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:443
+msgid "Morris"
+msgstr "Morris"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:447
+msgid "Hey, why are we doing this boring job? Nothin' ever happens down here."
+msgstr ""
+"なあ、どうしてこんな退屈な仕事を続けるんだ？ここじゃ何も起きやしないよな。"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:448
+msgid "Because the boss told us to, idiot!"
+msgstr "ボスが言ったからやってんだよ、この間抜け！"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:449
+msgid "Attack them!"
+msgstr "あいつらを片付けよう！"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:450
+msgid "Slice them to bits!"
+msgstr "切り刻んでやって！"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:451
+msgid "Since when did you get that bloodthirsty streak, Biaraelia?"
+msgstr "Biaraelia 、そんな残忍な性格になったのは、いつからだ？"
+
+# aquired --> acquired
+#. [then]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:452
+msgid "I think I aquired it while in that cell."
+msgstr "監房に収監されてたうちによ、きっと。"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:453
+msgid "Aaaaahhhh!!!"
+msgstr "おりゃーーーーー！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:479
+msgid "Thanks, lad. I almost thought I'd be stuck there forever."
+msgstr ""
+"兄ちゃん、ありがとよ。ここに埋もれたまま死んじまうんじゃないかと諦めてたん"
+"だ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:521
+msgid "I've been rescued by the elves again! How can I ever thank you?"
+msgstr "またエルフに助けられちまったな！恩返し、仕切れねえかもしれんぞ？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:522
+msgid "Well, you could help us get out of here."
+msgstr "なあ、あんたなら、ここから外に出るのを手伝ってくれるよな。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:561
+msgid "Commander Uvollyn, you have saved us, sir!"
+msgstr "Uvollyn 司令官殿、よくぞお救いいただきました、閣下！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:562
+msgid ""
+"Come, let us get you some weapons. We encountered a cache of some on the way."
+msgstr "さ、武器を手にとろう。ここに来るまでにいろいろと隠し場所があった。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:563
+msgid ""
+"There is a keep here which you can summon newly armed elvish warriors from."
+msgstr "ここに砦があるので、新しく武装したエルフを召喚可能です。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:579
+msgid ""
+"The prisoners go and arm themselves. You may now recruit and recall troops!"
+msgstr ""
+"捕虜たちは武装して移動します。ここからは兵士たちを雇用・召喚することができま"
+"す！"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:625
+msgid ""
+"This looks like a weapons cache. They can be distributed to our captured "
+"friends when we free them."
+msgstr ""
+"ここは武器の貯蔵庫みたいだ。仲間を解放したら、これを配ればいいわけだな。"
+
+#. [unit]: type=Thief, type=Rogue, id=Aldra
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:634
+msgid "Aldra"
+msgstr "Aldra"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:644
+msgid "Die, guard scum! I'll cut your throat and..."
+msgstr "死ね、警備兵のクズ野郎！舌を切り落としてやるからね..."
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:645
+msgid "Wait, I'm not a guard!"
+msgstr "待て待て、警護兵なんかじゃないって！"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:646
+msgid "Oops, couldn't see you well in the dark."
+msgstr "あっ、暗くてよく見えなかったわ。"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:647
+msgid "How did you get out?"
+msgstr "どうやって監房から抜け出したんだ？"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:648
+msgid "Easy! I just picked the lock with one of my hidden knives."
+msgstr "簡単よ！自分の隠しナイフで鍵をピッキング、チョチョイのチョイよ。"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:702
+msgid "They are attacking! Call Velezor!"
+msgstr "奴らが攻めてくるぞ！ Velezor を呼ぶんだ！"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:711
+msgid "Hahahahaha! We meet again, elves!"
+msgstr "ハッハッハッハッハ！また会ったな、エルフども！"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:712
+msgid ""
+"This time we will kill you and banish your soul to the deepest pits of hell!"
+msgstr "今度は生かしておかない。お前の魂は地獄の奥深くに追放されることだろう！"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:713
+msgid "Ha! I'm not scared of your puny threats!"
+msgstr "ケッ！そんな脅しに、この私が怖気づくとでも思ったか！"
+
+#. [else]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:716
+msgid "They are attacking! Call our captain!"
+msgstr "奴らが攻めてくるぞ！隊長を呼べ！"
+
+#. [unit]: type=Dark Razerman, id=Mesthok
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:721
+msgid "Mesthok"
+msgstr "Mesthok"
+
+#. [else]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:725
+msgid "Hahahahaha! We meet at last, elves!"
+msgstr "ハッハッハッハッハ！ 遂に会えたな、エルフども！"
+
+#. [else]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:726
+msgid ""
+"Guard, leave or we will kill you and banish your soul to the deepest pits of "
+"hell."
+msgstr ""
+"警護兵よ、去れ！ さもなくば、お前を殺して、その魂は地獄の奥深くに追放されるだ"
+"ろう。"
+
+#. [else]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:727
+msgid "  Ha! I'm not scared of your puny threats!"
+msgstr " ケッ！そんな脅しに、この私が怖気づくとでも思ったか！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:737
+msgid "So, you have met your match, guard."
+msgstr "ま、あんた、良いライバルに出会えたってわけさ、警護兵。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:738
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:758
+msgid "Damn you... aaaarrrgh!"
+msgstr "クソ野郎... アァーー！"
+
+# 要確認 現在形？
+#. [event]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:746
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:766
+msgid "A wall moves behind the keep."
+msgstr "壁が、砦の背後に移動します。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:757
+msgid "So, you have met your match, Velezor."
+msgstr "ま、良いライバルに出会えたわけだ、Velezor 。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:782
+msgid "En garde, fiends!"
+msgstr "油断禁物だぞ！"
+
+#. [unit]: id=Ead Narm, type=Dark Guardian
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:794
+msgid "Ead Narm"
+msgstr "Ead Narm"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:832
+msgid "The prisoners are escaping!"
+msgstr "捕虜が逃げ出してるぞ！"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:850
+msgid "We have made it out of the prison!"
+msgstr "やったぞ、収容所から脱出したぞ！"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:851
+msgid "What will we do now, Uvollyn?"
+msgstr "さあ、これからどうするの、Uvollyn ？"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:852
+msgid ""
+"We will find the leader of these humans, and find the cause of this "
+"injustice done to us."
+msgstr ""
+"この人間たちのリーダーを探し出し、私たちへの不当な仕打ちの理由を突き止めよ"
+"う。"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:853
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:907
+msgid "Good idea."
+msgstr "いい考えだな。"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:854
+msgid ""
+"We should head for the main castle or fortress. There is where we will find "
+"their 'boss'."
+msgstr "敵の本城か砦に向かうべきだ。そこに奴らの「ボス」がいるだろう。"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:855
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:909
+msgid "Come, let us find him!"
+msgstr "よし、そいつを見つけるぞ！"
+
+#. [else]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:864
+msgid "We're out, but there are still troops inside to be rescued."
+msgstr "外に出られたけど、捕まってる仲間がまだいるな。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:878
+msgid "Undead! There are undead in this prison!"
+msgstr "アンデッドだ！この監獄にはアンデッドがいるぞ！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:879
+msgid "Grough... Muuuaagh...."
+msgstr "グルゥ... ムワァ..."
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:880
+msgid "They must be guarding something."
+msgstr "アイツら、何かを警護してるに違いないな。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:881
+msgid "Yes, but what?"
+msgstr "ああ、だが、何だろう？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:891
+msgid "There is a secret door here."
+msgstr "あ、ここに隠し扉がある。"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:905
+msgid ""
+"It looks like there is a secret tunnel here, leading out of the prison and "
+"through the sewers."
+msgstr ""
+"ここに秘密の坑道がありそうだ。収容所の外から下水道まで続いているかもな。"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:906
+msgid "I think we should get out this way, for the guards will not see us."
+msgstr "こちらに行くべきだな。そうすれば警護に見つからずに済むだろう。"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:908
+msgid ""
+"After we go through the sewers, we should find their main fortress or "
+"castle. That is where we will find their 'boss'."
+msgstr ""
+"下水路を抜けた後、主塔か城を見つけないとな。そこに奴らの「ボス」ってのはそこ"
+"にいるだろう。"
+
+#. [else]
+#: Struggle_For_Freedom/scenarios/07_Struggle_For_Freedom.cfg:925
+msgid ""
+"There is a tunnel leading out here, but not all our troops have been freed."
+msgstr "ここに繋がる坑道があるけど、まだ開放できていない仲間がいるんだ。"
+
+#. [scenario]: id=08a_Eye_Of_Yfel
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:6
+msgid "The Eye of Y'fel"
+msgstr "Y'fel の目"
+
+#. [side]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:115
+msgid "team_name^Thieves"
+msgstr "盗賊団"
+
+#. [side]
+#. [unit]: type=Death Squire, id=Derrick Undead
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:116
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:784
+msgid "Derrick"
+msgstr "Derrick"
+
+#. [side]: id=Almaer, type=Grand Knight
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:138
+msgid "Almaer"
+msgstr "Almaer"
+
+#. [side]: id=Almaer, type=Grand Knight
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:184
+msgid "Skaelakta"
+msgstr "Skaelakta"
+
+#. [side]: id=Rud, type=Custodian
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:218
+msgid "Rud"
+msgstr "Rud"
+
+#. [objectives]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:239
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:262
+msgid "Locate the leader of the humans."
+msgstr "人間たちのリーダーを見つける"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:282
+msgid "So, all our troops are gathered. When do we strike out?"
+msgstr "さあ、隊の全員が集まってるわね。攻撃はいつ？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:283
+msgid "Now, Biaraelia! It is time to right the wrong done to us!"
+msgstr "すぐに始めるぞ、Biaraelia ！ 私たちに対する悪行を罰するときが来た！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:284
+msgid "My axe shall strike down any who oppose us!"
+msgstr "俺たちに逆らう奴は、俺様の斧でぶっ倒す！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:285
+msgid "And my mace!"
+msgstr "俺は、このメイスで！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:286
+msgid "We're with you to the end, commander!"
+msgstr "俺たちは最後までアンタに付いていきますよ、司令官！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:287
+msgid "To battle!"
+msgstr "行くぞ！"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:301
+msgid "I see elves!"
+msgstr "エルフを発見！"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:307
+msgid "I see a human weakling!"
+msgstr "弱そうな人間を発見！"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:314
+msgid "I see dwarvish scum!"
+msgstr "ドワーフのクズを発見！"
+
+#. [then]
+#. [else]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:324
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:328
+msgid "That giant skeleton has noticed us!"
+msgstr "あのでかいスケルトンがこちらに気付いた！"
+
+#. [then]
+#. [else]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:325
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:329
+msgid ""
+"Yes. It looks like a draug, a axe-wielding skeleton of great size and "
+"strength. It will be a tough foe."
+msgstr ""
+"だな。ありゃあドラウグじゃないかな、特大サイズの長い斧をぶん回すスケルトン"
+"だ。奴は手強いぞ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:339
+msgid ""
+"I pass into oblivion..... thank you for granting me my eternal rest......"
+msgstr ""
+"俺は、忘れられた世界に行く... 永劫の眠りを与えてくれたこと、感謝するよ..."
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:340
+msgid "You're welcome."
+msgstr "ああ、お休み。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:354
+msgid "Larlath"
+msgstr "Larlath"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:355
+msgid "Escaltla manokara daemonie eyez maeyeno...."
+msgstr "（呪文を唱える）エスカルトラ マノカラ デモニ アイズ マイェーノ..."
+
+#. [unit]: type=Demon Zephyr, id=Syl'theliss
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:370
+msgid "Syl'theliss"
+msgstr "Syl'theliss"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:378
+msgid ""
+"Appearing seemingly out of no-where was an imposing figure. Clearly female, "
+"it was two metres tall, with orange skin and wielding a broad-bladed axe. "
+"With flames flickering menacingly in its eyes, this creature could be none "
+"other than a 'Demon Zephyr', a being from another plane of existance."
+msgstr ""
+"何処からともなく現れたもの、その外見は、堂々とした姿でした。明らかに女性で、"
+"身長２メートル、オレンジ色の肌に刃渡りの広い斧を振り回していました。この、目"
+"には威嚇するような炎が揺らめく生き物は、別世界から来た”Demon Zephyr”と呼ばれ"
+"る者に間違いありませんでした。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:379
+msgid "Hahahahahaha! We have summoned a demon!"
+msgstr "ハッハッハッハッハッハ！ 悪魔を呼び出してやったぞ！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:380
+msgid "Demon, you must serve the one you first lay your eyes on."
+msgstr "悪魔よ、お前は、お前が最初に目を合わせた者に仕えねばならない。"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:386
+msgid "I sight forest ones. I am at thy service then, elves."
+msgstr "私は森の生き物を見ている。お前に仕えよう、エルフたちよ。"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:387
+msgid "No! You must serve us!"
+msgstr "違う！俺たちがお前の主人だ！"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:388
+msgid "A demon working for us will be a strong ally indeed."
+msgstr "悪魔が一仕事するなんて、何とも心強い味方だ。"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:389
+msgid "We may have to watch out for treachery though."
+msgstr "とはいえ、裏切りには気を付けないといけないかもしれない。"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:397
+msgid "I am at thy service, sorcerer."
+msgstr "お前に仕えよう、トカゲたちよ。"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:398
+msgid "Hahahaha! Kill these intruders!"
+msgstr "ハッハッハッハ！この侵入者どもを殺せ！"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:404
+msgid "Glargeshosthna bloodapaeril..."
+msgstr "（呪文を唱える）グラジェショスーナ ブラダパエリ..."
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:405
+msgid "What is it doing?"
+msgstr "何をしている？"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:406
+msgid ""
+"Ha! I have broken your spell, sorcerer, and now I wil come after your "
+"blood....."
+msgstr ""
+"ハッハー！ お前の魔法を解いてやったぞ、魔術師。さあ、お前の血を戴こうか..."
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:441
+msgid "Aaah! Run away!"
+msgstr "うわぁーー！逃げろー！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:445
+msgid "Call the guards!"
+msgstr "警護兵たちを呼べ！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:464
+msgid "You step on a hidden trigger. A secret door opens."
+msgstr "隠れた仕掛けを踏めば、秘密の扉が開きます。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:467
+msgid "Oh no, someone has found our secret hidout!"
+msgstr "しまった、誰かが秘密の扉を見つけやがった！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:468
+msgid "Well, kill the intruders and close the door!"
+msgstr "よし、侵入者に死を。扉は閉めろ！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:469
+msgid ""
+"It looks like we have stumbled upon a nest of thieves. What should we do?"
+msgstr "盗賊どもの寝蔵に来ちゃったみたいだ。どうしたらいい？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:470
+msgid ""
+"Remember, they should be of secondary concern. Our main objective should be "
+"to find that human leader."
+msgstr ""
+"忘れるな、奴らのことは重要なじゃない、後回しでいい。私たちの目的は、人間たち"
+"のリーダーを見つけることだ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:478
+msgid "The thieves will rise again!"
+msgstr "盗賊たちの起ち上がる日が、必ずまたやってくる！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:494
+msgid "Fennae"
+msgstr "Fennae"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:524
+msgid ""
+"Elves.... I have been waiting for a long time to carve up some of the pointy-"
+"ears."
+msgstr ""
+"エルフではないか... 長い間待ち続けたぞ。そのとんがった耳に斬りつける時をな。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:525
+msgid "Good idea, boss!"
+msgstr "そりゃあいい考えだ、ボス！"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:529
+msgid "Typical crazy guard...... Let's kill them."
+msgstr "典型的なアホ警護兵だな... 全員殺そう。"
+
+#. [then]
+#. [else]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:530
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:534
+msgid "Great idea, give 'em some payback."
+msgstr "素敵な発想ね、いつかのお礼をしてやるわ。"
+
+#. [else]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:533
+msgid "Typical crazy guard. Kill them?"
+msgstr "典型的なアホ警護兵だな... 全員殺しちゃう？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:548
+msgid "Stop! You must not pass this way!"
+msgstr "停まれ！お前たち、ここを通すわけにはいかん！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:560
+msgid "Ha ha ha ha ha! You will never kill me, because of my special armour!"
+msgstr ""
+"ハッハッハッハッハ！ お前に俺は決して殺せない。私には特別な鎧があるからだ！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:561
+msgid ""
+"He's right about the armour; it has been imbued with some very special "
+"magic. But he is still killable."
+msgstr ""
+"奴の言うことは、鎧については間違っていないわ、かなり特殊な魔法で守られてる。"
+"それでも、彼の体は、どうかしらね。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:562
+msgid "If he has special armour, that means he has a special purpose."
+msgstr "もしも特殊な鎧なら、奴自身、特別な目的があるってことだな。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:563
+msgid "He is probably guarding an item of some importance!"
+msgstr "多分、何か重要なアイテムを守ってるってことだ！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:564
+msgid "I was just about to say that, dwarf."
+msgstr "俺が今、言おうと思ってたのに... 横取りしやがって。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:565
+msgid "Well then, let's kill him and grab that item!"
+msgstr "よし、じゃあ、あいつを殺してそのアイテムを手に入れるぞ！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:574
+msgid "Noooo... *ugh* "
+msgstr "なんと... アゥッ..... "
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:596
+msgid "Skeletons and corpses! What madness has descended onto this place?"
+msgstr "スケルトンどもと死体の山だ！ この地に降りてきた狂気は、一体？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:597
+msgid ""
+"It seems the prison guards are onto the undead plot, as we saw from that "
+"guard."
+msgstr ""
+"さっきの警護兵の様子からすると、監獄の警護兵たちはアンデッドの企みを知ってい"
+"たようだな。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:598
+msgid ""
+"But maybe not all the people living here know. I know mages for one wouldn't "
+"tolerate undead."
+msgstr ""
+"でも、ここにいる者たち全員が知ってるわけじゃないかも。アンデッドを許さない魔"
+"術師だっているんだから。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:599
+msgid "Hmmm, an enigma."
+msgstr "うーーん、謎だ。"
+
+#. [unit]: type=Death Knight, id=EoY
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:620
+msgid "Eye of Y'fel"
+msgstr "Y'fel の目"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:642
+msgid "Ae'Rothe"
+msgstr "Ae'Rothe"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:653
+msgid ""
+"So, you are the captured ones who escaped. Sorry to burst your bubble, but "
+"I'm going to have to kill you."
+msgstr ""
+"そうか、お前たちだな、捕まったのは。すまんなあ、お邪魔してしまって。だが、お"
+"前たちを殺さなきゃならんのだ。"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:660
+msgid "Foul human, the flames of hell shall wash over your feeble bones!"
+msgstr "腐った人間め、地獄の炎が、お前の華奢な骨を焼き尽くすだろう！"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:661
+msgid ""
+"Your fire doesn't scare me! My master Y'fel has provided me protection from "
+"it."
+msgstr "お前の炎など恐くもない！我が師 Y'fel が、その炎から守ってくれる。"
+
+#. [then]: type=White Mage
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:691
+msgid "Foul undead, the holy fire shall wash over your feeble bones!"
+msgstr "腐ったアンデッドめ、聖なる炎が、お前の華奢な骨を焼き尽くすだろう！"
+
+#. [then]: type=White Mage
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:692
+msgid ""
+"Your holy magic doesn't scare me! My master Y'fel has provided me protection "
+"from it."
+msgstr ""
+"お前の聖なる魔法など恐くもない！我が師 Y'fel が、その炎から守ってくれる。"
+
+#. [else]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:709
+msgid ""
+"Foul undead, the blades of the elves shall cut your skeleton until it can be "
+"used no more!"
+msgstr ""
+"腐ったアンデッドめ、エルフの剣がお前の華奢な骸骨を、使えなくなるほどに切り刻"
+"むだろう！"
+
+#. [else]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:710
+msgid ""
+"Your blades don't scare me! My master Y'fel has provided me protection from "
+"it."
+msgstr "お前の剣など恐くもない！我が師 Y'fel が、その剣から守ってくれる。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:729
+msgid "Kill..... Blood....."
+msgstr "殺され... 血が..."
+
+#. [objectives]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:732
+msgid "Defeat the Eye of Y'fel"
+msgstr "The Eye of Y'fel を倒す"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:751
+msgid ""
+"Ooh, the weaklings have come closer, have they? Let's see how they like the "
+"touch of a corpse."
+msgstr ""
+"おぉ、弱虫野郎どもが近づいてきたか？そのか弱い体の感触はどんなものか教えてく"
+"れよ。"
+
+#. [else]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:795
+msgid "I told you we would rise again...."
+msgstr "言ったはずだ、再び起ち上がるとな。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:805
+msgid "Master.... I have failed you...."
+msgstr "ご主人様... 期待にこたえられませんでした..."
+
+#. [message]: speaker=narrator
+#. [side]: type=Lich Lord, id=Y'fel
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:808
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:67
+msgid "Y'fel"
+msgstr "Y'fel"
+
+#. [message]: speaker=narrator
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:809
+msgid "That you have, my 'trusted' lieutenant. Die now!"
+msgstr "ああ、情けない奴。私の「信頼」する副官よ、さっさと死ね！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:812
+msgid "The death knight's bones suddenly crumple to a pile on the floor."
+msgstr "死の騎士の骨は突然、床に崩れ落ちて積み重なりました。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:813
+msgid "Now the entrance to the castle is open."
+msgstr "今、城の入口が開きました。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08a_Eye_Of_Yfel.cfg:814
+msgid "Come, let us enter!"
+msgstr "来るんだ、みんな入れ！"
+
+#. [scenario]: id=08b_Realm_Of_Knightmare
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:5
+msgid "Realm Of Knightmare"
+msgstr "ナイトメアの領分"
+
+#. [side]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:89
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:102
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:113
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:167
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:189
+msgid "team_name^Foes"
+msgstr "敵軍"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:314
+msgid "Halls of Death"
+msgstr "死の広間"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:315
+msgid "Isle of Calamity"
+msgstr "災難の島"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:316
+msgid "Seventh Plane"
+msgstr "第七平原"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:323
+msgid ""
+"This sewer seems.... wrong. There is a feeling that I cannot pinpoint, that "
+"just makes it seem wrong."
+msgstr "この下水道は... どうも変だ。うまく言えないんだが、でも何かおかしい。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:324
+msgid "Yes. Just as if someone had disrupted the very fabric of the earth."
+msgstr "ええ、そうですね。まるで誰かが地面の構造を破壊したみたいな。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:325
+msgid "I - Wait, who's that?"
+msgstr "うむ... 待て、誰だ？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:326
+msgid "Jerrdryn"
+msgstr "Jerrdryn"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:327
+msgid "Melaer"
+msgstr "Melaer"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:328
+msgid "Odderaecorry"
+msgstr "Odderaecorry"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:332
+msgid "We have found them, and Y'fel will reward us!"
+msgstr "俺たち、奴らを見つけたな、Y'fel が褒美をくれるぜ！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:333
+msgid "With glory and gold!"
+msgstr "栄光と、金と一緒にな！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:334
+msgid "You weren't supposed to say His name, fools!"
+msgstr "お前ら、その名前を言っちゃダメだろ、バカタレ！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:335
+msgid "Y'fel? Who is that?"
+msgstr "Y'fel ！？それは何者かしら？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:336
+msgid "The One who will bring us to power, weaklings!"
+msgstr "俺たちに力を与えてくれる者だ、 弱虫ども！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:337
+msgid "(sighs) More of those fanatical guards."
+msgstr "あ～ぁ、狂信的警護兵がウジャウジャいるな。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:338
+msgid ""
+"I was hoping we could sneak to their leader's stronghold. Oh well, to battle "
+"again."
+msgstr "リーダーの拠点に忍び込めたと思ったが。まあいい、また戦うのみだ。"
+
+#. [message]: speaker=narrator
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:350
+msgid "<i>The nightmare beckons.....</i>"
+msgstr "<i>悪夢が手招きしています......</i>"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:374
+msgid "What? What are there beasts doing here?"
+msgstr "おい、獣たち、そこで何をやっているんだ？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:375
+msgid "<i>Hisses</i>"
+msgstr "<i>シャーーー</i>"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:394
+msgid "Hissss...."
+msgstr "シュー..."
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:395
+msgid "That.... thing...."
+msgstr "こ、これは..."
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:396
+msgid "It looks like a leech... with legs."
+msgstr "ヒルのようだが...足がある。"
+
+#. [message]: speaker=narrator
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:399
+msgid "My creation, to kill ones such as you."
+msgstr "我が創造物は、お前たちのような奴らを殺すのだ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:402
+msgid "Who was that voice?"
+msgstr "その声は、何者！？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:412
+msgid "Uh oh. There seems to be a-"
+msgstr "あ。何だかまるで ―"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:415
+msgid "RROOOOAAAARR!!!"
+msgstr "RROOOOAAAARR!!!"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:416
+msgid "Aaaaah! Wyrms!"
+msgstr "ウワァ！ ウィルムスだ！"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:429
+msgid ""
+"The wyrms's blood washes all over you, and soaks into your skin. You now "
+"gain the magic properties of wyrmsblood. Your resistances increase by 20% to "
+"fire and cold, and 10% to arcane."
+msgstr ""
+"ウィルムスの血液はあなたの全身を駆け巡って肌に染み込み、ウィルムスの魔法の特"
+"性を獲得できます。火と寒さへの耐性は+20％、秘術には+10％加算されます。"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:446
+msgid "Wow! I feel tough!"
+msgstr "うわ！力強くなったような！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:468
+msgid "Death to the Questors!"
+msgstr "探索者どもに死を！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:478
+msgid "This wall is fake."
+msgstr "この壁は偽物だ。"
+
+#. [unit]: type=Cave Spider, id=Spider
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:493
+msgid "Spider"
+msgstr "クモ"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:500
+msgid "<i>hiss</i>"
+msgstr "<i>シャー </i>"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:501
+msgid "Uh, can I keep it?"
+msgstr "あー、持ってていいかな？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:502
+msgid "If you want. But keep it away from me. I hate spiders!"
+msgstr "そうしたいのなら。でも私に近づけないで。クモ、嫌いなの！"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:515
+msgid "Aiieeeee...."
+msgstr "アイィィィ..."
+
+#. [unit]: type=Spectre, id=Questmaster
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:521
+msgid "Questmaster"
+msgstr "探索の名人"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:541
+msgid "You have passed the test, questors!"
+msgstr "皆さん合格です、探索者たち！"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:542
+msgid "Uh, what do you mean?"
+msgstr "えーと、どういうことだ？"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:543
+msgid "The Quest of Knights, of course. Isn't that why you came here, sirs?"
+msgstr ""
+"騎士の探索、決まっているではないですか。皆さん、それでここにいらしたんで"
+"しょ？"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:544
+msgid "Errr, no. What is the Quest?"
+msgstr "いや、違うんだ。探索、とは何のことだ？"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:545
+msgid ""
+"You must collect the sword, armour and horse of an ancient Knight of "
+"Wesnoth, to pass."
+msgstr "古代の、Wesnoth の騎士の剣、鎧、馬を集めれば、合格なのです。"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:546
+msgid "What if we don't want to go on this quest?"
+msgstr "その探索を続けたくないときは、どうなるの？"
+
+# spelling   geas 呪い。禁忌
+#. [then]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:547
+msgid "I am sorry, but you will die. My geas will compel me to kill you."
+msgstr "残念ですが、死ぬことになります。私に掛けられた呪いによって。"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:548
+msgid "Oh."
+msgstr "おっとー。"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:549
+msgid "Where are these things we must find?"
+msgstr "何処に行けば、見つかるんでしょう？"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:550
+msgid ""
+"The armour is kept in the Isle of Calamity. You should go there first. I "
+"will open a portal to there for you."
+msgstr ""
+"鎧は、”災難の島” に保管されています。先ずはそこに行くべきでしょう。そこへの入"
+"口を私が開きましょう。"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:551
+msgid "Ok."
+msgstr "分かりました。"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:577
+msgid "Portal to Isle of Calamity"
+msgstr "災難の島への入口"
+
+#. [objectives]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:581
+msgid "Search for the quest objects"
+msgstr "探索物を探す"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:635
+msgid "It seems strangely deserted around here..."
+msgstr "この付近は、妙に寂れた感じだ..."
+
+#. [unit]: type=Merman Hoplite, id=Bulbureagh
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:642
+msgid "Bulbureagh"
+msgstr "Bulbureagh"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:644
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:646
+msgid "Merman Guardian"
+msgstr "マーマンの警護兵"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:645
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:647
+msgid "Naga Guardian"
+msgstr "ナーガの警護兵"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:648
+msgid "Kill themsssss!"
+msgstr "アイツらを、ころススせぇーー！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:649
+msgid "Me and my big mouth..."
+msgstr "一言多いんだよな..."
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:673
+msgid "I have the armour, now let's get out of here!"
+msgstr "鎧は持ってる。さあ、ここから立ち去ろう！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:674
+msgid ""
+"Congratulations. I will open a portal to your south. This will lead you to "
+"the seventh plane, home of the demons."
+msgstr ""
+"おめでとうございます。南側の方に入口を開きましょう。これは第七平原へ導きま"
+"す、悪魔たちの本拠地です。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:683
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:684
+msgid "Portal to the Seventh Plane"
+msgstr "第七平原への入口"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:723
+msgid "Luciana"
+msgstr "Luciana"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:724
+msgid "Satani"
+msgstr "Satani"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:725
+msgid "Skorrough"
+msgstr "Skorrough"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:727
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:729
+msgid "Portal Dark Knight"
+msgstr "門の暗黒の騎士"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:757
+msgid "Sweet flesh...."
+msgstr "うまそうな肉だ..."
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:758
+msgid "So tender...."
+msgstr "とても柔らかい..."
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:759
+msgid "Intruders! Get them!"
+msgstr "侵入者だ！捕獲しろ！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:767
+msgid "You cannot kill me....  Uuurgh."
+msgstr "お前は私を殺せない... ウゥゥ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:775
+msgid "Oh dear...."
+msgstr "こりゃまた..."
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:783
+msgid "No more blood for me?"
+msgstr "もう俺の血は流れない？"
+
+#. [unit]: type=Great Horse, id=Horse
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:801
+msgid "Horse"
+msgstr "馬"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:805
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:824
+msgid "Neigh!"
+msgstr "ヒヒーン！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:806
+msgid "I think it wants to follow us."
+msgstr "こいつ、付いてきたがってるよ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:807
+msgid ""
+"Yes, that is the horse of the Knight. Move it to the portal, and it will "
+"return to me."
+msgstr ""
+"ええ、騎士の馬なんです。入口へ移動させれば、私の許へ戻ってくるでしょう。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:813
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:814
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:815
+msgid "Portal to the Future"
+msgstr "未来への入口"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:825
+msgid "You have failed! Now, suffer my wrath!"
+msgstr "失敗しましたね！さあ、私の怒りを受け止めなさい！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:896
+msgid "Dalaien"
+msgstr "Dalaien"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:921
+msgid ""
+"What... where are we? There are two suns burning in the sky, and the land is "
+"all sand! Surely this place cannot be anywhere around here!"
+msgstr ""
+"何だ... ここは何処だ？空に2つの太陽が輝いてる。大地は全部、砂だらけ！ここには"
+"何もない、絶対に！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:922
+msgid "This place... this is the future of wesnoth."
+msgstr "この場所は... これは Wesnoth の未来だ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:924
+msgid "A desert! No!"
+msgstr "砂漠！まさか！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:925
+msgid ""
+"There are the remnants of some elvish force north of you. Maybe you should "
+"speak to them."
+msgstr ""
+"北の方に、あんたたちエルフ軍の残党がいるよ。彼らに話を聞いてみるべきかも。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:928
+msgid "What is happening, fellow elf?"
+msgstr "友人たちよ、どうなってるんだ？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:929
+msgid "Aaaah! Where did you come from?"
+msgstr "あぁぁ！何処から来たんですか？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:931
+msgid "A portal from the past. What is happening?"
+msgstr "過去からの入口からだ。何が起きてるんだ？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:932
+msgid ""
+"The imbecilic magi in Weldyn tried to raise two more suns into the sky, and "
+"banish darkness forever. Unfortunately their power was not great enough, and "
+"the last sun came crashing down upon their capital city. It scorched the "
+"land, and turned most of it into great deserts. Most of the forests are "
+"gone. Raiders of all different types now are attacking each other, greedy "
+"for land, gold and food. We are some of the last elvish warriors defending "
+"our land. The rest are in hiding."
+msgstr ""
+"Weldyn の愚かな魔術師が空に2つ以上の太陽を昇らせようとしました。暗黒を永遠に"
+"消し去ろうとしたんですね。残念ながら彼らの力は十分ではなく、最後の太陽は首都"
+"に墜落して来たのです。大地は焼け焦げ、殆どが砂漠に変わり、森の多くが消滅しま"
+"した。今では、あらゆる種類の盗賊や侵略者が襲撃しあって、土地と金と食料を貪欲"
+"に奪い合っています。私たちはこの地を守る、エルフの最後の戦士で、他の者は隠れ"
+"ています。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:934
+msgid ""
+"Well, we are just passing through at the moment, but we will try and defeat "
+"as many of these raiders for you as we can."
+msgstr ""
+"ところで、私たちはただの通りすがりだけど、できることなら、その盗賊たちをなる"
+"だけ多く倒してやろうと思っています。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:935
+msgid "Thank you. That would ease my heart greatly."
+msgstr "有難うございます。私たちの気持ちも楽になりそうです。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:963
+msgid "No..."
+msgstr "そんな..."
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:978
+msgid "I have the sword, now let's get out of here!"
+msgstr "剣は持ってる、さあここから立ち去ろう！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:979
+msgid ""
+"Well done. I will open a portal out to your east. It will return you to "
+"Soradoc."
+msgstr "お見事でした。東側に出口を開きましょう。Soradoc へ戻れるでしょう。"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:1010
+msgid "Thank you for helping us free this land from invaders, Uvollyn."
+msgstr "この地を侵入者から解放してもらい、有難うございます、Uvollyn 。"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:1011
+msgid "It was my honour to fight with you."
+msgstr "あなた方と一緒に戦えて光栄です。"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:1012
+msgid "To give proper thanks, I will give you $count_kills gold pieces."
+msgstr ""
+"感謝の気持として、どうぞこの $count_kills gold gold を受け取ってください。"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:1034
+msgid ""
+"Well done, good sirs. You gained my Knight's apparel, and you may pass now."
+msgstr ""
+"お見事でした、皆さん。私の騎士の衣装を手に入れましたし、さあ、お通りくださ"
+"い。"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:1035
+msgid "Your knight's apparel?"
+msgstr "あなたの騎士の衣装、ですか？"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:1036
+msgid "Yes, mine."
+msgstr "ええ、私の。"
+
+#. [unit]: id=Athel, type=$s_r_type
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:1080
+msgid "Sir Athel"
+msgstr "Sir Athel"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:1090
+msgid "I thank thee, sires! You have freed me from this half-life!"
+msgstr ""
+"感謝いたします、閣下。私の盛りを過ぎようとする時期に、束縛から解放していただ"
+"いた！"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:1091
+msgid "How did you come to be trapped in that state?"
+msgstr "どのような経緯で、あんな状態に陥ってしまったのですか？"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:1092
+msgid ""
+"The evil lich Y'fel, who has secretly taken control of this city and his "
+"lieutenant Knightmare dug up my bones and trapped me here, saying I could "
+"never be free until someone regained my Knight's gear. They laid a geas on "
+"me to force people to do the quest. "
+msgstr ""
+"邪悪なリッチ Y'fel は、この街を密かに支配し、配下のナイトメアが私の骨を掘り起"
+"こして、ここに閉じ込めたのです。私の装具を誰かが奪い返さない限り、私は永遠に"
+"自由の身にはなれない、そう言われました。そうして私に呪いをかけて人々に探索を"
+"強要したのです。 "
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:1093
+msgid "To show my gratitude, I will join you and help slay the evil ones."
+msgstr ""
+"感謝の証として、私を、邪悪な者たちを退治するあなた方の仲間に入れてください。"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:1094
+msgid "A wall crumbles into dust."
+msgstr "壁が粉々に砕け散りました。"
+
+#. [unit]: type=Dark Overlord, id=Knightmare
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:1107
+msgid "Knightmare"
+msgstr "ナイトメア"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:1111
+msgid ""
+"So, the little elves have managed to free that annoying knight, have they? "
+"Well, no matter. I will still kill you nonetheless."
+msgstr ""
+"そうか、ちっこいエルフたちが、うるさい騎士を解放したわけか？まあ、どうでもい"
+"い。お前たちを殺すことに変わりはない。"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:1112
+msgid "We may be a tougher foe than you anticipate, Knightmare!"
+msgstr "私たちは、思ったより強敵かもしれないぞ、ナイトメア！"
+
+# spelling
+# wound  -> would ?
+#. [then]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:1113
+msgid ""
+"My master Y'fel wound not have sent me down here if I could not destroy you!"
+msgstr ""
+"我が主人 Y'fel 様は、俺がお前を殺せなかったら、私を送り込むこともなかっただろ"
+"う！"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:1114
+msgid "We will see about that, skeleton."
+msgstr "やってみりゃ分かることだ、スケルトン野郎。"
+
+#. [objectives]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:1118
+msgid "Defeat Knightmare"
+msgstr "ナイトメアを倒す"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:1147
+msgid "Noooooo! How can this be happening?!"
+msgstr "ノー―――！ 一体全体どうしたことだ？！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:1148
+msgid "The collosal warlord collapses to the ground."
+msgstr "膨大な数の微小たちが地面に崩れ落ちました。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:1149
+msgid "We have destroyed your servant, and now we are coming after you, Y'fel!"
+msgstr "お前の召使いは逝ってしまった。お前の背中が見えてきたぞ、Y'fel ！"
+
+#. [scenario]: id=09_Bane_Of_Soradoc
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:5
+msgid "The Bane of Soradoc"
+msgstr "Soradoc の破滅"
+
+#. [side]: type=Lich Lord, id=Y'fel
+#. [side]
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:74
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:84
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:109
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:122
+msgid "team_name^Y'fel"
+msgstr "Y'fel 軍"
+
+#. [objectives]
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:197
+msgid "Defeat Y'fel"
+msgstr "Y'fel を倒す"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:218
+msgid ""
+"<i>(reading from a wall)</i> 'The dark palace'. Suits this place, doesn't it."
+msgstr ""
+"<i>（壁の文字を読んで）</i> 「暗黒の宮殿」とあります。この場にお似合いね、そ"
+"う思うでしょ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:219
+msgid "Yes. All it reminds me of is death and despair."
+msgstr "ああ。想起させるのは死と絶望だけだ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:220
+msgid ""
+"Mwwahhaa haa haa. Death and despair is all that awaits! You are in my "
+"clutches now, you are mine.  To make it interesting, I will let you have "
+"your keep for a turn, because I like everyone to have a sporting chance! "
+"Choose wisely. Hahahaha......"
+msgstr ""
+"ムワッハッハ。死と絶望が待ち受けるのみ、か！お前たちは今、私の掌の上にいるの"
+"だ、逃げられんぞ。面白くするために、少しだけ砦で遊ばせてやる。誰であっても、"
+"正々堂々と振る舞う機会はあるというのが俺の流儀だ。賢明な道を選ぶことだな。"
+"ハッハッハッハ..."
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:221
+msgid "That laughter doesn't bode well."
+msgstr "あの笑い方は、縁起が良くないな。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:222
+msgid ""
+"Come on Uvollyn, don't let it get your hopes down. Undead are nothing "
+"compared to angry dwarves!"
+msgstr ""
+"気にするな Uvollyn 、アンタの期待を裏切らないから。アンデッドなど、怒れるド"
+"ワーフには及びもしない！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:223
+msgid "(smiles faintly)"
+msgstr "（微かな笑い）"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:224
+msgid "Come on, let's go in more. I'm itching to crush some undead skulls."
+msgstr ""
+"さあ、中に進もうぜ。俺はアンデッドの頭蓋骨をぶっ壊したくて、ウズウズしてるん"
+"だ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:225
+msgid "You probably won't be so eager later."
+msgstr "それほど熱くなるなんて、もう二度と無いかも知れないわね。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:226
+msgid "Note: your keep will be removed after the first turn."
+msgstr "ヒント：第１ターンが終わると砦は無くなります。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:248
+msgid "Cats! This foul place is infested with cursing cats!"
+msgstr "猫だ！この汚い場所には呪われた猫どもが はびこっている！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:260
+msgid ""
+"Leave, elves, and Y'fel will give you a quick death.... compared to the "
+"torture you will receive if you resist him further."
+msgstr ""
+"去れ、エルフたち。Y'fel が即座に死をもたらすぞ... これ以上抵抗したら拷問に掛"
+"けられる、よく考えてみろ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:261
+msgid ""
+"It is Y'fel who should be fearing us, not the other way round, for we are "
+"the ones who will end his terror."
+msgstr ""
+"Y'fel の方だろ、我々を恐れるべきは。その逆は、無い。なぜなら、奴の恐怖を終わ"
+"らせるのは我々だからだ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:262
+msgid "On your head, foolish one."
+msgstr "俺は責任は取らんからな、愚か者め。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:274
+msgid "It is said that these mushrooms thrive on the bones of the dead."
+msgstr "このキノコは、死体の骨を食べて育つらしい。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:275
+msgid "Let us hope that our bones are not added."
+msgstr "その中に我々の骨が加わらないことを願おう。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:293
+msgid "Why do you work for these undead fiends?"
+msgstr "どうしてこんな悪霊のアンデッドのために働いているのだ？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:294
+msgid "Because of the pay. You wouldn't believe how much gold they give us!"
+msgstr ""
+"御足のためさ。どのくらい貰えるかなんて、あんたらには信じられんくらいさ！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:295
+msgid ""
+"You would sell your soul to undead just for gold?! You disgust me, filth!"
+msgstr "金のためにアンデッドに魂を売っていると？嫌気がさす、不浄な者たち！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:305
+msgid "These closed corridors really make me claustrophobic."
+msgstr "こんな風に狭い回廊では本当に閉所恐怖症になってしまう。"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:309
+msgid "Don't worry about it. After this is done, we can go back to our forest."
+msgstr "心配しないで。ここを抜ければ自分たちの森に戻れるのですよ。"
+
+#. [else]
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:312
+msgid ""
+"Don't worry about it. After this is done, we can go back to roaming around "
+"on the broad plains."
+msgstr "心配しないで。ここを抜ければ広い平原を歩き回れるようになるのですよ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:325
+msgid ""
+"As we go further underground, this 'palace' seems to be getting more and "
+"more cavelike."
+msgstr ""
+"地下をずっと進むにつれて、この「宮殿」が次第に洞窟のようになっていく気がする"
+"な。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:326
+msgid "Just like my cave home."
+msgstr "まるで洞窟にある俺の家みたいだ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:327
+msgid ""
+"Except it is darker and scarier here. And there are undead roaming around."
+msgstr ""
+"でも、ここの方がもっと暗いし、おっかないけどな。それに、アンデッドがうろつき"
+"回ってる。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:328
+msgid "Oh. Yes."
+msgstr "ホントだな。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:338
+msgid "A hidden button is triggered. A wall moves."
+msgstr "隠しボタンが作動し、壁が動きます。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:341
+msgid "Undead Guardian"
+msgstr "アンデッドの警護兵"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:342
+msgid "Human Guardian"
+msgstr "人間の警護兵"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:347
+msgid "Time to die, $unit.race dung!"
+msgstr "観念しろ、$unit.race のクソ野郎！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:362
+msgid "There is 400 gold in this chest!"
+msgstr "箱の中に 400 gold 入ってる！"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:380
+msgid "6 foes down, and it still feels good smashing them, Biaraelia!"
+msgstr ""
+"敵を６体倒したぜ、なあ、やっぱり叩き潰す方がスカッとするねえ、Biaraelia ！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:412
+msgid "Come out and meet your maker, Y'fel!"
+msgstr "出てこい、お前を作った奴に会いに行くぞ、Y'fel ！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:413
+msgid "So, you have me. I am all alone, with no troops to protect me..."
+msgstr ""
+"ともかく、捕まってしまった。一人ぼっちで、守ってくれる味方もいやしない..."
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:440
+msgid ""
+"...apart from my loyal chocobones. Oh, and these vampires I saved to use on "
+"you."
+msgstr ""
+"... 我が忠実なるチョコボーンは別だが。あっ、この吸血鬼どももいる。お前のため"
+"に取っておいたのさ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:472
+msgid ""
+"I may have been vanquished, but I serve a higher master. I will be avenged!"
+msgstr ""
+"私は負けたのかもしれない、でも、私の仕える御主人様の方が立派なんだ。いつか復"
+"讐してやる！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:474
+msgid "Higher master? He wasn't behind all this?!?"
+msgstr "立派な主人？彼が黒幕ではなかったの？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:475
+msgid ""
+"Let's not worry about it at the moment, Biaraelia. Let's go home. We need to "
+"rest."
+msgstr "今は気にせずにいこう、Biaraelia 。家に帰ろう。休養をとらなければ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:476
+msgid "Brein"
+msgstr "Brein"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/09_Bane_Of_Soradoc.cfg:477
+msgid ""
+"Thank you for freeing us. Fear not, elves, we, the magi of Soradoc, will "
+"root out this evil and finish it. You have vanquised this manifestation, "
+"saved our city and we are forever in your debt."
+msgstr ""
+"我々を解放していただき有難うございます。何も恐れはしません、エルフと我々 "
+"Soradoc の魔術師が、この邪悪を一掃して終わらせるでしょう。あなた方は、悪の顕"
+"現を打ち負かして我々の街を救ったのです。あなた方に、我々は永遠に恩義を感じる"
+"ことでしょう。"
+
+#. [scenario]: id=10_Ghosts_Of_A_Sylvan_Land
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:5
+msgid "Ghosts of a Sylvan Land"
+msgstr "Sylvan Land の亡霊たち"
+
+#. [side]: type=Elder Lich Lord, id=Mal-Birurn
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:69
+msgid "Mal-Birurn"
+msgstr "Mal-Birurn"
+
+#. [side]: type=Elder Lich Lord, id=Mal-Birurn
+#. [side]: type=Corrupted Champion, id=Taeleforiel
+#. [side]: type=Corrupted Enchantress, id=Aramelina
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:78
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:93
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:108
+msgid "team_name^Undead"
+msgstr "アンデッド軍"
+
+#. [side]: type=Corrupted Champion, id=Taeleforiel
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:88
+msgid "Taeleforiel"
+msgstr "Taeleforiel"
+
+#. [side]: type=Corrupted Enchantress, id=Aramelina
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:103
+msgid "Aramelina"
+msgstr "Aramelina"
+
+#. [objectives]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:196
+msgid "Defeat the undead who have taken over the forest"
+msgstr "森を奪い取ったアンデッドを倒す"
+
+#. [note]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:202
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:534
+msgid "This is the last scenario"
+msgstr "戦闘を含むシナリオは、これが最後です"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:238
+msgid ""
+"Well, Gar Durthsil, are you going to go back to your clan, or stay here with "
+"us? If you want to stay, there are probably dwarves down here as part of our "
+"garrison now. You can stay with them, if you wish."
+msgstr ""
+"どうする、Gar Durthsil 。君の一族の許に戻るか、ここに一緒に残るか。私たちの警"
+"備隊には多分ドワーフたちもいるから、よければそこに居てもいいよ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:239
+msgid "Yes, maybe I'll do that."
+msgstr "ああ、そうしようかな。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:240
+msgid "Oh!"
+msgstr "あっ！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:241
+msgid "What is it, Biaraelia?"
+msgstr "Biaraelia 、どうしたんだ？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:242
+msgid "I can't speak to the forest anymore! It is corrupted... decayed...."
+msgstr ""
+"私、もう森と会話ができない！ダメになってしまった... 失くしてしまった..."
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:243
+msgid "Fareth'ei"
+msgstr "Fareth'ei"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:245
+msgid ""
+"Ahhh, my elvish friends! And my cousin Uvollyn! Come to boost our ranks?"
+msgstr ""
+"おぉ、私がエルフの友たちよ！それに、我が従兄弟の Uvollyn か！仲間を増やしに来"
+"たのか？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:246
+msgid "What have you done, cousin?"
+msgstr "従兄弟よ、どうかしたのか？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:247
+msgid ""
+"He has shown us the true way, and He has promised us power! More power than "
+"you can possibly imagine."
+msgstr ""
+"<b>彼 </b>は私たちに真実の道を示して、力を約束してくれた。おそらく、お前の想"
+"像以上の力をな。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:248
+msgid "Uvollyn, your cousin has been corruped by some foul magic."
+msgstr "Uvollyn 、あなたの従兄弟は悪い魔法に掛かってしまってるわ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:249
+msgid "Speak not, witch! There is no place for you in our new order."
+msgstr "うるさいぞ、魔女！私たちの新秩序の中で、お前の居場所は無いぞ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:250
+msgid "You disgust me, Fareth'ei. How could you betray our kin for this evil?"
+msgstr ""
+"君には嫌気がさす、Fareth'ei 。親族をよく裏切れたものだな、悪魔のせいか？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:251
+msgid "You would know, my cousin, if you felt His power."
+msgstr "お前もいずれ知るだろう、従兄弟よ、彼の力を感じたらな。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:252
+msgid "Dark elf! Leave now and we may spare your life."
+msgstr "暗黒エルフめ！今すぐ立ち去れば、命だけは助けてやる。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:253
+msgid ""
+"Oh, Uvollyn, who else have you got with you? A short one? Well, short one, "
+"would you like to know what happened to your kin?"
+msgstr ""
+"おぅ、Uvollyn 、他にも誰か一緒にいるのか？ チッコイ奴？ やあやあ、チッコイ"
+"の、お前さんの親族に何が起きたか知りたくないかい？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:261
+msgid "Nooooo!!! You will pay for what you have done!"
+msgstr "やめろ！！！ 自分のしたことの報いを受けろ！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:262
+msgid "I am protected by Him! We serve Him."
+msgstr "私は、彼に守られてる！私たちは彼に仕えているのさ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:268
+msgid "<i>(fuming)</i> We must defeat these corrupted, twisted elves."
+msgstr ""
+"<i>（怒りながら） </i>この堕落し歪んでしまったエルフたちを倒すしかないわ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:269
+msgid ""
+"Yes! For the fallen! Biaraelia, where are the forest spirits and faerie "
+"creatures?"
+msgstr ""
+"そのとおりだ！死んでいった者たちのために！　Biaraelia 、森の精霊や妖精の生き"
+"物たちは何処にいる？"
+
+# spelling
+# The   --> they ?
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:270
+msgid ""
+"They seem to have been pushed out of the forest. The have a centre of power "
+"in the south west, maybe they are sheltering there and we can rescue them."
+msgstr ""
+"彼らは森の外に追いやられたみたいね。彼らは南西に勢力の中心があるから、そこに"
+"避難していれば救出できるかもしれないわ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:271
+msgid ""
+"That would help. <i>(Whispers)</i> Biaraelia, we really could use that extra "
+"gold we had stored in our original keep. Here's the key to the storeroom."
+msgstr ""
+"もしそうなら助かるね。<i>（囁き声で） </i>Biaraelia 、元々の砦に臨時用の "
+"gold が蓄えてあるんだ、使えればいいんだが。ここに倉庫の鍵がある。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:283
+msgid "Don't worry, I'll go get it now."
+msgstr "心配ご無用よ、すぐに取ってくるわ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:285
+msgid "We must get word to the dwarves - they must send reinforcements!"
+msgstr "ドワーフに伝えなければ ― 援軍を送ってくれるように！"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:289
+msgid ""
+"You didn't defeat the Hill Dwellers at the southern entrance to our caves. "
+"The rider won't get through."
+msgstr ""
+"ドワーフの洞窟に抜けていく南の入口には「丘の住人」がいるけど、倒さなかっただ"
+"ろ。騎兵が通りぬけられないよ。"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:290
+msgid "Well, we will have to make do on our own."
+msgstr "ならば、私たちだけで遂行するしかない。"
+
+#. [else]
+#. [then]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:294
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:333
+msgid "Sorfin"
+msgstr "Sorfin"
+
+#. [else]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:295
+msgid "I will give your rider a message to take to the dwarves."
+msgstr "俺がエルフの騎兵に、ドワーフに届けるメッセージを渡すよ。"
+
+#. [else]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:296
+msgid "Ride as fast as you can, our lives and the entire forest depend on it."
+msgstr "できるだけ早く駆けてくれ、私たちの命と森全体の運命が掛かっている。"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:315
+msgid "Rogul"
+msgstr "Rogul"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:317
+msgid ""
+"Commander, we came as soon as we heard. Ground troops are on their way, will "
+"be another 2 days march. What are your orders?"
+msgstr ""
+"司令官、連絡を聞いて必死の早さで駆けつけました。地上部隊はまだ移動中で、あと2"
+"日ほどの行軍が必要です。ご命令は何でしょうか？"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:318
+msgid "We are glad to see you. I'll direct you as we go."
+msgstr "会えて嬉しいよ。移動しながら命令を出すよ、行くぞ。"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:334
+msgid "Aurthogir"
+msgstr "Aurthogir"
+
+# 文末の 「.」  は不要。
+# spelling
+# hae  ->> have  旧スコットランド表記
+#. [then]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:335
+msgid "Commander, we hae quick marched here, how goes the battle?."
+msgstr "司令官、急いで隊を連れて来たよ、戦況はどうなってる？"
+
+#. [then]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:336
+msgid ""
+"Lord Aurthogir, your assistance is appreciated. I'll direct you as we go."
+msgstr ""
+"Aurthogir 卿、ご支援に感謝いたします。移動しながら命令を出します、行きましょ"
+"う。"
+
+#. [message]: speaker=unit
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:363
+msgid "I found our gold, still safely locked away."
+msgstr "gold を見つけた、まだしっかりと保管されてるわね。"
+
+#. [message]: speaker=unit
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:379
+msgid ""
+"Looks like the storeroom is still locked, Biaraelia. We need the key Uvollyn "
+"gave you."
+msgstr ""
+"倉庫には錠が掛かってるみたいだ、Biaraelia 。Uvollyn から預かった鍵が必要だ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:394
+msgid "Help us..."
+msgstr "私たちを救ってください..."
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:395
+msgid "How?"
+msgstr "どうやって？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:396
+msgid ""
+"We must free them from this half-life by destroying their bodies! Then their "
+"souls can rest undisturbed."
+msgstr ""
+"彼らの肉体を破壊して、この半死半生の状態から彼らを解放しなければならない！そ"
+"うすれば彼らの魂は、誰に邪魔されることなく眠りにつける。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:405
+msgid "Thank you... you have freed me."
+msgstr "ありがとう... 私を解放してくれた。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:418
+msgid "For Him, we will slay you all!"
+msgstr "彼のために、私たちはお前たち全員を殺す！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:419
+msgid "You... I know you! I was your friend, many years ago. Don't do this."
+msgstr ""
+"お前... お前を知ってる！私の友人だったな、何年も前に。こんなこと、するなよ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:420
+msgid "If you are not with us, I must kill you."
+msgstr "お前が我々と共に行動しないのならば、俺はお前を殺すしかない。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:421
+msgid "Do we have to kill our kin?"
+msgstr "親族を殺さねばならないのか？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:422
+msgid ""
+"Killing Mal-Birurn should end the hold he has over them.  Unfortunately we "
+"need to get to him first."
+msgstr ""
+"Mal-Birurn を殺せば、全ての呪縛が解けるはず。残念だけど、先ずは彼を捕まえない"
+"といけないわ。"
+
+#. [unit]: id=Goldur, type=Elvish Hero
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:435
+msgid "Goldur"
+msgstr "Goldur"
+
+#. [unit]: id=Dalma-Sathamena, type=Elvish Archer
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:446
+msgid "Dalma-Sathamena"
+msgstr "Dalma-Sathamena"
+
+#. [unit]: id=Aigta, type=Dwarvish Fighter
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:458
+msgid "Aigta"
+msgstr "Aigta"
+
+#. [unit]: id=Lulthis, type=Dwarvish Steelclad
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:469
+msgid "Lulthis"
+msgstr "Lulthis"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:477
+msgid "Oh, thank the gods! True elves!"
+msgstr "おお、神々よ感謝いたします！ 本物のエルフだ！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:478
+msgid "We fight the dark ones. Will you join us?"
+msgstr "俺たちは、暗黒の者たちと戦ってるんだが、一緒にやってくれないか？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:479
+msgid "Yes, the rebels are with you!"
+msgstr "いいとも、反乱軍よ、ともにあれ！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:493
+msgid "Celarith"
+msgstr "Celarith"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:500
+msgid ""
+"Uvollyn, Biaraelia you have returned! We have been forced to retreat from "
+"this evil."
+msgstr ""
+"Uvollyn 、 Biaraelia 、あなたたち帰ってきたのね！いま、この悪い奴らに退却を余"
+"儀なくされてるところなのよ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:501
+msgid "Don't worry, we are here to free the forest. Can you fight?"
+msgstr "大丈夫だ、この森を解放するために来たんだ。戦えるかい？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:502
+msgid ""
+"There aren't many of us left, the others either destroyed or scattered, but "
+"we will fight with you."
+msgstr ""
+"仲間たちがあまり残っていないの、殺されたり離れ離れになったり。でも、皆、一緒"
+"に戦うつもりよ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:513
+msgid "Who is this master for whom you fight?"
+msgstr "お前たちは、誰のために戦っているんだ、お前の主人は誰だ？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:514
+msgid "Our master...."
+msgstr "我らが主人は..."
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:517
+msgid ""
+"Their master is I, Mal-Birurn, lord of elves, undead and night creatures "
+"alike."
+msgstr "主人は私、Mal-Birurn だ。エルフ、アンデッド、夜の生き物、全てのな。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:518
+msgid "Mal-Birurn.... no...."
+msgstr "Mal-Birurn ... なんとも..."
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:519
+msgid "What is it, lad?"
+msgstr "なんだ小僧、何が言いたい？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:520
+msgid ""
+"Mal-Birurn was once Maelbirurn, lord of the elves. An extraordinarily long-"
+"lived lord of the elves. Now I know why he lived for so long..... and he "
+"knew that the Lord's Regiment were the only thing that could stop him... "
+msgstr ""
+"Mal-Birurn はかつての名を Maelbirurn といい、エルフの領主で非常に長命だった。"
+"だが私は知っている、なぜ彼がそれほど長命だったか... それに、彼は知っていた、"
+"「領主の連隊」が、彼を止められる唯一のものだということを... "
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:521
+msgid "This must be Y'fel's higher master!"
+msgstr "こいつこそ、Y'fel の上に立つ主人に間違いない！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:522
+msgid ""
+"(laughing nastily) Yes, he served me. And he failed. But I will not be "
+"stopped."
+msgstr ""
+"（下品に笑いながら）ああ、奴は私に仕えていた。奴は失敗した。だが、私を止める"
+"ことはできん。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:523
+msgid "Not if I have anything to do about it!"
+msgstr "私が止めてやる、何としてでもな！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:524
+msgid "Nor I!"
+msgstr "私もよ！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:525
+msgid "And I'm with you to!"
+msgstr "それから、俺もな！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:526
+msgid ""
+"Such confidence! When you are screaming in agony, then you will wish you "
+"never crossed me!"
+msgstr ""
+"大した自信だな！ 苦しみながら泣き叫ぶことになって、もう二度と逆らわないと懇願"
+"することだろう！"
+
+#. [objectives]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:529
+msgid "Destroy Mal-Birurn"
+msgstr "Mal-Birurn を倒す"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:545
+msgid "Fareth'ei, you traitor!"
+msgstr "Fareth'ei 、裏切ったな！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:546
+msgid "It is not I who is a traitor, but you. You betrayed you Lord!"
+msgstr "裏切ったのは、お前だ。お前こそ、自分の主人に背を向けたのだ！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:566
+msgid ""
+"Impressive, the Lord's Regiment was always the best trained. But no match "
+"for my elite troops I have been holding in reserve. Prepare to meet your end!"
+msgstr ""
+"感動的だ、「領主の連隊」は常に最高の訓練を受けていた。だが、我が精鋭部隊に比"
+"肩するものではない、私の抱える精鋭予備軍にな。最期を迎える準備でもすること"
+"だ！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:567
+msgid ""
+"Your minions don't scare us. We will send you and all your abominations to "
+"the fiery pits of hell!"
+msgstr ""
+"お前の手下など、恐るるに足らぬ。お前の手下とともに、地獄の業火の中に投げ込ん"
+"でやる！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:568
+msgid "Pretty words but tremble before my champions! Ahah ha ha ha!!!"
+msgstr ""
+"素敵な言葉だ、だが我が王者たちの前で身震いするぞ！　アーッハッハッハ！！！"
+
+# 翻訳不明。ごめん。
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:569
+msgid "What is it with evil undead and manic laughter?"
+msgstr "あの邪悪なアンデッドと騒がしい笑い、一体どうしたんだ？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:611
+msgid "Ack... I see I placed my soul into the wrong hands..."
+msgstr "そうか... 私は、魂を渡すべき相手を間違ってしまったんだな..."
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:612
+msgid "So passes Fareth'ei..... my cousin."
+msgstr "合格だな、Fareth'ei... 私の従兄弟よ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:620
+msgid ""
+"The time has come for the truths to be told, lich. Were you ever an elf?"
+msgstr "真実が明かされるときが来たな、リッチ。お前はかつてエルフだったのか？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:621
+msgid ""
+"Yes, before I took the Black Path and became who I was today... ah, the "
+"power! You would have enjoyed it Uvollyn... I thought you had such "
+"potential..."
+msgstr ""
+"そうだ。暗黒の道を進む前、今の私となる前だがな...あぁ、この力！お前も楽しめた"
+"だろうに、Uvollyn ... お前にはその素質があると、私は思っていたのだ..."
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:622
+msgid "I would never go willingly."
+msgstr "決して私は望まぬ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:623
+msgid "Willingly? Who said anything about that....."
+msgstr "望まないだと？そんなこと、誰が言ったんだ、そういう..."
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:624
+msgid "Stop your foul words, lich. Elves!"
+msgstr "醜い言葉はウンザリだ、リッチよ。　さあ、エルフのみんな！"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:632
+msgid "Yes, commander?"
+msgstr "司令官、いかがしましょうか？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:633
+msgid "Destroy this evil."
+msgstr "この邪悪な者を殺す。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:634
+msgid ""
+"The angry elves converge on Mal-Birurn, wrenching apart his bones. As the "
+"arch lich collapses to the ground, bewildered elves shake off the remnants "
+"of the evil enchantment and stare around confusedly."
+msgstr ""
+"怒れるエルフたちは Mal-Birurn へと殺到し、彼の骨を引きちぎりました。弓なりに"
+"リッチが地面に倒れると、困惑したエルフたちは邪悪な魔法の残骸を振り払い、混乱"
+"した様子で辺りを見回しました。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:635
+msgid ""
+"We may have defeated Mal-Birurn, but the forest will not recover in a long "
+"time."
+msgstr "Mal-Birurn は倒したが、森が回復するのは先の話だ。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/10_Ghosts_Of_A_Sylvan_Land.cfg:636
+msgid "But with care and love it will recover."
+msgstr "でも、気配りと愛情を注げば、必ず回復しますよ。"
+
+#. [scenario]: id=11_Epilogue
+#: Struggle_For_Freedom/scenarios/11_Epilogue.cfg:5
+msgid "Epilogue"
+msgstr "エピローグ"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/11_Epilogue.cfg:44
+msgid "Tree of Life"
+msgstr "生命の樹"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/11_Epilogue.cfg:50
+msgid "So, why have you brought me here, Uvollyn?"
+msgstr "それで、Uvollyn 、どうして私をここに呼び出したの？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/11_Epilogue.cfg:51
+msgid "I wanted to give something to you."
+msgstr "君に渡したい物があってさ。"
+
+#. [message]: speaker=narrator
+#: Struggle_For_Freedom/scenarios/11_Epilogue.cfg:55
+msgid "In Uvollyn's hand lay a deep green elven ring."
+msgstr "Uvollyn の手には、深緑色のエルフの指輪が握られていました。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/11_Epilogue.cfg:57
+msgid "Biaraelia.... will you marry me?"
+msgstr "Biaraelia.... 結婚してくれるかい？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/11_Epilogue.cfg:58
+msgid "Yes, Uvollyn."
+msgstr "はい、Uvollyn 。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/11_Epilogue.cfg:59
+msgid "So...."
+msgstr "ということで....."
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/11_Epilogue.cfg:62
+msgid "Dalleraein"
+msgstr "Dalleraein"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/11_Epilogue.cfg:79
+msgid ""
+"Do you, Uvollyn and Biaraelia, pledge your love to each other, witnessed by "
+"this great tree?"
+msgstr ""
+"Uvollyn 、Biaraelia 、あなた方二人は、この大きな樹に見守られて、お互いに永遠"
+"の愛を誓いますか？"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/11_Epilogue.cfg:80
+#: Struggle_For_Freedom/scenarios/11_Epilogue.cfg:81
+msgid "I do."
+msgstr "誓います。"
+
+#. [event]
+#: Struggle_For_Freedom/scenarios/11_Epilogue.cfg:82
+msgid "You may kiss the bride!"
+msgstr "花嫁に口づけを！"
+
+#. [message]: speaker=narrator
+#: Struggle_For_Freedom/scenarios/11_Epilogue.cfg:86
+msgid "The End"
+msgstr "The End"
+
+#. [terrain_type]: id=overlay-gate-se
+#. [terrain_type]: id=overlay-gate-sw
+#: Struggle_For_Freedom/terrain-virtual.cfg:26
+#: Struggle_For_Freedom/terrain-virtual.cfg:36
+msgid "Gate"
+msgstr "門"
+
+#. [terrain_type]: id=overlay-open gate-se
+#. [terrain_type]: id=overlay-open-gate-sw
+#: Struggle_For_Freedom/terrain-virtual.cfg:46
+#: Struggle_For_Freedom/terrain-virtual.cfg:56
+msgid "Open Gate"
+msgstr "Open Gate"
+
+#. [terrain_type]: id=overlay-event-gate-se
+#. [terrain_type]: id=overlay-event-gate-sw
+#: Struggle_For_Freedom/terrain-virtual.cfg:66
+#: Struggle_For_Freedom/terrain-virtual.cfg:76
+msgid "Event Gate"
+msgstr "Event Gate"
+
+#: Struggle_For_Freedom/units/demons.cfg:5
+msgid ""
+"Abalam,Abbadon,Abigor,Adanor,Aderius,Adramalech,Agaliarept,Agares,Aim,Akvan,"
+"Alastar,Aldebaran,Alocer,Amducious,Amdusias,Amon,Ananiel,Andhaka,Andras,"
+"Andrealphus,Andromalius,Antares,Apep,Arael,Araqiel,Ares,Ariel,Arioch,"
+"Arkanthor,Armaros,Asael,Asag,Asb'el,Ash,Asmodeus,Astaroth,Azariel,Azazel,"
+"Baal,Baalberith,Balam,Balberith,Babeal,Baphomet,Baraqel,Barbas,Barbatos,"
+"Batariel,Bathin,Beball,Beelzebub,Behamoth,Behemoth,Beleth,Belial,Beliel,"
+"Belphegore,Belthazor,Belzebuth,Beowulf,Berith,Beur,Bezaliel,Bifrons,Botis,"
+"Buer,Bune,Caim,Calan,Camal,Carniveau,Caror,Castor,Cerberus,Chamos,Charon,"
+"Chazaqiel,Chul,Corson,Cronos,Daalberith,Dagon,Daniel,Dantalion,Decarabia,"
+"Deimos,Delchor,Demogorgon,Devan,Dubhor,Dumah,Dun,Edan,Edoru,El,Elan,Eligos,"
+"Erebus,Espro,Espreon,Eurynomous,Fomalhaut,Flauros,Flereous,Focalor,Foras,"
+"Forcas,Forneus,Furcas,Furfur,Gaap,Gader'el,Glasya-Labolas,Goliath,Gusion,"
+"Gwiti,Haagenti,Hal,Hade,Hades,Helios,Hephaestus,Humbaba,Hyperion,Iblis,Idoru,"
+"Ivan,Ixthal,Izilen,Ipos,Jetral,Jetrel,Jevan,Jevyan,Jutas,Juvart,Kabhanda,"
+"Kain,Kairus,Kakko,Kari,Kariel,Karo,Kasadya,Kasdaye,Kimaris,Kobal,Kokabiel,"
+"Kokytos,Kri,Krin,Kuno,Kuro,Landar,Lasaroth,Legion,Lempo,Lenthar,Lenvan,"
+"Leonard,Leraje,Lix Tetrax,Lor,Lorath,Loriel,Lorez,Lucifer,Lucifuge Rofocale,"
+"Maeglhir,Maeglhor,Magnus,Malal,Malphas,Malthus,Mammon,Marchocias,Maricha,"
+"Mastema,Melchom,Melchor,Mephisto,Mephistopholes,Mesphito,Merihim,Merloc,"
+"Moloch,Morax,Mu,Murdoc,Mulciber,Murmur,Naberius,Nale,Name,Nate,Nati,Nebiros,"
+"Neqa'el,Nergal,Nisroch,Noy,Noyga,Noyra,Noyze,Oeillet,Olivier,Optimus,Orcus,"
+"Orias,Ornias,Orobas,Ose,Oulotep,Pan,Paimon,Pazuzu,Penemue,Phlegathon,Phenex,"
+"Phobos,Pinem'e,Pithius,Piru,Pluto,Procell,Pruflas,Purson,Pytho,Python,Pythos,"
+"Rahab,Rahovart,Dune Riderel,Raum,Ravanal,Raven,Razakel,Regent,Regulus,Rimmon,"
+"Rhotomago,Ronove,Ronwe,Rosier,Sabnock,Sahaqel,Saleos,Samael,Samigina,Samyaza,"
+"Santa,Sariel,Satan,Satanachia,Satariel,Seir,Sephiroth,Sephit,Shaitan,"
+"Shamsiel,Shax,Shezmu,Sid,Sidragasum,Sin,Sith,Sitri,Sonnillon,Sorum,Soufflet,"
+"Spar,Stolas,Surgat,Tabaet,Taliz,Tamiel,Tan,Tannin,Tar,Tartaros,Taurus,"
+"Teeraal,Temeluchus,Thammuz,Thanatos,Theracar,Thor,Thorin,Thurin,Tityos,Triel,"
+"Troy,Turiel,Turin,Turon,Umbriel,Urobach,Val,Valac,Valefar,Vapula,Vassago,"
+"Verrine,Vine,Vual,Xan,Xandros,Xaphan,Xen,Yael,Yanqui,Yeqon,Yeter'el,Yhangor,"
+"Yomiel,Yuki,Zagan,Zama,Zaqiel,Zepar,Zephyros,Zet,Zeth,Zhan,Zhangor,Zhunol,"
+"Zort,Zorg,Zudo,Zuno"
+msgstr ""
+"Abalam,Abbadon,Abigor,Adanor,Aderius,Adramalech,Agaliarept,Agares,Aim,Akvan,"
+"Alastar,Aldebaran,Alocer,Amducious,Amdusias,Amon,Ananiel,Andhaka,Andras,"
+"Andrealphus,Andromalius,Antares,Apep,Arael,Araqiel,Ares,Ariel,Arioch,"
+"Arkanthor,Armaros,Asael,Asag,Asb'el,Ash,Asmodeus,Astaroth,Azariel,Azazel,"
+"Baal,Baalberith,Balam,Balberith,Babeal,Baphomet,Baraqel,Barbas,Barbatos,"
+"Batariel,Bathin,Beball,Beelzebub,Behamoth,Behemoth,Beleth,Belial,Beliel,"
+"Belphegore,Belthazor,Belzebuth,Beowulf,Berith,Beur,Bezaliel,Bifrons,Botis,"
+"Buer,Bune,Caim,Calan,Camal,Carniveau,Caror,Castor,Cerberus,Chamos,Charon,"
+"Chazaqiel,Chul,Corson,Cronos,Daalberith,Dagon,Daniel,Dantalion,Decarabia,"
+"Deimos,Delchor,Demogorgon,Devan,Dubhor,Dumah,Dun,Edan,Edoru,El,Elan,Eligos,"
+"Erebus,Espro,Espreon,Eurynomous,Fomalhaut,Flauros,Flereous,Focalor,Foras,"
+"Forcas,Forneus,Furcas,Furfur,Gaap,Gader'el,Glasya-Labolas,Goliath,Gusion,"
+"Gwiti,Haagenti,Hal,Hade,Hades,Helios,Hephaestus,Humbaba,Hyperion,Iblis,Idoru,"
+"Ivan,Ixthal,Izilen,Ipos,Jetral,Jetrel,Jevan,Jevyan,Jutas,Juvart,Kabhanda,"
+"Kain,Kairus,Kakko,Kari,Kariel,Karo,Kasadya,Kasdaye,Kimaris,Kobal,Kokabiel,"
+"Kokytos,Kri,Krin,Kuno,Kuro,Landar,Lasaroth,Legion,Lempo,Lenthar,Lenvan,"
+"Leonard,Leraje,Lix Tetrax,Lor,Lorath,Loriel,Lorez,Lucifer,Lucifuge Rofocale,"
+"Maeglhir,Maeglhor,Magnus,Malal,Malphas,Malthus,Mammon,Marchocias,Maricha,"
+"Mastema,Melchom,Melchor,Mephisto,Mephistopholes,Mesphito,Merihim,Merloc,"
+"Moloch,Morax,Mu,Murdoc,Mulciber,Murmur,Naberius,Nale,Name,Nate,Nati,Nebiros,"
+"Neqa'el,Nergal,Nisroch,Noy,Noyga,Noyra,Noyze,Oeillet,Olivier,Optimus,Orcus,"
+"Orias,Ornias,Orobas,Ose,Oulotep,Pan,Paimon,Pazuzu,Penemue,Phlegathon,Phenex,"
+"Phobos,Pinem'e,Pithius,Piru,Pluto,Procell,Pruflas,Purson,Pytho,Python,Pythos,"
+"Rahab,Rahovart,Dune Riderel,Raum,Ravanal,Raven,Razakel,Regent,Regulus,Rimmon,"
+"Rhotomago,Ronove,Ronwe,Rosier,Sabnock,Sahaqel,Saleos,Samael,Samigina,Samyaza,"
+"Santa,Sariel,Satan,Satanachia,Satariel,Seir,Sephiroth,Sephit,Shaitan,"
+"Shamsiel,Shax,Shezmu,Sid,Sidragasum,Sin,Sith,Sitri,Sonnillon,Sorum,Soufflet,"
+"Spar,Stolas,Surgat,Tabaet,Taliz,Tamiel,Tan,Tannin,Tar,Tartaros,Taurus,"
+"Teeraal,Temeluchus,Thammuz,Thanatos,Theracar,Thor,Thorin,Thurin,Tityos,Triel,"
+"Troy,Turiel,Turin,Turon,Umbriel,Urobach,Val,Valac,Valefar,Vapula,Vassago,"
+"Verrine,Vine,Vual,Xan,Xandros,Xaphan,Xen,Yael,Yanqui,Yeqon,Yeter'el,Yhangor,"
+"Yomiel,Yuki,Zagan,Zama,Zaqiel,Zepar,Zephyros,Zet,Zeth,Zhan,Zhangor,Zhunol,"
+"Zort,Zorg,Zudo,Zuno"
+
+#: Struggle_For_Freedom/units/demons.cfg:6
+msgid ""
+"Aba,Ada,Aderi,Agiel,Agrat-bat-mahlaht,Aisa,Alie,Aly,Alya,Ammit,Amy,Ania,"
+"Analia,Anadea,Anadya,Angelia,Anna,Areza,Ariadne,Artien,Ashtaroth,Astarte,"
+"Astoreth,Atropos,Azura,Bellatrix,Beryla,Bruxe,Calliope,Charis,Charybdis,"
+"Charusse,Chi,Chia,Dana,Dane,Dara,Darma,Decima,Dela,Delepitore,Delirya,Deluna,"
+"Demona,Deth,Devila,Devira,Devyan,Dione,Drama,Dul,Duna,Eidyia,Eisheth Zenunil,"
+"Elandra,Electra,Elenia,Elestria,Eloh,Elyna,Elynea,Elynia,Elyra,Elyria,Elyssa,"
+"Elyza,Empusa,Enea,Eos,Eris,Eryssa,Ethea,Euryale,Evila,Evira,Fae,Faira,Fania,"
+"Faria,Fine,Gaia,Gremory,Gresil,Hecate,Hemera,Ira,Irda,Irdya,Irene,Iridya,"
+"Iril,Iris,Iruel,Isa,Issyl,Ivana,Ivyel,Izara,Jarla,Jevyan,Juno,Kaia,Kalah,"
+"Kalari,Kaleh,Kali,Kana,Karma,Karyna,Kazen,Kendria,Kara,Kia,Kindite,Kuna,"
+"Kyrah,Lachesis,Lailah,Lamashtu,Lamia,Lara,Leliel,Lethe,Leviathan,Lilia,Lilim,"
+"Lilin,Lilith,Lilitu,Lilya,Listra,Liza,Lua,Lucia,Lucile,Lucina,Lucine,Luna,"
+"Lyda,Lyla,Lyra,Magna,Maia,Mara,Medusa,Melia,Melchiresa,Melusine,Mia,Midara,"
+"Mintha,Mir,Mir Kaleh,Mistra,Moira,Moria,Musah,Myria,Myriam,Naamah,Nadia,Naia,"
+"Nala,Nara,Narya,Nebula,Nemesis,Neura,Neuralger,Nidia,Nika,Nirvana,Nirvenia,"
+"Nona,Nora,Norma,Nyada,Nystra,Nyx,Nyxa,Onoskelis,Pia,Proserpine,Rangda,Rhea,"
+"Rusalka,Sabata,Satana,Scylla,Sela,Shar,Share,Sharael,Sheol,Selene,Shia,"
+"Sonnielion,Stheno,Styx,Sul,Summa,Sunna,Sycorax,Syl,Sylestria,Sylin,Sylith,"
+"Symia,Syn,Synara,Synestria,Tada,Talah,Talam,Taweret,Thanadria,Thanavryen,"
+"Thea,Thia,Thiana,Thiara,Tial,Tora,Tundra,Turen,Tzitzimime,Uma,Umbria,Unarya,"
+"Unia,Unsere,Urania,Uzza,Vena,Verna,Verrier,Vepar,Vulpecula,Xandar,Xana,"
+"Xandria,Xeth,Xia,Xindra,Xindar,Yuki,Yumi,Yun,Yuna,Yuni,Zana,Zhul,Zidya,Zilla,"
+"Zoe,Zoya,Zuna,Zynara,Zythara"
+msgstr ""
+"Aba,Ada,Aderi,Agiel,Agrat-bat-mahlaht,Aisa,Alie,Aly,Alya,Ammit,Amy,Ania,"
+"Analia,Anadea,Anadya,Angelia,Anna,Areza,Ariadne,Artien,Ashtaroth,Astarte,"
+"Astoreth,Atropos,Azura,Bellatrix,Beryla,Bruxe,Calliope,Charis,Charybdis,"
+"Charusse,Chi,Chia,Dana,Dane,Dara,Darma,Decima,Dela,Delepitore,Delirya,Deluna,"
+"Demona,Deth,Devila,Devira,Devyan,Dione,Drama,Dul,Duna,Eidyia,Eisheth Zenunil,"
+"Elandra,Electra,Elenia,Elestria,Eloh,Elyna,Elynea,Elynia,Elyra,Elyria,Elyssa,"
+"Elyza,Empusa,Enea,Eos,Eris,Eryssa,Ethea,Euryale,Evila,Evira,Fae,Faira,Fania,"
+"Faria,Fine,Gaia,Gremory,Gresil,Hecate,Hemera,Ira,Irda,Irdya,Irene,Iridya,"
+"Iril,Iris,Iruel,Isa,Issyl,Ivana,Ivyel,Izara,Jarla,Jevyan,Juno,Kaia,Kalah,"
+"Kalari,Kaleh,Kali,Kana,Karma,Karyna,Kazen,Kendria,Kara,Kia,Kindite,Kuna,"
+"Kyrah,Lachesis,Lailah,Lamashtu,Lamia,Lara,Leliel,Lethe,Leviathan,Lilia,Lilim,"
+"Lilin,Lilith,Lilitu,Lilya,Listra,Liza,Lua,Lucia,Lucile,Lucina,Lucine,Luna,"
+"Lyda,Lyla,Lyra,Magna,Maia,Mara,Medusa,Melia,Melchiresa,Melusine,Mia,Midara,"
+"Mintha,Mir,Mir Kaleh,Mistra,Moira,Moria,Musah,Myria,Myriam,Naamah,Nadia,Naia,"
+"Nala,Nara,Narya,Nebula,Nemesis,Neura,Neuralger,Nidia,Nika,Nirvana,Nirvenia,"
+"Nona,Nora,Norma,Nyada,Nystra,Nyx,Nyxa,Onoskelis,Pia,Proserpine,Rangda,Rhea,"
+"Rusalka,Sabata,Satana,Scylla,Sela,Shar,Share,Sharael,Sheol,Selene,Shia,"
+"Sonnielion,Stheno,Styx,Sul,Summa,Sunna,Sycorax,Syl,Sylestria,Sylin,Sylith,"
+"Symia,Syn,Synara,Synestria,Tada,Talah,Talam,Taweret,Thanadria,Thanavryen,"
+"Thea,Thia,Thiana,Thiara,Tial,Tora,Tundra,Turen,Tzitzimime,Uma,Umbria,Unarya,"
+"Unia,Unsere,Urania,Uzza,Vena,Verna,Verrier,Vepar,Vulpecula,Xandar,Xana,"
+"Xandria,Xeth,Xia,Xindra,Xindar,Yuki,Yumi,Yun,Yuna,Yuni,Zana,Zhul,Zidya,Zilla,"
+"Zoe,Zoya,Zuna,Zynara,Zythara"
+
+#. [race]: id=demon
+#: Struggle_For_Freedom/units/demons.cfg:11
+msgid "race^Demon"
+msgstr "悪魔"
+
+#. [race]: id=demon
+#: Struggle_For_Freedom/units/demons.cfg:12
+msgid "race+female^Demoness"
+msgstr "魔女"
+
+#. [race]: id=demon
+#: Struggle_For_Freedom/units/demons.cfg:13
+msgid "race^Demons"
+msgstr "悪魔"
+
+#. [race]: id=demon
+#: Struggle_For_Freedom/units/demons.cfg:14
+msgid ""
+"Legend has it that at the beginning of time, powerful creatures called "
+"‘demons’ governed all that existed. The Lords of Light and Darkness, seeing "
+"the danger they posed for the balance of nature, banished them to a separate "
+"plane of existence, trapped with no means of escape from inside. But time "
+"and time again, different versions of the legend have been told by different "
+"peoples in different places. Presumably, whatever small amount of truth "
+"there was in the original version of the story has since been lost forever.\n"
+"\n"
+"Either by ignorance, or in an attempt to make sense of the fractured stories "
+"gathered from Chaos prisoners, the peoples of Irdya refer more generally to "
+"all the vastly heterogeneous races of Inferno by this generic designation. "
+"Some go as far as to claim that normal Irdyan creatures may become ‘demonic’ "
+"in some form or another, pointing at the Chaos Lorekeepers’ powers and "
+"inscrutable nature."
+msgstr ""
+"伝説によると、遠い昔には悪魔（ Demon ）と呼ばれる強力な生物が、あらゆるものを"
+"支配していたと言われています。光と闇の主は、自然の調和を乱す恐れがあるとして"
+"悪魔を別の世界へ追いやり、そこから抜け出ないよう封じ込めたのです。しかし、こ"
+"の伝説は幾度となく、あらゆる場所や人々によって語り継がれ、今では元の物語が"
+"持っていたわずかな真実さえも失われてしまったことでしょう。\n"
+"\n"
+"無知からか、或いは混沌たる囚人からよせ集めた言葉の断片をまことしやかに語るた"
+"めにか、Irdya の人々はより一般的に、地獄の超異質な種族をこの総称で呼んでいま"
+"す。また、”混沌の伝承者”の力と理解不能な特質によって、通常の Irdyan の生物が"
+"何らかの形で悪魔的な存在になる可能性があるとまで主張する者もいます。"
+
+#. [unit_type]: id=Demon, race=demon
+#: Struggle_For_Freedom/units/demons/Fighter_Demon.cfg:5
+msgid "Demon"
+msgstr "悪魔"
+
+#. [unit_type]: id=Demon, race=demon
+#: Struggle_For_Freedom/units/demons/Fighter_Demon.cfg:20
+msgid ""
+"Legend has it that at the beginning of time, powerful creatures called "
+"‘demons’ governed all that existed. The Lords of Light and Darkness, seeing "
+"the danger they posed for the balance of nature, banished them to a separate "
+"plane of existence, trapped with no means of escape from inside. It would "
+"take eons before the combined effort of foolish sorcerers and the most "
+"dreadful Demon Lord to ever exist would allow Uria unleash her hordes on a "
+"ravaged land.\n"
+"\n"
+"These fighter demons are nimble and sturdy creatures who have largely "
+"forgone the need for armor or clothing to protect themselves from physical "
+"damage. Although their sharp claws and unnatural strength allow them to tear "
+"opponents apart with ease, they usually prefer wielding crude blade weapons "
+"to appear even more intimidating in combat."
+msgstr ""
+"伝説によると、遠い昔には悪魔（ Demon ）と呼ばれる強力な生物が、あらゆるものを"
+"支配していたと言われています。光と闇の主は、自然の調和を乱す恐れがあるとして"
+"悪魔を別の世界へ追いやり、そこから抜け出ないよう封じ込めたのです。愚かな魔術"
+"師と史上最も恐ろしい魔王とが結託して荒廃した土地に Uria がその大群を解き放て"
+"るまでには、何年もかかることでしょう。\n"
+"\n"
+"この戦士の悪魔は軽快で頑丈な生き物のため、物理的衝撃から身を守る鎧や装具はほ"
+"とんど必要としません。鋭い爪と不自然なほどの強さは相手を簡単に引き裂くことが"
+"できますが、通常は戦闘中にさらに威圧的に見えるよう、毒々しい刀剣を振り回すの"
+"を好みます。"
+
+#. [attack]: type=blade
+#: Struggle_For_Freedom/units/demons/Fighter_Demon.cfg:27
+#: Struggle_For_Freedom/units/demons/Fighter_Grunt.cfg:30
+#: Struggle_For_Freedom/units/demons/Fighter_Warrior.cfg:32
+#: Struggle_For_Freedom/units/humans-evil/Dark_Knight.cfg:38
+#: Struggle_For_Freedom/units/humans-evil/Dark_Marauder.cfg:40
+#: Struggle_For_Freedom/units/humans-evil/Dark_Razerman.cfg:39
+msgid "axe"
+msgstr "斧"
+
+#. [attack]: type=fire
+#: Struggle_For_Freedom/units/demons/Fighter_Demon.cfg:36
+#: Struggle_For_Freedom/units/demons/Fighter_Zephyr.cfg:37
+msgid "fireball"
+msgstr "ファイアボール"
+
+#. [female]
+#: Struggle_For_Freedom/units/demons/Fighter_Demon.cfg:107
+msgid "female^Demoness"
+msgstr "魔女"
+
+#. [unit_type]: id=Demon Grunt, race=demon
+#: Struggle_For_Freedom/units/demons/Fighter_Grunt.cfg:5
+msgid "Demon Grunt"
+msgstr "悪魔の兵卒"
+
+#. [unit_type]: id=Demon Grunt, race=demon
+#: Struggle_For_Freedom/units/demons/Fighter_Grunt.cfg:25
+msgid ""
+"The best demon fighters are renowned for their unrivaled strength and "
+"performance under any environmental conditions. They obtain and craft new "
+"weapons and armor using whatever they can salvage from defeated foes, and "
+"learn new combat skills as they adapt to the land to which they are sent by "
+"their overlords."
+msgstr ""
+"最強の悪魔の兵士は、どんな状況でも圧倒的な強さと能力を発揮します。悪魔の兵卒"
+"（ Demon Grunt ）は、主君が派遣した戦地に適応するために、倒した敵から奪ったも"
+"のや新たに作った武器や装具を用いて、新たな戦闘技術を習得していくのです。"
+
+#. [attack]: type=cold
+#: Struggle_For_Freedom/units/demons/Fighter_Grunt.cfg:39
+#: Struggle_For_Freedom/units/demons/Fighter_Warrior.cfg:41
+#: Struggle_For_Freedom/units/humans-evil/Dark_Lorekeeper.cfg:47
+msgid "infernal chill"
+msgstr "極冷却"
+
+#. [female]
+#: Struggle_For_Freedom/units/demons/Fighter_Grunt.cfg:121
+msgid "female^Demoness Grunt"
+msgstr "魔女の兵卒"
+
+#. [unit_type]: id=Demon Warrior, race=demon
+#: Struggle_For_Freedom/units/demons/Fighter_Warrior.cfg:5
+msgid "Demon Warrior"
+msgstr "悪魔の戦士"
+
+#. [unit_type]: id=Demon Warrior, race=demon
+#: Struggle_For_Freedom/units/demons/Fighter_Warrior.cfg:27
+msgid ""
+"The few natives of Irdya who have dared underestimate the might of these "
+"demonic warriors have invariably suffered horrific deaths at the hands of "
+"these blood-thirsty behemoths. The power of the armies of Chaos largely "
+"depends on the Lorekeepers’ wisdom in selecting the best fighters to serve "
+"them with their undying loyalty to Uria’s cause. But in time, a legendary "
+"warrior might rise from the ranks of servility and dethrone a mighty Demon "
+"Lord—even their own—and become him or herself a great vassal of Uria."
+msgstr ""
+"この悪魔のような戦士の能力を見くびる勇気を持つ少数の Irdya の現地人は、必ずこ"
+"の血に飢えた戦士の手によって恐ろしい死を遂げています。無秩序な軍隊の力は、"
+"Uria の大義へ不滅の忠誠心をもって仕える中の最高の戦士を選ぶという伝承者"
+"（Lorekeeper）の知恵に大きく依存しています。しかし、やがて伝説の戦士が隷属の"
+"中から立ち上がり、強大な魔王を退位させ、彼または彼女自身が Uria の偉大な臣下"
+"となることもあります。"
+
+#. [female]
+#: Struggle_For_Freedom/units/demons/Fighter_Warrior.cfg:127
+msgid "female^Demoness Warrior"
+msgstr "魔女の戦士"
+
+#. [unit_type]: id=Demon Zephyr, race=demon
+#: Struggle_For_Freedom/units/demons/Fighter_Zephyr.cfg:5
+msgid "Demon Zephyr"
+msgstr "悪魔ゼファー"
+
+#. [unit_type]: id=Demon Zephyr, race=demon
+#: Struggle_For_Freedom/units/demons/Fighter_Zephyr.cfg:23
+msgid ""
+"Some demons go through a different maturing process and grow large webbed "
+"wings, which allow them to use their enormous strength to fly across great "
+"distances. As weapons and armor could only hinder them in flight, they must "
+"rely on their species’ strong build, long and sharp claws, and their limited "
+"control of fire to strike at their prey from above."
+msgstr ""
+"一部の悪魔は他とは異なる成熟過程で、大きな網目状の翼を生やし、その強大な力で"
+"遠くまで飛べるようになります。武器や鎧は飛行の邪魔になるだけなので、彼らは上"
+"空から獲物を攻撃するため、この種族の強い体格と長く鋭い爪、限られた火の制御能"
+"力に依存しています。"
+
+#. [attack]: type=blade
+#: Struggle_For_Freedom/units/demons/Fighter_Zephyr.cfg:28
+msgid "claws"
+msgstr "かぎ爪"
+
+#. [female]
+#: Struggle_For_Freedom/units/demons/Fighter_Zephyr.cfg:107
+msgid "female^Demoness Zephyr"
+msgstr "魔女ゼファー"
+
+#. [unit_type]: id=Corrupted Captain, race=dark elf
+#: Struggle_For_Freedom/units/elves-corrupted/Captain.cfg:5
+#: Struggle_For_Freedom/units/elves-corrupted/Captain.cfg:22
+msgid "Corrupted Captain"
+msgstr "堕ちた隊長"
+
+#. [attack]: type=blade
+#: Struggle_For_Freedom/units/elves-corrupted/Captain.cfg:28
+#: Struggle_For_Freedom/units/elves-corrupted/Champion.cfg:23
+#: Struggle_For_Freedom/units/elves-corrupted/Fighter.cfg:29
+#: Struggle_For_Freedom/units/elves-corrupted/Hero.cfg:23
+#: Struggle_For_Freedom/units/elves-corrupted/Marshal.cfg:28
+#: Struggle_For_Freedom/units/elves-uvollyn-custom/Captain.cfg:46
+#: Struggle_For_Freedom/units/elves-uvollyn-custom/Fighter.cfg:35
+#: Struggle_For_Freedom/units/elves-uvollyn-custom/Marshal.cfg:47
+#: Struggle_For_Freedom/units/elves-uvollyn-custom/Warlord.cfg:48
+#: Struggle_For_Freedom/units/humans-evil/Dark_Guardian.cfg:28
+#: Struggle_For_Freedom/units/humans-evil/Dark_Knight.cfg:26
+#: Struggle_For_Freedom/units/humans-evil/Dark_Marksman.cfg:25
+#: Struggle_For_Freedom/units/humans-evil/Dark_Overlord.cfg:29
+#: Struggle_For_Freedom/units/humans-evil/Dark_Raider.cfg:41
+#: Struggle_For_Freedom/units/humans-evil/Dark_Razerman.cfg:27
+#: Struggle_For_Freedom/units/humans-evil/Dark_Sharpshooter.cfg:26
+#: Struggle_For_Freedom/units/humans-evil/Doom_Guard.cfg:26
+#: Struggle_For_Freedom/units/humans-evil/Invader.cfg:26
+msgid "sword"
+msgstr "剣"
+
+#. [attack]: type=pierce
+#: Struggle_For_Freedom/units/elves-corrupted/Captain.cfg:37
+#: Struggle_For_Freedom/units/elves-corrupted/Marshal.cfg:37
+msgid "spear"
+msgstr "槍"
+
+#. [unit_type]: id=Corrupted Champion, race=dark elf
+#: Struggle_For_Freedom/units/elves-corrupted/Champion.cfg:4
+msgid "Corrupted Champion"
+msgstr "堕ちたチャンピオン"
+
+#. [unit_type]: id=Corrupted Champion, race=dark elf
+#: Struggle_For_Freedom/units/elves-corrupted/Champion.cfg:18
+msgid "Corrupted Champion."
+msgstr "堕ちたチャンピオン。"
+
+#. [unit_type]: id=Corrupted Crossbowman, race=dark elf
+#: Struggle_For_Freedom/units/elves-corrupted/Crossbowman.cfg:5
+msgid "Corrupted Crossbowman"
+msgstr "堕ちたクロスボウ"
+
+#. [unit_type]: id=Corrupted Crossbowman, race=dark elf
+#: Struggle_For_Freedom/units/elves-corrupted/Crossbowman.cfg:22
+msgid "Corrupted Crossbowman."
+msgstr "堕ちたクロスボウ。"
+
+#. [attack]: type=blade
+#: Struggle_For_Freedom/units/elves-corrupted/Crossbowman.cfg:26
+#: Struggle_For_Freedom/units/elves-corrupted/Shadow.cfg:27
+#: Struggle_For_Freedom/units/elves-corrupted/Stalker.cfg:28
+msgid "dagger"
+msgstr "ダガー"
+
+#. [attack]: type=pierce
+#: Struggle_For_Freedom/units/elves-corrupted/Crossbowman.cfg:35
+#: Struggle_For_Freedom/units/elves-corrupted/Shadow.cfg:36
+#: Struggle_For_Freedom/units/elves-corrupted/Stalker.cfg:37
+msgid "crossbow"
+msgstr "クロスボウ"
+
+#. [unit_type]: id=Corrupted Enchantress, race=dark elf
+#: Struggle_For_Freedom/units/elves-corrupted/Enchantress.cfg:5
+msgid "female^Corrupted Enchantress"
+msgstr "堕ちた術師"
+
+#. [unit_type]: id=Corrupted Enchantress, race=dark elf
+#. [unit_type]: id=Corrupted Sorceress, race=dark elf
+#: Struggle_For_Freedom/units/elves-corrupted/Enchantress.cfg:22
+#: Struggle_For_Freedom/units/elves-corrupted/Sorceress.cfg:21
+msgid "Corrupted Enchantress."
+msgstr "堕ちた術師。"
+
+#. [attack]: type=impact
+#: Struggle_For_Freedom/units/elves-corrupted/Enchantress.cfg:28
+#: Struggle_For_Freedom/units/elves-corrupted/Shaman.cfg:23
+#: Struggle_For_Freedom/units/elves-corrupted/Sorceress.cfg:26
+msgid "mace"
+msgstr "メイス"
+
+#. [attack]: type=arcane
+#: Struggle_For_Freedom/units/elves-corrupted/Enchantress.cfg:36
+#: Struggle_For_Freedom/units/elves-corrupted/Shaman.cfg:31
+#: Struggle_For_Freedom/units/elves-corrupted/Sorceress.cfg:34
+msgid "shadow wave"
+msgstr "シャドウ・ウェーブ"
+
+#. [unit_type]: id=Corrupted Fighter, race=dark elf
+#: Struggle_For_Freedom/units/elves-corrupted/Fighter.cfg:5
+msgid "Corrupted Fighter"
+msgstr "堕ちた兵士"
+
+#. [unit_type]: id=Corrupted Fighter, race=dark elf
+#: Struggle_For_Freedom/units/elves-corrupted/Fighter.cfg:25
+msgid "Corrupted Fighter."
+msgstr "堕ちた兵士。"
+
+#. [unit_type]: id=Corrupted Hero, race=dark elf
+#: Struggle_For_Freedom/units/elves-corrupted/Hero.cfg:5
+msgid "Corrupted Hero"
+msgstr "堕ちた英雄"
+
+#. [unit_type]: id=Corrupted Hero, race=dark elf
+#: Struggle_For_Freedom/units/elves-corrupted/Hero.cfg:18
+msgid "Corrupted Hero."
+msgstr "堕ちた英雄。"
+
+#. [unit_type]: id=Corrupted Marshal, race=dark elf
+#: Struggle_For_Freedom/units/elves-corrupted/Marshal.cfg:5
+msgid "Corrupted Marshal"
+msgstr "堕ちた元帥"
+
+#. [unit_type]: id=Corrupted Marshal, race=dark elf
+#: Struggle_For_Freedom/units/elves-corrupted/Marshal.cfg:23
+msgid "Corrupted Marshal."
+msgstr "堕ちた元帥。"
+
+#. [unit_type]: id=Shadow Elf, race=dark elf
+#: Struggle_For_Freedom/units/elves-corrupted/Shadow.cfg:5
+msgid "Shadow Elf"
+msgstr "シャドウエルフ"
+
+#. [unit_type]: id=Shadow Elf, race=dark elf
+#: Struggle_For_Freedom/units/elves-corrupted/Shadow.cfg:22
+msgid "Shadow Elf."
+msgstr "シャドウエルフ。"
+
+#. [unit_type]: id=Corrupted Shaman, race=dark elf
+#: Struggle_For_Freedom/units/elves-corrupted/Shaman.cfg:5
+msgid "female^Corrupted Shaman"
+msgstr "堕ちた呪術師"
+
+#. [unit_type]: id=Corrupted Shaman, race=dark elf
+#: Struggle_For_Freedom/units/elves-corrupted/Shaman.cfg:18
+msgid "Corrupted Shaman."
+msgstr "堕ちた呪術師。"
+
+#. [unit_type]: id=Corrupted Sorceress, race=dark elf
+#: Struggle_For_Freedom/units/elves-corrupted/Sorceress.cfg:5
+msgid "female^Corrupted Sorceress"
+msgstr "堕ちた魔術師"
+
+#. [unit_type]: id=Elvish Stalker, race=dark elf
+#: Struggle_For_Freedom/units/elves-corrupted/Stalker.cfg:5
+msgid "Elvish Stalker"
+msgstr "エルフの追跡者"
+
+#. [unit_type]: id=Elvish Stalker, race=dark elf
+#: Struggle_For_Freedom/units/elves-corrupted/Stalker.cfg:23
+msgid "Elvish Stalker."
+msgstr "エルフの追跡者。"
+
+#. [variation]: id=Uvollyn Elvish Captain, race=elf
+#. [unit_type]: id=Uvollyn Elvish Captain, race=elf
+#: Struggle_For_Freedom/units/elves-uvollyn-custom/Captain.cfg:105
+#: Struggle_For_Freedom/units/elves-uvollyn-custom/Captain.cfg:4
+msgid "Elvish Captain"
+msgstr "エルフの隊長"
+
+#. [unit_type]: id=Uvollyn Elvish Captain, race=elf
+#: Struggle_For_Freedom/units/elves-uvollyn-custom/Captain.cfg:25
+msgid ""
+"Elves, unlike many other races, will quickly acknowledge and follow any of "
+"their peers who have experience in combat. In this they differ greatly from "
+"humanity, for whom leadership is often a matter of coercion and "
+"intimidation. The combination of their willingness to accept the wisdom of "
+"their leaders, and the tendency to choose leaders of merit is one of the "
+"quiet strengths of the elves."
+msgstr ""
+"エルフは他の多くの種族とは異なり、戦闘経験のある仲間をすぐに認めて従います。"
+"この点で、統率能力がしばしば強制的で威嚇的な人間族と大きく異なります。指導者"
+"の知恵を素直に受け入れ、実力ある指導者を選ぶ傾向は、エルフの静かな強さのひと"
+"つです。"
+
+#. [attack]: type=pierce
+#: Struggle_For_Freedom/units/elves-uvollyn-custom/Captain.cfg:55
+#: Struggle_For_Freedom/units/elves-uvollyn-custom/Fighter.cfg:44
+#: Struggle_For_Freedom/units/elves-uvollyn-custom/Marshal.cfg:56
+#: Struggle_For_Freedom/units/elves-uvollyn-custom/Warlord.cfg:57
+#: Struggle_For_Freedom/units/elves-wood/Transport.cfg:40
+msgid "bow"
+msgstr "弓"
+
+#. [attack]: type=blade
+#: Struggle_For_Freedom/units/elves-uvollyn-custom/Captain.cfg:149
+#: Struggle_For_Freedom/units/elves-uvollyn-custom/Fighter.cfg:139
+#: Struggle_For_Freedom/units/elves-uvollyn-custom/Marshal.cfg:152
+#: Struggle_For_Freedom/units/elves-uvollyn-custom/Warlord.cfg:154
+msgid "runesword"
+msgstr "ルーン剣"
+
+#. [attack]: type=impact
+#: Struggle_For_Freedom/units/elves-uvollyn-custom/Captain.cfg:161
+#: Struggle_For_Freedom/units/elves-uvollyn-custom/Fighter.cfg:151
+#: Struggle_For_Freedom/units/elves-uvollyn-custom/Marshal.cfg:164
+#: Struggle_For_Freedom/units/elves-uvollyn-custom/Warlord.cfg:166
+msgid "runic blast"
+msgstr "ルーン爆弾"
+
+#. [variation]: id=Uvollyn Elvish Fighter, race=elf
+#. [unit_type]: id=Uvollyn Elvish Fighter, race=elf
+#: Struggle_For_Freedom/units/elves-uvollyn-custom/Fighter.cfg:103
+#: Struggle_For_Freedom/units/elves-uvollyn-custom/Fighter.cfg:4
+msgid "Elvish Fighter"
+msgstr "エルフの戦士"
+
+#. [unit_type]: id=Uvollyn Elvish Fighter, race=elf
+#: Struggle_For_Freedom/units/elves-uvollyn-custom/Fighter.cfg:19
+msgid ""
+"Elves are not warlike by nature, but in times of need, their natural grace "
+"and agility serve them well, as does their skillful craftsmanship. An elf "
+"can grasp the basics of swordsmanship and archery in an uncannily short "
+"time, and put them to effective use on the battlefield."
+msgstr ""
+"エルフは本来好戦的ではありませんが、必要であれば、その天賦の才と機敏さ、そし"
+"て巧みな職人技が大いに役立ちます。エルフは剣術や弓術の基礎を驚くほど短時間で"
+"習得し、戦場での実戦に有効に活かすのです。"
+
+#. [variation]: id=Uvollyn Elvish Marshal, race=elf
+#. [unit_type]: id=Uvollyn Elvish Marshal, race=elf
+#: Struggle_For_Freedom/units/elves-uvollyn-custom/Marshal.cfg:107
+#: Struggle_For_Freedom/units/elves-uvollyn-custom/Marshal.cfg:4
+msgid "Elvish Marshal"
+msgstr "エルフの元帥"
+
+#. [unit_type]: id=Uvollyn Elvish Marshal, race=elf
+#. [unit_type]: id=Uvollyn Elvish Warlord, race=elf
+#: Struggle_For_Freedom/units/elves-uvollyn-custom/Marshal.cfg:25
+#: Struggle_For_Freedom/units/elves-uvollyn-custom/Warlord.cfg:26
+msgid ""
+"The longevity and natural intelligence of elves make them apt for military "
+"matters, enough even to counter their general distaste for such things. "
+"Elves remember things much more clearly than humankind, and can often intuit "
+"what others can only be trained to do. Certainly, on those rare occasions "
+"when an elf sets his mind to war, the strategy that results is the work of a "
+"master."
+msgstr ""
+"エルフの長寿と天性の知性は、軍事的な事柄に適していて、一般的にそうしたことを"
+"嫌うエルフに対抗するには十分である。エルフは人間よりはるかに明瞭に物事を記憶"
+"し、他の者が訓練でしか得られない感覚をしばしば直感することができます。確かに"
+"エルフが戦争に正面から向かい合うとき、ごくまれに、その結果生まれる戦略は達人"
+"の域に達するものになります。"
+
+#. [variation]: id=Uvollyn Elvish Warlord, race=elf
+#. [unit_type]: id=Uvollyn Elvish Warlord, race=elf
+#: Struggle_For_Freedom/units/elves-uvollyn-custom/Warlord.cfg:108
+#: Struggle_For_Freedom/units/elves-uvollyn-custom/Warlord.cfg:4
+msgid "Elvish Warlord"
+msgstr "エルフの将軍"
+
+#. [unit_type]: id=Elvish Prisoner, race=elf
+#: Struggle_For_Freedom/units/elves-wood/Prisoner.cfg:4
+msgid "Elvish Prisoner"
+msgstr "エルフの捕虜"
+
+#. [unit_type]: id=Elvish Prisoner, race=elf
+#: Struggle_For_Freedom/units/elves-wood/Prisoner.cfg:19
+msgid "Elvish Prisoner."
+msgstr "エルフの捕虜。"
+
+#. [attack]: type=impact
+#: Struggle_For_Freedom/units/elves-wood/Prisoner.cfg:24
+#: Struggle_For_Freedom/units/humans-evil/Dark_Invoker.cfg:37
+msgid "fist"
+msgstr "拳"
+
+#. [unit_type]: id=Elvish Transport, race=elf
+#: Struggle_For_Freedom/units/elves-wood/Transport.cfg:5
+msgid "Elvish Transport"
+msgstr "エルフの移送車"
+
+#. [unit_type]: id=Elvish Transport, race=elf
+#: Struggle_For_Freedom/units/elves-wood/Transport.cfg:20
+msgid ""
+"Transports are used to carry supplies, valuables or wounded soldiers over "
+"long distances. They are guarded, but nevertheless their drivers are usually "
+"soldiers capable of defending the charge on their own with a bow, and their "
+"horses' lashing hooves."
+msgstr ""
+"エルフの移送車（ Elvish Transport ）は、物資や貴重品、または負傷した兵士を長"
+"距離にわたって移送するために使用されます。警備兵は付きますが、運転手は通常、"
+"弓と馬の梯子を使用して単独でも襲撃から守れる、立派な兵士です。"
+
+#. [attack]: type=impact
+#: Struggle_For_Freedom/units/elves-wood/Transport.cfg:31
+msgid "trample"
+msgstr "踏み付け"
+
+#. [unit_type]: id=Dark Guardian, race=human
+#: Struggle_For_Freedom/units/humans-evil/Dark_Guardian.cfg:5
+msgid "Dark Guardian"
+msgstr "暗黒の警護兵"
+
+#. [unit_type]: id=Dark Guardian, race=human
+#: Struggle_For_Freedom/units/humans-evil/Dark_Guardian.cfg:23
+msgid ""
+"Only the toughest of armorers are worthy of the most effective armors and "
+"weapons, forged by the best demonic blacksmiths, and blessed by unlawful "
+"magic. It is said that they could stand against an avalanche with ease, if "
+"they were commanded to do so."
+msgstr ""
+"最高レベルの悪魔の鍛冶屋によって鍛造され、邪悪な魔法で加護された、最も高性能"
+"な鎧や武器にふさわしいのは最も強靭な鎧兵、暗黒の警護兵（ Dark Guardian ）だけ"
+"です。彼らは命令一つで雪崩にも容易に立ち向かえると言われています。"
+
+#. [attack]: type=impact
+#: Struggle_For_Freedom/units/humans-evil/Dark_Guardian.cfg:37
+#: Struggle_For_Freedom/units/humans-evil/Doom_Guard.cfg:35
+msgid "shield"
+msgstr "盾"
+
+#. [unit_type]: id=Dark Gunner, race=human
+#. [unit_type]: id=Dark Headhunter, race=human
+#. [unit_type]: id=Dark Invoker, race=human
+#. [unit_type]: id=Dark Knight, race=human
+#. [unit_type]: id=Dark Lorekeeper, race=human
+#. [unit_type]: id=Dark Magus, race=human
+#. [unit_type]: id=Dark Marauder, race=human
+#. [unit_type]: id=Dark Marksman, race=human
+#. [unit_type]: id=Dark Overlord, race=human
+#. [unit_type]: id=Dark Raider, race=human
+#. [unit_type]: id=Dark Razerman, race=human
+#. [unit_type]: id=Dark Sharpshooter, race=human
+#. [unit_type]: id=Dark Soulhunter, race=human
+#. [unit_type]: id=Doom Guard, race=human
+#: Struggle_For_Freedom/units/humans-evil/Dark_Gunner.cfg:21
+#: Struggle_For_Freedom/units/humans-evil/Dark_Headhunter.cfg:28
+#: Struggle_For_Freedom/units/humans-evil/Dark_Invoker.cfg:25
+#: Struggle_For_Freedom/units/humans-evil/Dark_Knight.cfg:17
+#: Struggle_For_Freedom/units/humans-evil/Dark_Lorekeeper.cfg:26
+#: Struggle_For_Freedom/units/humans-evil/Dark_Magus.cfg:26
+#: Struggle_For_Freedom/units/humans-evil/Dark_Marauder.cfg:27
+#: Struggle_For_Freedom/units/humans-evil/Dark_Marksman.cfg:21
+#: Struggle_For_Freedom/units/humans-evil/Dark_Overlord.cfg:24
+#: Struggle_For_Freedom/units/humans-evil/Dark_Raider.cfg:21
+#: Struggle_For_Freedom/units/humans-evil/Dark_Razerman.cfg:22
+#: Struggle_For_Freedom/units/humans-evil/Dark_Sharpshooter.cfg:22
+#: Struggle_For_Freedom/units/humans-evil/Dark_Soulhunter.cfg:28
+#: Struggle_For_Freedom/units/humans-evil/Doom_Guard.cfg:21
+msgid "TODO"
+msgstr "TODO"
+
+#. [attack]: type=blade
+#: Struggle_For_Freedom/units/humans-evil/Dark_Gunner.cfg:25
+msgid "short sword"
+msgstr "短剣"
+
+#. [attack]: type=pierce
+#: Struggle_For_Freedom/units/humans-evil/Dark_Gunner.cfg:34
+#: Struggle_For_Freedom/units/humans-evil/Dark_Marksman.cfg:34
+#: Struggle_For_Freedom/units/humans-evil/Dark_Sharpshooter.cfg:35
+msgid "thunderstick"
+msgstr "雷電棒"
+
+#. [unit_type]: id=Dark Headhunter, race=human
+#: Struggle_For_Freedom/units/humans-evil/Dark_Headhunter.cfg:5
+msgid "Dark Headhunter"
+msgstr "暗黒の首狩"
+
+#. [attack]: type=impact
+#: Struggle_For_Freedom/units/humans-evil/Dark_Headhunter.cfg:33
+#: Struggle_For_Freedom/units/humans-evil/Dark_Marauder.cfg:32
+#: Struggle_For_Freedom/units/humans-evil/Dark_Soulhunter.cfg:33
+msgid "club"
+msgstr "棍棒"
+
+#. [attack]: type=pierce
+#: Struggle_For_Freedom/units/humans-evil/Dark_Headhunter.cfg:42
+#: Struggle_For_Freedom/units/humans-evil/Dark_Marauder.cfg:52
+#: Struggle_For_Freedom/units/humans-evil/Dark_Soulhunter.cfg:53
+msgid "javelin"
+msgstr "投げ槍"
+
+#. [unit_type]: id=Dark Invoker, race=human
+#: Struggle_For_Freedom/units/humans-evil/Dark_Invoker.cfg:4
+msgid "Dark Invoker"
+msgstr "暗黒の加護者"
+
+#. [attack]: type=arcane
+#: Struggle_For_Freedom/units/humans-evil/Dark_Invoker.cfg:46
+#: Struggle_For_Freedom/units/humans-evil/Dark_Lorekeeper.cfg:60
+#: Struggle_For_Freedom/units/humans-evil/Dark_Magus.cfg:47
+msgid "ethereal blast"
+msgstr "エーテル爆弾"
+
+#. [unit_type]: id=Dark Knight, race=human
+#: Struggle_For_Freedom/units/humans-evil/Dark_Knight.cfg:5
+msgid "Dark Knight"
+msgstr "暗黒の騎士"
+
+#. [unit_type]: id=Dark Lorekeeper, race=human
+#: Struggle_For_Freedom/units/humans-evil/Dark_Lorekeeper.cfg:4
+msgid "Dark Lorekeeper"
+msgstr "暗黒の伝承者"
+
+#. [attack]: type=impact
+#: Struggle_For_Freedom/units/humans-evil/Dark_Lorekeeper.cfg:38
+#: Struggle_For_Freedom/units/humans-evil/Dark_Magus.cfg:38
+msgid "staff"
+msgstr "杖"
+
+#. [unit_type]: id=Dark Magus, race=human
+#: Struggle_For_Freedom/units/humans-evil/Dark_Magus.cfg:5
+msgid "Dark Magus"
+msgstr "暗黒の占星術師"
+
+#. [unit_type]: id=Dark Marauder, race=human
+#: Struggle_For_Freedom/units/humans-evil/Dark_Marauder.cfg:5
+msgid "Dark Marauder"
+msgstr "暗黒の略奪者"
+
+#. [unit_type]: id=Dark Overlord, race=human
+#: Struggle_For_Freedom/units/humans-evil/Dark_Overlord.cfg:5
+msgid "Dark Overlord"
+msgstr "暗黒の大君主"
+
+#. [attack]: type=blade
+#: Struggle_For_Freedom/units/humans-evil/Dark_Overlord.cfg:41
+msgid "battle axe"
+msgstr "戦闘斧"
+
+#. [unit_type]: id=Dark Raider, race=human
+#: Struggle_For_Freedom/units/humans-evil/Dark_Raider.cfg:5
+msgid "Dark Raider"
+msgstr "暗黒の盗賊"
+
+#. [attack]: type=fire
+#: Struggle_For_Freedom/units/humans-evil/Dark_Raider.cfg:50
+msgid "torch"
+msgstr "松明"
+
+#. [unit_type]: id=Dark Razerman, race=human
+#: Struggle_For_Freedom/units/humans-evil/Dark_Razerman.cfg:5
+msgid "Dark Razerman"
+msgstr "暗黒の破壊兵"
+
+#. [unit_type]: id=Dark Sharpshooter, race=human
+#: Struggle_For_Freedom/units/humans-evil/Dark_Sharpshooter.cfg:5
+msgid "Dark Sharpshooter"
+msgstr "暗黒の狙撃兵"
+
+#. [unit_type]: id=Dark Soulhunter, race=human
+#: Struggle_For_Freedom/units/humans-evil/Dark_Soulhunter.cfg:5
+msgid "Soulhunter"
+msgstr "霊魂ハンター"
+
+# 重複 ハイフンの有無
+#. [attack]: type=blade
+#: Struggle_For_Freedom/units/humans-evil/Dark_Soulhunter.cfg:41
+msgid "battle-axe"
+msgstr "戦闘斧"
+
+#. [unit_type]: id=Doom Guard, race=human
+#: Struggle_For_Freedom/units/humans-evil/Doom_Guard.cfg:5
+msgid "Doom Guard"
+msgstr "破滅の兵義兵"
+
+#. [unit_type]: id=Invader, race=human
+#: Struggle_For_Freedom/units/humans-evil/Invader.cfg:5
+msgid "Dark Invader"
+msgstr "暗黒の侵略者"
+
+#. [unit_type]: id=Invader, race=human
+#: Struggle_For_Freedom/units/humans-evil/Invader.cfg:20
+msgid "Invader"
+msgstr "侵略者"
+
+#. [unit_type]: id=Door, race=mechanical
+#: Struggle_For_Freedom/units/mechanical/Door.cfg:5
+msgid "Door"
+msgstr "扉"
+
+# 要確認
+# だれにでも開くかは不明。
+#. [unit_type]: id=Door, race=mechanical
+#: Struggle_For_Freedom/units/mechanical/Door.cfg:22
+msgid ""
+"The door will open only to those who are allied with its owners, unless "
+"struck down by their enemies first."
+msgstr ""
+"この扉は、持ち主か、同盟を結んでいるものだけ、開くことができます。ただし、彼"
+"らが敵に倒された場合は、誰に対しても開きます。"
+
+#. [unit_type]: id=Cave Spider, race=monster
+#: Struggle_For_Freedom/units/monsters/Cave_Spider.cfg:5
+msgid "Cave Spider"
+msgstr "洞窟グモ"
+
+#. [unit_type]: id=Cave Spider, race=monster
+#: Struggle_For_Freedom/units/monsters/Cave_Spider.cfg:18
+msgid ""
+"Smaller and weaker Cave Spiders are very common underground. They usually "
+"prey on single insects roaming around, but sometimes it is possible to find "
+"dwarven or human corpses trapped in their webs, which suggests they have "
+"little problem in eating big individuals fool enough to fall in their traps."
+msgstr ""
+"小型で弱い洞窟グモ（ Cave Spider ）は地下では最もよく見られます。通常は周辺を"
+"這い回る単独の昆虫を捕食しますが、時々、巣に掛かったドワーフや人間の死体が見"
+"つかることから、クモの巣に掛かるほど愚かな大きなものでも、ほぼ問題なく食べら"
+"れることを示唆しています。"
+
+#. [race]: id=dark elf
+#: Struggle_For_Freedom/units/units.cfg:53
+msgid "race^Corrupted Elf"
+msgstr "堕ちたエルフ"
+
+#. [race]: id=dark elf
+#: Struggle_For_Freedom/units/units.cfg:54
+msgid "race+female^Corrupted Elf"
+msgstr "堕ちたエルフ"
+
+#. [race]: id=dark elf
+#: Struggle_For_Freedom/units/units.cfg:55
+msgid "race^Corrupted Elves"
+msgstr "堕ちたエルフ"
+
+#. [race]: id=dark elf
+#: Struggle_For_Freedom/units/units.cfg:56
+msgid ""
+"Once just normal elves, the Corrupted Elves have been enchanted by some "
+"twisted mage. They no longer recognise other elves as friends work willingly "
+"side-by-side with undead."
+msgstr ""
+"かつては普通のエルフだった堕ちたエルフ（ Corrupted Elf ）は、歪んだ魔術師にに"
+"魔法を掛けられてしまいました。もはや他のエルフを友人としては認めず、喜んでア"
+"ンデッドと行動を共にします。"
