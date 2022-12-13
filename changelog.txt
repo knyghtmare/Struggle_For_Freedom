@@ -1,3 +1,7 @@
+Changelog 1.0.6.8
+--> S1: added missing flag variants to allied sides
+--> S3 & S11: added missing theme= value
+
 Changelog 1.0.6.7
 --> S5: widen encounter area (feedback response)
 
