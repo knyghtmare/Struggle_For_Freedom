@@ -1,3 +1,8 @@
+Changelog 1.0.7
+--> Units:
+    --> Fix level 1 of Uvollyn image not showing 
+    --> Bug was caused by doofus-01
+
 Changelog 1.0.6.8
 --> S1: added missing flag variants to allied sides
 --> S3 & S11: added missing theme= value
