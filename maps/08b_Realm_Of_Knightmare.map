@@ -1,8 +1,5 @@
-border_size=1
-usage=map
-
-Uh, Uh, Uh, Rd, Uu, Uu, Uu, Xu, Xos, Xos, Xos, Xos, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Ss, Ss, Ss, Ss, Xu, Xu, Xu, Xu, Rr, Rr, Rr, Rr, Cud, Cud
-Uh, Uh, Ss, Rd, Rd, Uu, Uu^Vud, Uh, Xos, Xos, Xos, Xu, Xu, Xu, Ss, Ww, Ss, Uu, Rr, Xu, Ss^Bw/, Ss^Bw/, Ss, Ss, Ss^Bw/, Xu, Ss^Bw\, Xu, Ss^Bw/, Ss, Ss^Vhs, Ss, Xu, Ss, Xu, Xu, Xu, Xu, Xu, Xu, Uu^Vud, Rr, Rr, Cud, Kud, Cud
+Uh, Uh, Uh, Rd, Uu, Uu, Uu, Xu, Xos, Xos, Xos, Xos, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Rr, Rr, Rr, Rr, Cud, Cud
+Uh, Uh, Ss, Rd, Rd, Uu, Uu^Vud, Uh, Xos, Xos, Xos, Xu, Xu, Xu, Ss, Ww, Ss, Uu, Rr, Xu, Ss^Bw/, Ss^Bw/, Ss, Ss, Ss^Bw/, Xu, Ss^Bw\, Xu, Ss^Bw/, Ss, Ss^Vhs, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Uu^Vud, Rr, Rr, Cud, Kud, Cud
 Ss, Ss, Ce, Ce, Ce, Re, Re, Uh, Xos, Xos, Xos, Xu, Uu, Ss^Vhs, Re, Re, Uu, Rr, Re, Ss, Uu^Tf, Xu, Xu, Ss, Xu, Ss, Xu, Ss^Bw\, Xu, Ss, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Rr, Rr, Rr, Cud, Cud, Cud
 Ss, Ss, Ce, 1 Ke, Ce, Rr, Re, Uh, Xos, Xos, Xu, Xu, Uu, Rd, Ss, Uu, Xu, Uu, Uu, Ss, Rr, Uu^Vu, Rr^Z/, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Rr, Rr, Rr, Rr, Uu^Vud, Rr, Rr, Rr
 Ss, Ss, Uu^Vu, Ce, Ss, Ss, Rd, Xos, Xos, Xos, Xu, Uu, Rr, Rr, Ss, Xu, Xu, Xu, Xu, Rr, Rr^Z/, Rr^Z/, Rr, Xos, Xos, Xos, Xos, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Rr, Xu, Xu, Rr, Rr, Rr, Rr, Uu^Vud, Rr
@@ -19,10 +16,10 @@ Xu, Xu, Xu, Xu, Rr, Ss, Rr, Xu, Xu, Re, Xu, Uu^Tf, Xu, Xu, Uu, Re, Xu, Xu, Uu, R
 Xu, Xu, Xu, Xu, Rr, Rd, Rr, Rr, Xu, Uu, Xu, Xu, Ss, Uu, Xu, Xu, Ss, Uh, Rd, Rd, Xu, Xos, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Rr, Xu, Xu, Xu, Rr, Xu, Xu, Xu, Xu, Xu
 Xu, Xu, Xu, Xu, Uu, Rd, Re, Rr, Xu, Re, Re, Ss, Xu, Xu, Ss, Ss, Ww, Rd, Ss, Xu, Ss, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Rr, Uu^Vud, Rr, Xu, Xu, Xu, Xu, Xu, Xu
 Xu, Xu, Xu, Xu, Xu, Uu, Re, Rr, Xu, Xu, Xu, Xu, Xu, Xu, Ss, Ww, Ss, Ww, Ss, Ss^Bw\, Ss^Bw\, Ss, Ss, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu
-Xu, Xu, Xu, Xu, Xu, Ss, Re, Rr, Rr, Xu, Rr, Uu^Tf, Uu, Uh, Ss^Bw/, Ss^Bw/, Uu, Ss, Xu, Xu, Ss, Ss^Bw\, Ss^Bw\, Ss, Ss, Ss, Ss, Ss, Ss, Ss, Ss, Ss, Ss, Ss, Ss, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu
-Xu, Xu, Xu, Xu, Xu, Ss, Ss, Rr, Rr, Rr, Rd, Rr, Re, Rd, Uh, Uu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Ss, Xu, Ss, Ss^Bw/, Ss^Bw/, Ss, Ss^Vhs, Ss, Ss, Ss, Ss, Ss, Ss, Ss, Ss, Ss, Ss, Ss, Ss, Ss, Xu, Ss, Xu
-Xu, Xu, Xu, Xu, Xu, Uu, Ss, Ss, Ss, Rd, Uu^Vu, Re, Uu, Uh, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Ss, Xu, Ss, Ss, Ss, Ss, Ss, Ss, Ss, Ss, Ss
-Xu, Xu, Xu, Xu, Xu, Xu, Xu, Ww, Ww, Ss, Uu, Uu^Tf, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Ss, Xu, Ss, Xu, Ss
+Xu, Xu, Xu, Xu, Xu, Ss, Re, Rr, Rr, Xu, Rr, Uu^Tf, Uu, Uh, Ss^Bw/, Ss^Bw/, Uu, Ss, Xu, Xu, Ss, Ss^Bw\, Ss^Bw\, Ss, Ss, Ss, Ss, Ss, Ss, Ss, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu
+Xu, Xu, Xu, Xu, Xu, Ss, Ss, Rr, Rr, Rr, Rd, Rr, Re, Rd, Uh, Uu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Ss, Xu, Ss, Ss^Bw/, Ss^Bw/, Ss, Ss^Vhs, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu
+Xu, Xu, Xu, Xu, Xu, Uu, Ss, Ss, Ss, Rd, Uu^Vu, Re, Uu, Uh, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu
+Xu, Xu, Xu, Xu, Xu, Xu, Xu, Ww, Ww, Ss, Uu, Uu^Tf, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu
 Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu
 Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Qlf, Xu, Qlf, Xu, Ql, Qlf, Ql, Ql, Ql, Ql, Ql, Xu, Ql, Xu, Xu, Xu
 Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Ds, Xu, Ds, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Qlf, Qlf, Cud, Qlf, Ql, Ql, Rr, Ql, Rr, Rr, Rr, Rr, Rr, Ql, Rr, Ql, Ql, Xu
@@ -39,8 +36,8 @@ Wwf, Khw, Ww, Wo, Ww, Wwf, Xu, Xu, Xu, Xu, Ds, Xu, Ww, Ww^Vm, Wwf, Wwf, Wwf, Wwf
 Wwf, Wwf, Ww, Ww, Ds, Xu, Xu, Xu, Xu, Ds, Wwf, Wwf, Wwf, Wwf, Chw, Ww, Ww, Ww, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Qlf, Xu, Xu, Xu, Xu, Xu, Ql, Ql, Ql, Ql, Ql, Qlf, Ql, Ql, Ql, Ql, Ql, Ql, Ql, Ql, Ql
 Ww, Ww, Xu, Ds, Xu, Xu, Xu, Xu, Ww, Ww, Wwf, Ww, Wo, Chw, Khw, Wwf, Ww, Ww, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Qlf, Xu, Qlf, Xu, Xu, Xu, Xu, Xu, Ql, Xu, Ql
 Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Wwf, Wwf, Wwf, Ww, Ww, Ww, Wwf, Wwf, Xu, Ww, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu
-Ww, Xu, Ww, Xu, Ww, Xu, Ww, Xu, Wwf, Cv, Wwf, Wwf, Ww, Wwf, Wwf, Wwf, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu
-Xu, Ww, Xu, Ww, Xu, Ww, Xu, Ww, Xu, Wwf, Wwf, Ww^Vm, Xu, Ds, Ds, Ds, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu
+Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Wwf, Cv, Wwf, Wwf, Ww, Wwf, Wwf, Wwf, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu
+Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Wwf, Wwf, Ww^Vm, Xu, Ds, Ds, Ds, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu
 Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Gs, Xu, Xu, Xu, Ds, Xu, Hd, Xu, Hd, Xu, Ds, Xu, Ds, Xu, Ds, Xu
 Dd, Xu, Dd, Xu, Xu, Xu, Xu, Xu, Md, Xu, Md, Xu, Xu, Xu, Hd, Xu, Hd, Xu, Xu, Xu, Ds, Xu, Ds, Xu, Rd, Dd, Rd, Dd, Dd, Dd, Dd, Gs, Gs, Ds, Ds, Hd, Hd, Hd, Hd, Hd, Hd, Hd, Dd^Vda, Dd^Dr, Ds, Ds
 Dd, Dd, Ds, Dd, Dd, Ds, Dd, Ds, Ds, Md, Md, Md, Ds, Hd, Dd, Hd, Hd, Dd, Hd, Ds, Ds, Ds, Dd^Vdt, Rd, Rd, Rd, Dd, Rd, Rd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Hd, Hd, Dd, Dd, Hd, Dd, Ds, Gs, Ds
