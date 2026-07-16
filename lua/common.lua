@@ -210,14 +210,42 @@ function wesnoth.wml_actions.setup_doors(cfg)
 	local locs = wesnoth.map.find(cfg)
 
 	for k, loc in ipairs(locs) do
-		if not wesnoth.units.get(loc[1], loc[2]) then
+		-- Is this an open door?
+		local is_closed = not loc.overlay_terrain:match("o$")
+		local is_vacant = not wesnoth.units.get(loc.x, loc.y)
+		if is_closed and is_vacant then
 			wesnoth.units.to_map({
 				type = "Door",
 				side = owner_side,
-				id = ("__door_X%dY%d"):format(loc[1], loc[2]),
-			}, loc[1], loc[2])
+				id = ("__door_X%dY%d"):format(loc.x, loc.y),
+			}, loc.x, loc.y)
 		end
 	end
+end
+
+---
+-- Opens door tiles. Takes a SLF and nothing else.
+--
+-- Note that it only matches actual gate tiles (^P*, ^Zz*). The terrain= key
+-- in the SLF is ignored as a result.
+---
+function wesnoth.wml_actions.open_doors(cfg)
+	cfg = wml.parsed(cfg)
+	cfg["terrain"] = "*^P*,*^Zz*"
+	local locs = wesnoth.map.find(cfg)
+
+	for k, loc in ipairs(locs) do
+		if loc.overlay_terrain:match("o$") then
+			-- It's open, ignore
+			goto continue
+		end
+
+		local newtile = wesnoth.current.map[{loc.x, loc.y}] .. "o"
+		wesnoth.current.map[{loc.x, loc.y}] = wesnoth.map.replace_overlay(newtile)
+
+		::continue::
+	end
+
 end
 
 ---
