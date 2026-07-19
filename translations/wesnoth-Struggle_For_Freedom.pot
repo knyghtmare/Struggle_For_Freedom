@@ -2909,7 +2909,7 @@ msgstr ""
 msgid "This wall is fake."
 msgstr ""
 
-#. [unit]: type=Cave Spider, id=Spider
+#. [unit]: type=Shadow Jumping Spider, id=Spider
 #: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:493
 msgid "Spider"
 msgstr ""
@@ -4652,14 +4652,14 @@ msgstr ""
 msgid "The door will open only to those who are allied with its owners, unless struck down by their enemies first."
 msgstr ""
 
-#. [unit_type]: id=Cave Spider, race=monster
+#. [unit_type]: id=Shadow Jumping Spider, race=monster
 #: Struggle_For_Freedom/units/monsters/Cave_Spider.cfg:5
-msgid "Cave Spider"
+msgid "Shadow Jumping Spider"
 msgstr ""
 
-#. [unit_type]: id=Cave Spider, race=monster
+#. [unit_type]: id=Shadow Jumping Spider, race=monster
 #: Struggle_For_Freedom/units/monsters/Cave_Spider.cfg:18
-msgid "Smaller and weaker Cave Spiders are very common underground. They usually prey on single insects roaming around, but sometimes it is possible to find dwarven or human corpses trapped in their webs, which suggests they have little problem in eating big individuals fool enough to fall in their traps."
+msgid "Smaller and weaker Shadow Jumping Spiders are very common underground. They usually prey on single insects roaming around, but sometimes it is possible to find dwarven or human corpses trapped in their webs, which suggests they have little problem in eating big individuals fool enough to fall in their traps."
 msgstr ""
 
 #. [race]: id=dark elf
