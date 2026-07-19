@@ -3544,7 +3544,7 @@ msgstr "探索者どもに死を！"
 msgid "This wall is fake."
 msgstr "この壁は偽物だ。"
 
-#. [unit]: type=Cave Spider, id=Spider
+#. [unit]: type=Shadow Jumping Spider, id=Spider
 #: Struggle_For_Freedom/scenarios/08b_Realm_Of_Knightmare.cfg:493
 msgid "Spider"
 msgstr "クモ"
@@ -5751,20 +5751,20 @@ msgstr ""
 "この扉は、持ち主か、同盟を結んでいるものだけ、開くことができます。ただし、彼"
 "らが敵に倒された場合は、誰に対しても開きます。"
 
-#. [unit_type]: id=Cave Spider, race=monster
+#. [unit_type]: id=Shadow Jumping Spider, race=monster
 #: Struggle_For_Freedom/units/monsters/Cave_Spider.cfg:5
-msgid "Cave Spider"
+msgid "Shadow Jumping Spider"
 msgstr "洞窟グモ"
 
-#. [unit_type]: id=Cave Spider, race=monster
+#. [unit_type]: id=Shadow Jumping Spider, race=monster
 #: Struggle_For_Freedom/units/monsters/Cave_Spider.cfg:18
 msgid ""
-"Smaller and weaker Cave Spiders are very common underground. They usually "
+"Smaller and weaker Shadow Jumping Spiders are very common underground. They usually "
 "prey on single insects roaming around, but sometimes it is possible to find "
 "dwarven or human corpses trapped in their webs, which suggests they have "
 "little problem in eating big individuals fool enough to fall in their traps."
 msgstr ""
-"小型で弱い洞窟グモ（ Cave Spider ）は地下では最もよく見られます。通常は周辺を"
+"小型で弱い洞窟グモ（ Shadow Jumping Spider ）は地下では最もよく見られます。通常は周辺を"
 "這い回る単独の昆虫を捕食しますが、時々、巣に掛かったドワーフや人間の死体が見"
 "つかることから、クモの巣に掛かるほど愚かな大きなものでも、ほぼ問題なく食べら"
 "れることを示唆しています。"
