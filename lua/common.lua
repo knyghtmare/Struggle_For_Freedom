@@ -2,6 +2,25 @@
 -- General-purpose Lua WML actions.
 ---
 
+function wesnoth.wml_actions.unit_worth_x(cfg)
+	local u = wesnoth.units.find(cfg)[1] or
+		wml.error "[unit_worth]'s filter didn't match any unit"
+	local ut = wesnoth.unit_types[u.type]
+	local hp = u.hitpoints / u.max_hitpoints
+	local xp = u.experience / u.max_experience
+	local best_adv = ut.cost
+	for _,w in ipairs(ut.advances_to) do
+		local uta = wesnoth.unit_types[w]
+		if uta and uta.cost > best_adv then best_adv = uta.cost end
+	end
+	wml.variables["cost"] = ut.cost
+	wml.variables["next_cost"] = best_adv
+	wml.variables["health"] = math.floor(hp * 100)
+	wml.variables["experience"] = math.floor(xp * 100)
+	wml.variables["recall_cost"] = ut.recall_cost
+	wml.variables["unit_worth"] = math.floor(math.max(ut.cost * hp, best_adv * xp))
+end
+
 -- NOTE: taken from data/lua/wml-tags.lua:
 -- "when using these, make sure that nothing can throw over the call to end_var_scope"
 local function start_var_scope(name)
