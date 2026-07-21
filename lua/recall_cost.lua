@@ -1,15 +1,28 @@
 -- original code credits to fluffbeast
 -- modified by Lord-Knightmare to accomodate lvl 1 and lvl 2 units
 
-local cost_lvl_zero = 10 
-local cost_lvl_one = 15
-
 for _, unit in ipairs(wesnoth.units.find_on_recall {}) do
     if unit.level == 0 then
-        unit.recall_cost = cost_lvl_zero
+        unit.recall_cost = 10
     end
 
     if unit.level == 1 then
-        unit.recall_cost = cost_lvl_one
+        unit.recall_cost = 15
+    end
+
+    if unit.level == 2 then
+        unit.recall_cost = 20
+    end
+
+    if unit.level == 3 then
+        unit.recall_cost = 25
+    end
+
+    if unit.level == 4 then
+        unit.recall_cost = 30
+    end
+
+    if unit.level > 4 then
+        unit.recall_cost = 35
     end
 end
