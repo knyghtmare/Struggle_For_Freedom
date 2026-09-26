@@ -1,3 +1,7 @@
+Changelog 1.0.17
+
+--> Several bug fixes and patches
+
 Changelog 1.0.7
 --> Units:
     --> Fix level 1 of Uvollyn image not showing 
